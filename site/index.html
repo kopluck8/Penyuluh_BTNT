@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Penyuluh BTNT</title>
+  <meta name="description" content="Dashboard hasil penyuluhan, pemberdayaan masyarakat, dan kegiatan teknis Balai Taman Nasional Tambora 2020–2026.">
+  <meta name="theme-color" content="#0b0f17">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232563eb'/%3E%3Cpath d='M6 23l7-11 4 6 3-4 6 9z' fill='%23fff'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <script>
+    try { var t = localStorage.getItem("btnt-theme"); if (t) document.documentElement.setAttribute("data-theme", t); } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="sr-only" href="#ringkasan">Langsung ke isi</a>
+
+  <nav class="nav" id="nav" aria-label="Navigasi utama">
+    <a class="brand" href="#top">
+      <span class="brand-mark" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 32 32"><path d="M2 26l10-16 6 9 4-6 8 13z" fill="#fff"/></svg></span>
+      Penyuluh BTNT <small>TN Tambora</small>
+    </a>
+    <div class="nav-links" id="nav-links">
+      <a href="#ringkasan">Ringkasan</a>
+      <a href="#kelompok">Kelompok binaan</a>
+      <a href="#penyuluhan">Program</a>
+      <a href="#teknis">Hasil teknis</a>
+      <a href="#laporan">Laporan</a>
+      <a href="#panduan">Cara membaca</a>
+    </div>
+    <button class="icon-btn menu-btn" id="menu-btn" aria-label="Buka menu" aria-expanded="false" aria-controls="nav-links">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+    <button class="icon-btn" id="theme-btn" aria-label="Ganti tema terang atau gelap">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" id="theme-icon"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+    </button>
+  </nav>
+
+  <header class="hero" id="top">
+    <div class="wrap">
+      <span class="eyebrow"><span class="dot"></span>Data 2020–2026 · diperbarui dari laporan LPK/RPK</span>
+      <h1>Kondisi kelompok binaan <span>TN Tambora</span> dari tahun ke tahun</h1>
+      <p class="lead">Semua laporan penyuluhan, pemberdayaan masyarakat, dan kegiatan teknis Balai Taman Nasional Tambora dikurasi menjadi satu tempat: siapa yang didampingi, bagaimana kondisinya, apa yang sudah diberikan, dan apa yang masih menjadi kendala.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#kelompok">Lihat kelompok binaan</a>
+        <a class="btn btn-ghost" href="#laporan">Cari laporan</a>
+      </div>
+      <div class="hero-strip" id="hero-strip" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <main id="app">
+    <section class="block" id="ringkasan">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="kicker">Ringkasan</div>
+            <h2>Angka kunci</h2>
+            <p>Dihitung dari seluruh laporan di dua folder Drive. Setiap angka bisa ditelusuri ke laporan aslinya di bagian Laporan.</p>
+          </div>
+        </div>
+        <div class="grid g-5" id="kpi"></div>
+        <div class="grid g-2" style="margin-top:16px">
+          <div class="card span-2">
+            <h3>Kegiatan penyuluhan dan pemberdayaan per tahun</h3>
+            <p class="sub">Jumlah laporan kegiatan, dikelompokkan menurut jenisnya.</p>
+            <div id="ch-penyuluhan-tahun"></div>
+          </div>
+          <div class="card">
+            <h3>Sebaran kegiatan per resort</h3>
+            <p class="sub">Semakin gelap, semakin banyak kegiatan di resort dan tahun itu.</p>
+            <div id="ch-resort-tahun"></div>
+          </div>
+          <div class="card">
+            <h3>Resort dengan kegiatan terbanyak</h3>
+            <p class="sub">Penyuluhan dan kegiatan teknis digabung, 2020–2026.</p>
+            <ol class="rank" id="rank-resort"></ol>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="kelompok">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="kicker">Kelompok binaan</div>
+            <h2>Kondisi kelompok dari tahun ke tahun</h2>
+            <p>Setiap baris adalah satu kelompok. Setiap kotak adalah kondisi kelompok pada tahun itu menurut laporan pendampingan atau monev. Kotak kosong berarti kelompok tidak dilaporkan pada tahun itu, bukan berarti tidak aktif.</p>
+          </div>
+        </div>
+        <div class="grid g-5" id="kpi-kelompok"></div>
+        <div class="filters" role="search" aria-label="Saring kelompok" style="margin-top:16px">
+          <label>Resort<select id="fk-resort"><option value="">Semua resort</option></select></label>
+          <label>Jenis kelompok<select id="fk-jenis"><option value="">Semua jenis</option></select></label>
+          <label>Kondisi terakhir<select id="fk-status"><option value="">Semua kondisi</option></select></label>
+          <label>Cari<input type="search" id="fk-q" placeholder="Nama kelompok atau desa"></label>
+          <button class="btn btn-ghost reset" id="fk-reset" type="button">Atur ulang</button>
+        </div>
+        <div class="card">
+          <h3>Riwayat kondisi kelompok</h3>
+          <p class="sub" id="kelompok-count"></p>
+          <div id="ch-status-matrix"></div>
+        </div>
+        <div class="grid g-2" style="margin-top:16px">
+          <div class="card">
+            <h3>Kondisi kelompok per tahun</h3>
+            <p class="sub">Jumlah kelompok menurut kondisi yang dilaporkan pada tahun itu.</p>
+            <div id="ch-status-tahun"></div>
+          </div>
+          <div class="card">
+            <h3>Bidang usaha kelompok</h3>
+            <p class="sub">Jumlah kelompok menurut usaha atau kegiatan utamanya.</p>
+            <div id="ch-usaha"></div>
+          </div>
+          <div class="card">
+            <h3>Kendala yang paling sering muncul</h3>
+            <p class="sub">Dihitung dari catatan kendala kelompok di laporan pendampingan dan monev.</p>
+            <div id="ch-kendala"></div>
+          </div>
+          <div class="card">
+            <h3>Kelompok yang paling sering didampingi</h3>
+            <p class="sub">Jumlah laporan yang membahas kelompok tersebut.</p>
+            <ol class="rank" id="rank-kelompok"></ol>
+          </div>
+        </div>
+        <div id="kelompok-empty"></div>
+      </div>
+    </section>
+
+    <section class="block" id="penyuluhan">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="kicker">Program penyuluhan &amp; pemberdayaan</div>
+            <h2>Semua kegiatan di folder penyuluhan</h2>
+            <p>Seluruh 260 laporan dikelompokkan menjadi 15 jenis kegiatan: pendampingan dan monev kelompok, pembentukan kelompok, penyusunan rencana, bantuan, kemitraan dan kesepakatan konservasi, pemulihan ekosistem, Tambora Goes To School, kader konservasi, sosialisasi karhutla dan zonasi, penanganan sampah, penyadartahuan, dan lainnya.</p>
+          </div>
+        </div>
+        <div class="card">
+          <h3>Jenis kegiatan per tahun</h3>
+          <p class="sub">Jumlah laporan untuk tiap jenis kegiatan. Klik nama jenis untuk membuka ringkasannya di bawah.</p>
+          <div id="ch-jenis-tahun"></div>
+        </div>
+        <div class="card" style="margin-top:16px" id="program">
+          <h3>Ringkasan per program</h3>
+          <p class="sub">Pilih jenis kegiatan untuk membaca apa yang dikerjakan, apa yang ditemukan, dan daftar semua laporannya.</p>
+          <div class="ptabs" id="prog-tabs" role="tablist" aria-label="Jenis kegiatan"></div>
+          <div id="prog-panel" role="tabpanel"></div>
+        </div>
+        <div class="grid g-2" style="margin-top:16px">
+          <div class="card">
+            <h3>Peserta yang tercatat per tahun</h3>
+            <p class="sub">Jumlah peserta yang disebut di laporan. Laporan yang tidak menyebut jumlah peserta tidak ikut dihitung.</p>
+            <div id="ch-peserta"></div>
+          </div>
+          <div class="card">
+            <h3>Desa yang paling sering dikunjungi</h3>
+            <p class="sub">Jumlah kegiatan penyuluhan dan pemberdayaan per desa.</p>
+            <div id="ch-desa"></div>
+          </div>
+          <div class="card span-2">
+            <h3>Sekolah yang dikunjungi Tambora Goes To School</h3>
+            <p class="sub" id="gts-sub"></p>
+            <div id="gts-list"></div>
+          </div>
+        </div>
+        <div class="timeline" id="timeline-masyarakat" style="margin-top:16px"></div>
+      </div>
+    </section>
+
+    <section class="block" id="teknis">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="kicker">Hasil teknis</div>
+            <h2>Kondisi kawasan dan peran warga di kegiatan teknis</h2>
+            <p>Dari 96 laporan teknis Pengendali Ekosistem Hutan: monitoring satwa kunci, flora, tumbuhan invasif, tutupan lahan, mata air, dan stok karbon.</p>
+          </div>
+        </div>
+        <div class="grid g-2">
+          <div class="card">
+            <h3>Laporan teknis per tahun</h3>
+            <p class="sub">Menurut tema kegiatan.</p>
+            <div id="ch-teknis-tahun"></div>
+          </div>
+          <div class="card">
+            <h3>Peran warga di kegiatan teknis</h3>
+            <p class="sub">Jumlah laporan teknis yang mencatat bentuk keterlibatan ini.</p>
+            <div id="ch-peran"></div>
+          </div>
+          <div class="card">
+            <h3>Ancaman yang dilaporkan</h3>
+            <p class="sub">Jumlah laporan teknis yang menyebut ancaman ini, per tahun.</p>
+            <div id="ch-ancaman"></div>
+          </div>
+          <div class="card">
+            <h3>Elang flores yang teramati</h3>
+            <p class="sub">Individu per laporan monitoring. Lingkaran penuh: teramati langsung. Lingkaran kosong: dugaan atau estimasi.</p>
+            <div id="ch-elang"></div>
+          </div>
+          <div class="card span-2">
+            <h3>Rusa timor di Doro Ncanga</h3>
+            <p class="sub">Garis: individu yang terlihat langsung. Pita: kisaran taksiran dari jejak kaki (minimum–maksimum).</p>
+            <div id="ch-rusa"></div>
+            <div class="caveat"><b>Catatan metode.</b> Perjumpaan langsung dan taksiran dari jejak memakai metode berbeda, jadi keduanya tidak dijumlahkan. Turunnya perjumpaan langsung sejak 2022 perlu dibaca bersama perubahan lokasi transek.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block" id="laporan">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="kicker">Laporan</div>
+            <h2>Jelajahi semua laporan</h2>
+            <p>Klik kartu untuk membaca ringkasan, temuan, kendala, rekomendasi, dan membuka berkas aslinya di Google Drive.</p>
+          </div>
+        </div>
+        <div class="filters" role="search" aria-label="Saring laporan">
+          <label>Kumpulan<select id="fl-sumber"><option value="">Semua laporan</option><option value="penyuluhan">Penyuluhan &amp; pemberdayaan</option><option value="teknis">Teknis PEH</option></select></label>
+          <label>Tahun<select id="fl-tahun"><option value="">Semua tahun</option></select></label>
+          <label>Resort<select id="fl-resort"><option value="">Semua resort</option></select></label>
+          <label>Jenis<select id="fl-jenis"><option value="">Semua jenis</option></select></label>
+          <label>Cari<input type="search" id="fl-q" placeholder="Judul, desa, kelompok, jenis satwa"></label>
+          <button class="btn btn-ghost reset" id="fl-reset" type="button">Atur ulang</button>
+        </div>
+        <p class="count-line" id="fl-count" aria-live="polite"></p>
+        <div class="cards" id="cards"></div>
+        <div class="more"><button class="btn btn-ghost" id="more-btn" type="button">Tampilkan lebih banyak</button></div>
+      </div>
+    </section>
+
+    <section class="block" id="panduan">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <div class="kicker">Cara membaca</div>
+            <h2>Prinsip penyajian data di dashboard ini</h2>
+            <p>Ringkasan dari <a href="https://github.com/kopluck8/Penyuluh_BTNT/blob/main/docs/03-panduan-penyajian-data.md">panduan penyajian data</a> di repo.</p>
+          </div>
+        </div>
+        <div class="guide">
+          <div class="card"><h3>Mulai dari pertanyaan</h3><p>Setiap bagian menjawab satu pertanyaan: berapa, bagaimana perubahannya, di mana, dan mengapa. Bila jawabannya satu angka, yang ditampilkan angkanya.</p></div>
+          <div class="card"><h3>Kosong bukan nol</h3><p>Kotak kosong di riwayat kelompok berarti tidak ada laporan tahun itu. Kelompok baru dianggap tidak aktif bila laporan menyebutnya begitu.</p></div>
+          <div class="card"><h3>Metode berbeda tidak dijumlahkan</h3><p>Angka satwa dari perjumpaan langsung dan dari jejak ditampilkan terpisah, lengkap dengan nama indikator aslinya.</p></div>
+          <div class="card"><h3>Warna punya arti</h3><p>Hijau, kuning, oranye, dan merah hanya untuk kondisi kelompok, selalu dengan label. Warna lain menandai jenis kegiatan dan tidak berubah saat difilter.</p></div>
+          <div class="card"><h3>Selalu ada tabelnya</h3><p>Setiap grafik punya tombol "Lihat tabel" untuk membaca angka persisnya, dan semua data tersedia sebagai CSV di repo.</p></div>
+          <div class="card"><h3>Telusuri ke sumber</h3><p>Setiap kartu laporan menautkan berkas asli di Google Drive. Ringkasan dibuat dengan bantuan mesin, jadi cek berkas asli untuk angka penting.</p></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap cols">
+      <div>
+        <b>Penyuluh BTNT</b><br>
+        Dashboard kurasi laporan Balai Taman Nasional Tambora.<br>
+        Dibangun dari laporan LPK/RPK 2020–2026.
+      </div>
+      <div>
+        <b>Data &amp; dokumen</b>
+        <ul>
+          <li><a href="https://github.com/kopluck8/Penyuluh_BTNT">Repo GitHub</a></li>
+          <li><a href="https://github.com/kopluck8/Penyuluh_BTNT/tree/main/docs">Penjelasan lengkap per topik</a></li>
+          <li><a href="https://github.com/kopluck8/Penyuluh_BTNT/tree/main/data">Unduh data (CSV/JSON)</a></li>
+        </ul>
+      </div>
+      <div>
+        <b>Sumber</b>
+        <ul id="footer-sources"></ul>
+      </div>
+    </div>
+  </footer>
+
+  <div class="tooltip" id="tooltip" role="status" aria-live="polite"></div>
+  <dialog class="detail" id="detail" aria-labelledby="detail-title">
+    <div class="detail-head">
+      <div><div id="detail-meta" class="meta-row"></div><h3 id="detail-title"></h3></div>
+      <button class="icon-btn" id="detail-close" aria-label="Tutup"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </div>
+    <div class="detail-body" id="detail-body"></div>
+  </dialog>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

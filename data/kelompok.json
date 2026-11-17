@@ -1,0 +1,5226 @@
+[
+ {
+  "id": "k00",
+  "nama": "Fokus Tambora PD",
+  "desa": "Doropeti",
+  "resort": "Doropeti",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok wisata alam",
+  "usaha": "Wisata alam",
+  "ketua": null,
+  "dibentuk": "2018",
+  "dasar_pembentukan": "SK kelompok dari Desa Doropeti; SK lama sedang ditelusuri dan direncanakan diperbarui",
+  "tahun_terakhir": 2024,
+  "status_terakhir": "tidak aktif",
+  "riwayat": {
+   "2020": {
+    "status": "tidak disebut",
+    "anggota": 30,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok binaan di Desa Doropeti yang mengikuti penyusunan RPP secara partisipatif. Dokumen menyebut kelompok telah menerima bantuan perlengkapan pendakian, tetapi tidak…",
+    "kendala": [],
+    "tema_kendala": [
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pembentukan guide dan porter",
+     "Sertifikasi pemandu wisata gunung"
+    ],
+    "bantuan": [
+     "Perlengkapan pendakian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p000"
+    ]
+   },
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Peralatan bantuan masih disimpan oleh anggota bagian perlengkapan. Peralatan disewakan, tetapi hanya sedikit masyarakat yang menyewa; anggota kelompok lebih banyak menggunakannya…",
+    "kendala": [
+     "Progres usaha dan jumlah pelanggan masih rendah",
+     "Sebagian peralatan bantuan rusak atau tidak utuh",
+     "SK lama belum ditemukan dan kelembagaan perlu diperbarui"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Menelusuri dan memperbarui SK kelompok",
+     "Membuat pembukuan inventaris dan peminjaman barang"
+    ],
+    "bantuan": [
+     "Peralatan pendakian",
+     "Kursi lipat",
+     "Tas carrier",
+     "Matras"
+    ],
+    "produk": [
+     "Tidak disebut; peralatan pendakian disewakan tetapi pelanggan masih sedikit."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p083",
+     "p087",
+     "p109"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Hanya disebut dalam daftar kelompok binaan SPTN II Pekat/Kempo; rincian kondisi tidak tersedia.",
+    "kendala": [
+     "Pasar penyewaan terbatas karena belum ada jalur pendakian di desa",
+     "Anggota jarang berkumpul karena kesibukan masing-masing",
+     "Promosi alat pendakian kurang"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Meningkatkan kekompakan dan keseriusan menjalankan program kerja",
+     "Mengembangkan promosi"
+    ],
+    "bantuan": [
+     "Alat-alat pendakian",
+     "Kursi lipat",
+     "Tas carrier",
+     "Matras"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p153",
+     "p159",
+     "p176"
+    ]
+   },
+   "2024": {
+    "status": "tidak aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Stagnan"
+    ],
+    "kondisi": "Anggota kelompok disebut tidak aktif; hanya ketua dan bendahara yang hadir dalam pertemuan dengan pihak TN Tambora. Tidak ada kemajuan berarti. Keberadaan alat bantuan tersebar…",
+    "kendala": [
+     "Kelompok tidak berjalan dan tidak aktif.",
+     "Ketua dan anggota sulit ditemui.",
+     "Inventaris alat sewa pendakian dilaporkan hilang."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Evaluasi dan kajian ulang kelayakan kelompok.",
+     "Tindak lanjut terhadap kondisi kelompok dan inventarisnya."
+    ],
+    "bantuan": [
+     "Alat pendakian, antara lain carrier, matras, dan sleeping bag"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p231",
+     "p243"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k01",
+  "nama": "KPA Algura",
+  "desa": "Kawinda Toi",
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok pecinta alam",
+  "usaha": "Wisata alam",
+  "ketua": "Tubiansyah",
+  "dibentuk": "2022",
+  "dasar_pembentukan": "Keputusan Kepala Desa Kawinda To’i No. 06 Tahun 2016 tanggal 13 Juni 2016",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2020": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Aktivitas kelompok berkurang selama COVID-19 dan terjadi pergantian pengurus. Sebagian barang bantuan masih berada pada pengurus lama. Jalur pendakian Kawinda Toi, termasuk…",
+    "kendala": [
+     "Kendala wisata yang dibahas meliputi jumlah pengunjung, keamanan, dan pengelolaan sumber daya manusia.",
+     "Aktivitas kelompok berkurang selama COVID-19.",
+     "Sebagian barang bantuan masih berada pada pengurus lama."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Promosi, sarana dan prasarana, perbaikan manajemen dan akses jalan, peningkatan keamanan, serta…",
+     "Menginventarisasi dan mengumpulkan barang bantuan di satu tempat."
+    ],
+    "bantuan": [
+     "Barang bantuan, jenis dan jumlah tidak dirinci"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p001",
+     "p008"
+    ]
+   },
+   "2021": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai salah satu dari tiga kelompok binaan yang mendukung potensi wisata di Kawinda To’i. Dokumen menyebut bantuan peralatan pendakian telah diberikan, tetapi kondisi…",
+    "kendala": [
+     "Sebagian pendaki tidak menggunakan jasa guide dan porter.",
+     "Anggota belum menguasai promosi melalui media sosial.",
+     "Perlu kejelasan koordinasi dan keterbukaan laporan keuangan dengan River Tubing."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Bimbingan rutin untuk menyelesaikan permasalahan kelompok.",
+     "Bimbingan teknis promosi melalui media sosial."
+    ],
+    "bantuan": [
+     "Bantuan sesuai usaha ekonomi kreatif; rincian tidak disebutkan",
+     "Peralatan pendakian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p029",
+     "p032"
+    ]
+   },
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": 25,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Administrasi tercatat dalam satu buku, tetapi pertemuan mandiri tidak rutin. Peralatan bantuan tersimpan di beberapa orang sehingga sulit dicari; sebagian rusak dan tidak layak…",
+    "kendala": [
+     "Banyak pendaki tidak menggunakan jasa guide dan porter.",
+     "Kekosongan ketua kelompok",
+     "Perlengkapan pendakian tersebar dan belum didata serta diperiksa kembali"
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Meningkatkan pelayanan kepada wisatawan.",
+     "Mengembangkan dan mempromosikan paket wisata pendakian."
+    ],
+    "bantuan": [
+     "Alat bantuan dari Taman Nasional Tambora; jenis tidak dirinci",
+     "Perlengkapan alat pendakian",
+     "Perlengkapan camping dan pendakian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p051",
+     "p060",
+     "p061",
+     "p073",
+     "p080"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "1,3 — cukup berhasil"
+    ],
+    "kondisi": "Disebut sebagai sasaran monitoring dan evaluasi; rincian kondisi, bantuan, dan anggota tidak tersedia dalam teks yang diberikan.",
+    "kendala": [
+     "Pertemuan rutin belum terlaksana",
+     "Bantuan hilang atau rusak",
+     "Belum ada administrasi penyewaan"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Menjadwalkan pertemuan rutin minimal sebulan sekali",
+     "Menyimpan bantuan di gudang Kantor Resort Kawinda Toi"
+    ],
+    "bantuan": [
+     "Seperangkat alat camping"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p118",
+     "p134",
+     "p147",
+     "p151"
+    ]
+   },
+   "2024": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Ketua kelompok diundang sebanyak 1 orang. Tidak ada uraian tentang kondisi kelembagaan, usaha, atau pemanfaatan bantuan.",
+    "kendala": [
+     "Kekurangan disebut sama dengan Kelompok River Tubing, tetapi rincian lanjutannya tidak tersedia pada teks",
+     "Kelompok menginginkan perubahan kepengurusan dan perlu mengadakan musyawarah untuk membentuk kepengurusan…"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Alat-alat perkemahan",
+     "Peningkatan pelayanan pengunjung"
+    ],
+    "bantuan": [
+     "Peralatan pendakian dan kemah",
+     "Seperangkat peralatan camping",
+     "Alat-alat pendakian dan kemah"
+    ],
+    "produk": [
+     "Penyewaan tenda dan peralatan camping; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p206",
+     "p211",
+     "p219",
+     "p224"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok dibentuk untuk pemberdayaan pemuda melalui eksplorasi alam dan konservasi. Pada 2025 hanya tersisa 2 tenda dan 5 tas carrier yang masih baik; peralatan lainnya rusak…",
+    "kendala": [
+     "Konflik internal dan perpecahan kelompok",
+     "Sistem manajemen aset lemah",
+     "Sebagian besar peralatan bantuan rusak atau hilang"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [
+     "Peralatan pendakian: tenda, handy talky (HT), tas carrier, matras,…"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p276"
+    ]
+   },
+   "2026": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Sebagian anggota kurang aktif dan jumlah anggota berkurang karena kesibukan. Kelompok belum pernah mengadakan pertemuan mandiri; kas kosong, pengelolaan keuangan dan pembukuan…",
+    "kendala": [
+     "Sebagian anggota kurang aktif dan jumlah anggota berkurang.",
+     "Belum ada rapat atau pertemuan mandiri.",
+     "Kas kelompok kosong dan belum ada kesepakatan pengelolaan kas serta pembukuan."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Merekrut anggota yang berkomitmen dan menerbitkan SK kelompok baru dengan jumlah minimal 15 orang.",
+     "Membuat kesepakatan kas dan pembukuan keuangan sederhana."
+    ],
+    "bantuan": [
+     "Tas",
+     "Matras",
+     "Sleeping bag",
+     "Tenda"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p284",
+     "p287",
+     "p293"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k02",
+  "nama": "River Tubing Oi Marai",
+  "desa": "Kawinda Toi",
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok wisata alam",
+  "usaha": "Wisata alam",
+  "ketua": "Iwan Saputra",
+  "dibentuk": "2022",
+  "dasar_pembentukan": "Keputusan Kepala Desa Kawinda To’i No. 08 Tahun 2018 tanggal 1 Oktober 2018",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "aktif",
+  "riwayat": {
+   "2020": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Aktivitas berkurang selama jalur pendakian Kawinda Toi ditutup. Perlengkapan bantuan lengkap, tetapi beberapa bagian, terutama pelindung siku dan lutut, rusak. Jalur pendakian…",
+    "kendala": [
+     "Jumlah pengunjung kurang, keamanan masih kurang, dan pengelolaan sumber daya manusia kurang.",
+     "Aktivitas kelompok berkurang saat jalur pendakian ditutup.",
+     "Beberapa perlengkapan, terutama pelindung siku dan lutut, rusak."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Meningkatkan promosi dan sarana prasarana, memperbaiki manajemen serta akses jalan, meningkatkan…",
+     "Mendata perlengkapan dan barang yang tidak layak pakai."
+    ],
+    "bantuan": [
+     "Perlengkapan wisata river tubing, termasuk pelindung siku dan lutut"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p001",
+     "p008"
+    ]
+   },
+   "2021": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai salah satu dari tiga kelompok binaan yang mendukung potensi wisata di Kawinda To’i. Dokumen menyebut bantuan peralatan river tubing telah diberikan, tetapi…",
+    "kendala": [
+     "Posisi River Tubing dalam hubungan kelembagaan dengan KPA Algura belum jelas.",
+     "Laporan keuangan penyewaan alat belum disampaikan kepada ketua KPA Algura.",
+     "Anggota belum menguasai promosi melalui media sosial."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Koordinasi dan keterbukaan pengelolaan kas dengan KPA Algura.",
+     "Bimbingan rutin."
+    ],
+    "bantuan": [
+     "Bantuan sesuai usaha ekonomi kreatif; rincian tidak disebutkan",
+     "Peralatan river tubing"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p029",
+     "p032"
+    ]
+   },
+   "2022": {
+    "status": "aktif",
+    "anggota": 9,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Administrasi tercatat dalam satu buku, tetapi pertemuan mandiri tidak rutin. Peralatan bantuan belum dimanfaatkan optimal karena sebagian rusak akibat pemakaian dan belum…",
+    "kendala": [
+     "Arus sungai terlalu deras pada musim hujan sehingga kegiatan tubing harus dibatasi.",
+     "Pengunjung yang menginap di sekitar sungai membutuhkan tenda.",
+     "Keluhan wisatawan mengenai tarif berdampak pada kurangnya minat"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Bantuan tenda.",
+     "Perawatan dan penambahan unit peralatan tubing."
+    ],
+    "bantuan": [
+     "Perlengkapan river tubing",
+     "Berbagai bantuan; rincian bantuan tidak disebutkan",
+     "Perlengkapan river tubing: ban, pelampung, helm, serta pelindung…"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p047",
+     "p055",
+     "p060",
+     "p061",
+     "p073",
+     "p080"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai sasaran monitoring dan evaluasi; rincian kondisi, bantuan, dan anggota tidak tersedia dalam teks yang diberikan.",
+    "kendala": [
+     "Pertemuan rutin belum terlaksana",
+     "Bantuan hilang atau rusak",
+     "Belum ada administrasi penyewaan"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Menjadwalkan pertemuan rutin minimal sebulan sekali",
+     "Menyimpan bantuan di gudang Kantor Resort Kawinda Toi"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p118",
+     "p147",
+     "p151"
+    ]
+   },
+   "2024": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok diberdayakan untuk mengelola arung jeram di objek wisata Oi Marai. Promosi melalui media sosial semakin meningkatkan pengetahuan pengunjung dan penggunaan jasa river…",
+    "kendala": [
+     "Promosi arung jeram masih kurang sehingga atraksi belum banyak diketahui.",
+     "Sistem keuangan dan pembukuan kurang tertata dan tidak terbuka antaranggota",
+     "Helm dan ban perlu diperbaiki"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Ban tubing tambahan",
+     "Peningkatan promosi dan pelayanan pengunjung"
+    ],
+    "bantuan": [
+     "Peralatan arung jeram",
+     "Peralatan river tubing, termasuk safety jacket, helm, dan ban"
+    ],
+    "produk": [
+     "Penyewaan alat river tubing berjalan lancar; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p206",
+     "p211",
+     "p219"
+    ]
+   },
+   "2026": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kegiatan kelompok belum aktif karena sebagian peralatan yang dimiliki mengalami kerusakan; kelompok disebut sedang dalam proses penguatan kelembagaan menuju KTH.",
+    "kendala": [
+     "Sebagian peralatan river tubing rusak.",
+     "Seluruh river board rusak.",
+     "Arus sungai yang deras dan banyak bebatuan tidak mendukung penggunaan river board."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Perbaikan atau penggantian peralatan yang rusak.",
+     "Fasilitasi koordinasi dan pelatihan atraksi wisata canyoneering dengan Mapala Kota Bima."
+    ],
+    "bantuan": [
+     "Perahu/boat river tubing",
+     "Helm",
+     "Pelampung",
+     "River board"
+    ],
+    "produk": [
+     "Jasa penyewaan alat river tubing; volume layanan tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p284",
+     "p287"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k03",
+  "nama": "Citra Madu Lestari",
+  "desa": "Kawinda Toi",
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok tani hutan & madu",
+  "usaha": "Madu hutan",
+  "ketua": "Aswad",
+  "dibentuk": "2016",
+  "dasar_pembentukan": "Keputusan Kepala Desa Kawinda To’i No. 06 Tahun 2016 tanggal 13 Juni 2016",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2020": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Pengolahan dan pemasaran madu berjalan cukup baik. Bantuan dimanfaatkan untuk pemanenan dan pengolahan madu. Anggota kompak dan organisasi kelompok berjalan sesuai program awal.…",
+    "kendala": [
+     "Pemasaran madu",
+     "Kualitas madu dan standar cara panen",
+     "Pengemasan"
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Promosi luring dan daring, mengikuti pameran atau event, fasilitasi pengiriman, peningkatan…",
+     "Meningkatkan produksi madu."
+    ],
+    "bantuan": [
+     "Barang bantuan untuk pemanenan dan pengolahan madu, jenis dan jumlah…"
+    ],
+    "produk": [
+     "Pengolahan dan pemasaran madu berjalan; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p001",
+     "p008"
+    ]
+   },
+   "2021": {
+    "status": "kurang aktif",
+    "anggota": 25,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai salah satu dari tiga kelompok binaan dengan usaha madu hutan. Dokumen menyebut bantuan alat pemanenan dan perlengkapan pengemasan produk telah diberikan, tetapi…",
+    "kendala": [
+     "Kekompakan anggota menurun karena kesibukan masing-masing dan jarangnya pertemuan internal.",
+     "Modal awal terbatas; kelompok perlu membeli madu dari anggota sebelum menjual produk berlabel.",
+     "Promosi dan pemasaran terkendala jarak ke jasa pengiriman dan keterbatasan jaringan internet."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Modal usaha, termasuk pengajuan proposal kepada pemerintah desa dan pembentukan kas bulanan anggota.",
+     "Penguatan kekompakan dan pertemuan rutin kelompok."
+    ],
+    "bantuan": [
+     "Alat pemeras madu",
+     "Botol kemasan madu ukuran 500 ml, 350 ml, dan 100 ml",
+     "Buku untuk pengadministrasian kelompok",
+     "Bantuan sesuai usaha ekonomi kreatif; rincian tidak disebutkan"
+    ],
+    "produk": [
+     "Volume tidak disebutkan. Panen berlangsung dalam tiga musim: mpori ngame (bulan 2–5), wunta sori…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p025",
+     "p026",
+     "p027",
+     "p029",
+     "p030",
+     "p032"
+    ]
+   },
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": 25,
+    "anggota_perempuan": 0,
+    "penilaian": [],
+    "kondisi": "Dari 25 anggota, sekitar 10 orang aktif karena kesibukan masing-masing. Anggota kembali menggunakan botol air mineral bekas ukuran 600 ml dan tetap memakai stiker; mereka…",
+    "kendala": [
+     "Hanya 5 dari 25 anggota yang aktif karena kesibukan anggota.",
+     "Harga madu berubah-ubah menurut musim.",
+     "Permintaan pengelolaan satu uma ani perlu dibahas bersama Balai TN Tambora dan Pemerintah Desa."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pengelolaan langsung satu dari tiga uma ani di desa.",
+     "Pengembangan stup madu trigona."
+    ],
+    "bantuan": [
+     "Botol plastik untuk pengemasan madu",
+     "Dana BUMDes yang direncanakan untuk peningkatan usaha kelompok…",
+     "Perlengkapan pengolahan madu: alat peniris madu, botol kemasan,…",
+     "Setup/stub madu"
+    ],
+    "produk": [
+     "Volume produksi tidak disebutkan; jumlah produksi disebut tidak stabil karena faktor musim dan…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p047",
+     "p050",
+     "p055",
+     "p062",
+     "p080",
+     "p082"
+    ]
+   },
+   "2023": {
+    "status": "aktif",
+    "anggota": 15,
+    "anggota_perempuan": 0,
+    "penilaian": [
+     "Nilai K&I 2,08; kategori berhasil."
+    ],
+    "kondisi": "Kelompok antusias dan aktif mengikuti pendampingan serta menyiapkan dan menyusun administrasi. Kelompok diberdayakan untuk mengelola alat pengolahan dan bahan penjualan madu,…",
+    "kendala": [
+     "Sebagian anggota kurang aktif atau telah keluar.",
+     "Persyaratan administrasi bantuan perlu dipenuhi, termasuk SK kelompok, NPWP, dan rekening atas nama kelompok.",
+     "Pemanfaatan uma ani di kawasan konservasi masih perlu dibahas bersama Balai TN Tambora dan pemerintah desa."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Bimbingan rutin untuk memanfaatkan bantuan dengan baik.",
+     "Pembahasan bersama Balai TN Tambora dan pemerintah desa mengenai pengelolaan uma ani."
+    ],
+    "bantuan": [
+     "Bantuan uang tunai untuk modal usaha dan kebutuhan usaha kelompok,…",
+     "Bantuan uang tunai sebagai modal usaha kelompok (Rp50.000.000)",
+     "Bantuan untuk usaha pengolahan dan penjualan madu; termin I telah…",
+     "Peralatan produksi, termasuk botol kemasan, kertas stiker, dan alat…"
+    ],
+    "produk": [
+     "Tidak disebutkan"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p123",
+     "p133",
+     "p137",
+     "p138",
+     "p140",
+     "p145"
+    ]
+   },
+   "2024": {
+    "status": "aktif",
+    "anggota": 15,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Nilai K&I 2,07; dikategorikan Berhasil. Sebanyak 14 kriteria masih mendapat…"
+    ],
+    "kondisi": "Ketua kelompok diundang sebanyak 1 orang. Tidak ada uraian tentang kondisi kelembagaan, usaha, atau pemanfaatan bantuan.",
+    "kendala": [
+     "Produksi madu berkurang dan madu menjadi langka pada Januari–Maret 2024.",
+     "Produksi madu bersifat musiman; saat panen raya stok melimpah dan harga jual di tingkat pencari madu lebih…",
+     "Promosi dan jangkauan pemasaran masih terbatas."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Mengurus administrasi label SNI untuk produk madu.",
+     "Meningkatkan frekuensi pertemuan kelompok."
+    ],
+    "bantuan": [
+     "Modal usaha (Rp55.025.000)"
+    ],
+    "produk": [
+     "Volume tidak disebutkan; produksi madu berkurang pada Januari–Maret 2024."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p208",
+     "p210",
+     "p216",
+     "p224"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Kelas Pemula (data sampai November 2020)"
+    ],
+    "kondisi": "Disebut dalam materi sebagai kelompok binaan dengan bantuan peralatan pengolahan madu hutan; kondisi usaha dan pemanfaatan bantuan tidak dirinci.",
+    "kendala": [],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [
+     "Peralatan pengolahan madu hutan"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p255",
+     "p262",
+     "p263"
+    ]
+   },
+   "2026": {
+    "status": "tidak disebut",
+    "anggota": 15,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Hasil evaluasi dan verifikasi menyatakan kelompok layak dan memenuhi persyaratan untuk melanjutkan akses pemanfaatan zona tradisional. Kegiatan memfasilitasi penyusunan draft…",
+    "kendala": [
+     "Akses pemasaran terbatas karena lokasi kelompok terpencil.",
+     "Distribusi ke Dompu dan Bima belum optimal.",
+     "Madu dijual kepada pengepul dalam jerigen tanpa merek."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Kerja sama dengan koperasi TN Tambora untuk penyetokan dan distribusi produk di wilayah perkotaan.",
+     "Promosi melalui media sosial dan marketplace."
+    ],
+    "bantuan": [
+     "Perlengkapan pascapanen, termasuk botol kemasan dan label"
+    ],
+    "produk": [
+     "Batas pemanfaatan sekitar 1800 liter madu per tahun; angka produksi aktual tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p284",
+     "p285",
+     "p287",
+     "p294"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k04",
+  "nama": "Oi Saro Kreatif",
+  "desa": "Oi Saro",
+  "resort": "Piong",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Olahan pangan & HHBK",
+  "ketua": "Ridwan",
+  "dibentuk": "2019",
+  "dasar_pembentukan": "Disebut terdapat perjanjian kerja sama antara TN Tambora dan Kelompok Oi Saro Kreatif, tetapi nomor dan tanggalnya tidak",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2020": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Aktivitas kelompok terdampak COVID-19. Kelompok telah mencoba produksi awal pakan ayam dan teh kelor menggunakan bahan yang mudah diperoleh di desa, tetapi pengetahuan pengolahan…",
+    "kendala": [
+     "Komposisi produk masih dalam tahap coba-coba.",
+     "Belum menemukan pengawet alami untuk susu nabati.",
+     "Studi banding belum terlaksana karena anggota menghadiri rapat desa."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Penguatan kelembagaan dan kapasitas sumber daya manusia",
+     "Fasilitasi akses pemanfaatan HHBK"
+    ],
+    "bantuan": [
+     "Alat peningkatan kapasitas ekonomi kreatif",
+     "Barang bantuan, jenis tidak dirinci"
+    ],
+    "produk": [
+     "Memproduksi kue kelor, susu nabati sukun, dan pakan ayam; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p002",
+     "p004",
+     "p008"
+    ]
+   },
+   "2021": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok mulai mengembangkan usaha dan telah menguji produk kue kering berbahan kelor, yaitu cookies dan kue semprit. Bantuan yang diterima telah dimanfaatkan tetapi belum…",
+    "kendala": [
+     "Mesin penggiling kelor macet dan sulit dinyalakan setelah jarang digunakan selama pandemi.",
+     "Belum menemukan komposisi pakan ternak dari bonggol jagung yang sesuai agar ternak mau memakannya.",
+     "Anggota memiliki kesibukan masing-masing sehingga sulit berkumpul; sinyal di desa juga terbatas."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Perbaikan mesin penggiling kelor.",
+     "Referensi atau pendampingan untuk menentukan komposisi pakan ternak yang sesuai."
+    ],
+    "bantuan": [
+     "Alat penggiling kelor"
+    ],
+    "produk": [
+     "Tidak ada volume produksi yang dicantumkan; uji coba menghasilkan 2 jenis kue kering, cookies dan…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p031"
+    ]
+   },
+   "2022": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok telah mencoba produksi awal pakan ayam dan teh kelor untuk kalangan sendiri, tetapi pengetahuan dan penguasaan produksinya belum memadai. Anggota, terutama ibu-ibu,…",
+    "kendala": [
+     "Formula pakan ternak dari bonggol jagung belum ditemukan",
+     "Kesibukan anggota menghambat perkembangan dan pertemuan kelompok",
+     "Sejumlah produk yang pernah dibuat belum dikembangkan"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Mencoba berulang kali hingga menemukan formula pakan ternak yang sesuai",
+     "Meningkatkan pertemuan dan diskusi kelompok"
+    ],
+    "bantuan": [
+     "Alat penggiling daun, mesin pencetak pelet, dan alat sealer",
+     "Tea bag untuk mengemas teh kelor"
+    ],
+    "produk": [
+     "Teh kelor pernah dibuat pada 2021; volume produksi tidak disebutkan. Produk pakan ternak dari…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p049",
+     "p052",
+     "p053",
+     "p064",
+     "p069",
+     "p070",
+     "p079"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Semua alat bantuan masih lengkap, tetapi sebagian rusak dan belum diperbaiki karena harus dibawa ke Kota Bima. Hanya beberapa anggota yang aktif; produksi belum berjalan dan…",
+    "kendala": [
+     "Teh kelor dapat berkutu jika disimpan terlalu lama.",
+     "Pengeringan daun kelor dengan cara diangin-anginkan berisiko membuat daun masih lembap.",
+     "Kebutuhan perlengkapan kios belum diajukan melalui proposal."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Perbaikan proses pengeringan, misalnya dengan oven atau disangrai.",
+     "Silica gel dan, bila memungkinkan, pengemasan vakum."
+    ],
+    "bantuan": [
+     "Paket alat pembuatan pakan ternak pelet dan serbuk kelor"
+    ],
+    "produk": [
+     "Teh daun kelor; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p130",
+     "p134",
+     "p139",
+     "p150"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "1,17; cukup berhasil"
+    ],
+    "kondisi": "Banyak anggota sudah tidak aktif dan kelompok belum memiliki struktur kepengurusan baru setelah ketua sebelumnya menjadi Kepala Desa Oi Saro. Sebagian alat bantuan masih baik,…",
+    "kendala": [
+     "Sebagian anggota tidak aktif.",
+     "Ketua kelompok telah diangkat menjadi kepala desa sehingga kelompok ingin mengganti struktur organisasi.",
+     "Alat bantuan rusak dan berulang kali kembali rusak setelah diperbaiki."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Regenerasi anggota atau perombakan struktur organisasi dan penerbitan SK baru.",
+     "Kios, gerobak, atau etalase untuk memasarkan produk."
+    ],
+    "bantuan": [
+     "Paket alat pembuatan pakan ternak pelet dan serbuk kelor",
+     "Alat pengolah bonggol jagung dan daun kelor"
+    ],
+    "produk": [
+     "Teh kelor; volume produksi tidak disebutkan"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p205",
+     "p217",
+     "p220"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok bergerak di bidang pengolahan pangan lokal. Pendampingan mengidentifikasi perlunya regenerasi anggota dan pembaruan legalitas kelompok. Kondisi serta keberadaan alat…",
+    "kendala": [
+     "Jumlah anggota aktif perlu diperkuat melalui regenerasi.",
+     "SK kelompok perlu diperbarui.",
+     "Keberadaan dan pemanfaatan alat bantuan ekonomi produktif kloter kedua belum jelas."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Regenerasi dan pendataan anggota.",
+     "Fasilitasi pembaruan SK kelompok."
+    ],
+    "bantuan": [
+     "Alat bantuan ekonomi produktif kloter kedua"
+    ],
+    "produk": [
+     "Mengolah teh kelor dan jajanan khas Lombok; volume produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p274"
+    ]
+   },
+   "2026": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Pertemuan kelompok bergantung pada pendampingan petugas dan kehadiran anggota hanya 20%. Kelompok memasarkan produk dan telah mengembangkan camilan; PIRT telah diurus pada 2023.…",
+    "kendala": [
+     "Anggota kelompok tidak aktif dan kepengurusan perlu diregenerasi.",
+     "Produksi terbatas karena hanya satu anggota yang aktif memproduksi.",
+     "Pemasaran dan ketersediaan waktu anggota menjadi kendala."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Regenerasi kepengurusan dan anggota melalui SK baru.",
+     "Rekrutmen anggota baru yang berkomitmen aktif."
+    ],
+    "bantuan": [
+     "Alat pembuat pakan ternak",
+     "Oven"
+    ],
+    "produk": [
+     "Teh kelor dan camilan olahan daun kelor; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p284",
+     "p295"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k05",
+  "nama": "Moti La Halo",
+  "desa": "Piong",
+  "resort": "Piong",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok pecinta alam",
+  "usaha": "Wisata alam",
+  "ketua": "Erfan Wahyudin, S.Pd.",
+  "dibentuk": "2018",
+  "dasar_pembentukan": "SK Kepala Desa Piong No. 07 Tahun 2018, tanggal 17 Januari 2018",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2020": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Usaha penyewaan alat pendakian sebelumnya berjalan dan menghasilkan pemasukan, tetapi berhenti saat jalur pendakian Piong ditutup karena COVID-19. Kelompok berupaya mengembangkan…",
+    "kendala": [
+     "Jalur pendakian Gunung Tambora ditutup sejak awal 2020.",
+     "Anggota sibuk mengurus lahan pertanian.",
+     "Kegiatan kelompok masih bertumpu pada wisata pendakian."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendampingan penyusunan rencana pengembangan wisata pantai.",
+     "Koordinasi dengan pemerintah desa."
+    ],
+    "bantuan": [
+     "Peralatan pendakian gunung",
+     "Perlengkapan alat pendakian"
+    ],
+    "produk": [
+     "Jasa penyewaan alat pendakian pernah berjalan; tidak ada volume produksi yang disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p004",
+     "p008"
+    ]
+   },
+   "2021": {
+    "status": "tidak disebut",
+    "anggota": 5,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Administrasi kelompok masih minim, terutama pembukuan keuangan dari penyewaan perlengkapan pendakian, sehingga perkembangan usaha dan dampaknya terhadap kesejahteraan belum dapat…",
+    "kendala": [
+     "Pembukuan keuangan dan tertib administrasi masih minim",
+     "Pertemuan berkala dan keterlibatan pendamping perlu ditingkatkan",
+     "Produktivitas dan dampak usaha terhadap kesejahteraan belum dapat diketahui dari administrasi yang tersedia"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Pendampingan administrasi dan pembukuan arus kas",
+     "Pertemuan berkala yang melibatkan pendamping"
+    ],
+    "bantuan": [
+     "Tas carrier",
+     "Matras",
+     "Sleeping bag",
+     "Tenda"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p024"
+    ]
+   },
+   "2022": {
+    "status": "aktif",
+    "anggota": 5,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Penyewaan alat pendakian berjalan dan mulai menghasilkan pemasukan meskipun belum banyak; penyewaan terutama pada hari libur. Kelompok berupaya mengembangkan pemasaran paket…",
+    "kendala": [
+     "Kesibukan pengurus dan anggota menghambat pertemuan dan kegiatan kelompok",
+     "Rendahnya jumlah tamu yang menggunakan jasa kelompok",
+     "Sebagian anggota dan pengurus tidak aktif"
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Meningkatkan frekuensi pertemuan kelompok",
+     "Peremajaan pengurus"
+    ],
+    "bantuan": [
+     "Satu set perlengkapan pendakian: tas carrier, matras, sleeping bag,…",
+     "Peralatan pendakian",
+     "Peralatan pendakian: tas carrier, matras, sleeping bag, tenda, kursi…"
+    ],
+    "produk": [
+     "Tidak disebutkan"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p048",
+     "p049",
+     "p053",
+     "p069",
+     "p070",
+     "p079"
+    ]
+   },
+   "2023": {
+    "status": "aktif",
+    "anggota": 5,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Penyewaan perlengkapan masih berjalan seiring meningkatnya kunjungan di jalur pendakian Piong. Perlengkapan bantuan masih baik dan terawat. Kelompok menyampaikan bahwa anggota…",
+    "kendala": [
+     "Penutupan jalur pendakian berdampak pada kegiatan guiding dan minimnya tamu.",
+     "Dua tenda rusak pada bagian frame; sejumlah perlengkapan tenda mulai kurang prima atau hilang.",
+     "Pertemuan kelompok tidak dilakukan secara rutin."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pemeliharaan atau penggantian perlengkapan pendakian yang rusak.",
+     "Pengembangan sumber pemasukan alternatif, termasuk wisata berkuda."
+    ],
+    "bantuan": [
+     "Satu set peralatan pendakian: tas carrier, matras, sleeping bag,…",
+     "Perlengkapan alat pendakian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p117",
+     "p134",
+     "p135",
+     "p150"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "1,1; cukup berhasil"
+    ],
+    "kondisi": "Kelompok telah lama vakum menawarkan jasa porter, tetapi perlengkapan camping bantuan masih disewakan. Kegiatan camping di Pantai Pasir Putih Desa Piong menjadi peluang…",
+    "kendala": [
+     "Lama vakum menawarkan jasa porter",
+     "Anggota merasa tidak dilibatkan dalam pelayanan pengunjung",
+     "Kurangnya komunikasi kelompok dengan Balai"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Pendampingan pengembangan kapasitas, keanggotaan, teknis, dan komunikasi",
+     "Mengaktifkan kembali penawaran jasa porter"
+    ],
+    "bantuan": [
+     "Perangkat alat camping",
+     "Perlengkapan camping untuk disewakan"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p211",
+     "p223"
+    ]
+   },
+   "2026": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Anggota kurang aktif dan kehadiran dalam pertemuan hanya 25%. Usaha sulit berkembang karena alat yang dapat disewakan terbatas dan promosi jasa pemandu kurang; ide jasa ojek…",
+    "kendala": [
+     "Sebagian anggota kurang aktif dan jumlah anggota berkurang.",
+     "Belum ada rapat atau pertemuan mandiri.",
+     "Kas kelompok kosong dan belum ada kesepakatan pengelolaan kas serta pembukuan."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Merekrut anggota yang berkomitmen dan menerbitkan SK kelompok baru dengan jumlah minimal 15 orang.",
+     "Membuat kesepakatan kas dan pembukuan keuangan sederhana."
+    ],
+    "bantuan": [
+     "Tas",
+     "Matras",
+     "Sleeping bag",
+     "Tenda"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p293",
+     "p295"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k06",
+  "nama": "Madu Putih",
+  "desa": "Piong",
+  "resort": "Piong",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok tani hutan & madu",
+  "usaha": "Wisata alam",
+  "ketua": "Asrarudin",
+  "dibentuk": "2018",
+  "dasar_pembentukan": "Berita Acara pengukuhan pengurus dari Kepala Desa Piong No. 474/410/2001/2018 tanggal 12 Oktober 2018",
+  "tahun_terakhir": 2024,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2020": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Perlengkapan bantuan dalam kondisi baik dan terawat, tetapi belum dimanfaatkan secara maksimal. Kelompok hanya memiliki 3 kuda; penyewaan kuda belum berjalan dan wisata berkuda…",
+    "kendala": [
+     "Kesulitan menyediakan kuda jinak.",
+     "Kuda masyarakat tidak dipelihara secara intensif.",
+     "Jarak desa ke jalur pendakian sekitar 7 km."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pembelajaran cara merawat dan melatih kuda agar jinak.",
+     "Pendampingan menyusun rencana wisata berkuda di sekitar pantai."
+    ],
+    "bantuan": [
+     "Peralatan berkuda",
+     "Perlengkapan berkuda"
+    ],
+    "produk": [
+     "Jasa penyewaan kuda belum berjalan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p004",
+     "p008"
+    ]
+   },
+   "2021": {
+    "status": "tidak disebut",
+    "anggota": 8,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Administrasi, terutama pembukuan kas, belum optimal; peran serta anggota dan pertemuan berkala dengan pendamping masih kurang, dan terdapat masalah internal kelompok. Kuda yang…",
+    "kendala": [
+     "Pembukuan kas dan administrasi belum optimal",
+     "Partisipasi anggota dan pertemuan berkala dengan pendamping masih kurang",
+     "Terdapat konflik atau masalah internal kelompok"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [
+     "Pendampingan pembukuan dan penyusunan laporan kelompok",
+     "Pertemuan berkala dan penyelesaian masalah internal secara kekeluargaan"
+    ],
+    "bantuan": [
+     "Perlengkapan berkuda"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p024"
+    ]
+   },
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": 11,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Bantuan perlengkapan berkuda belum dimanfaatkan maksimal dan jasa sewa berkuda belum berjalan. Jumlah kuda sekitar 1–2 ekor. Wisata berkuda sepi peminat, sementara jalur…",
+    "kendala": [
+     "Ada kekhawatiran bantuan mobil 4x4 dapat menimbulkan kecemburuan dengan kelompok binaan lain.",
+     "Kesulitan menjual dan mengembangkan kelompok",
+     "Belum ada tamu yang menyewa kuda"
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pengembangan paket wisata berkuda parsial",
+     "Publikasi melalui media cetak dan media sosial"
+    ],
+    "bantuan": [
+     "Topi",
+     "Pelana kuda",
+     "Alat perlengkapan berkuda"
+    ],
+    "produk": [
+     "Jasa wisata berkuda; jumlah atau volume layanan tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p048",
+     "p059",
+     "p069",
+     "p076",
+     "p077"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "1,1 — cukup berhasil"
+    ],
+    "kondisi": "Kelompok belum mengadakan rapat atau pertemuan secara mandiri; pertemuan berlangsung saat ada pendampingan atau sosialisasi dari TN Tambora. Pelana bantuan belum dimanfaatkan…",
+    "kendala": [
+     "Belum tersedia kuda jinak untuk kegiatan wisata berkuda.",
+     "Terdapat kendala pada jalur yang akan dilalui kuda.",
+     "Pertemuan resmi kelompok tidak rutin."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Alat pengolahan dan pengemasan madu.",
+     "Kuda untuk mendukung alternatif usaha wisata berkuda."
+    ],
+    "bantuan": [
+     "Peralatan pelana kuda",
+     "Seperangkat pelana kuda"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p128",
+     "p134",
+     "p150"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "1,2; cukup berhasil"
+    ],
+    "kondisi": "Bantuan pelana kuda masih tersimpan dan dalam keadaan baik, tetapi kelompok tidak memiliki kuda untuk mengembangkan usaha dengan bantuan tersebut. Ketua lama telah bekerja…",
+    "kendala": [
+     "Pelana kuda belum dimanfaatkan karena belum tersedia kuda",
+     "Keraguan terhadap pasar wisata berkuda",
+     "Konflik Pokdarwis Oi Tampuro dengan aparat desa"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Dukungan mencari modal untuk pengembangan produk madu alam",
+     "Pendampingan pemasaran"
+    ],
+    "bantuan": [
+     "Seperangkat pelana kuda",
+     "Pelana kuda"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p211",
+     "p222"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k08",
+  "nama": "Sorinomo Berkarya",
+  "desa": "Sorinomo",
+  "resort": "Doropeti",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Pertanian & agroforestri",
+  "ketua": null,
+  "dibentuk": "2020",
+  "dasar_pembentukan": "SK kelompok disebut sebagai persyaratan penerimaan bantuan, tetapi nomor SK tidak tercantum.",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2020": {
+    "status": "tidak disebut",
+    "anggota": 20,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok telah dibentuk pada Februari 2020. Dalam kegiatan, anggota membahas pembagian dan penanaman bibit, RUKK, serta AD/ART. Bibit direncanakan ditanam di lahan atau…",
+    "kendala": [
+     "Persyaratan penerimaan bantuan perlu dilengkapi, termasuk proposal, SK kelompok, rekening kelompok, NPWP,…",
+     "Pengadaan bibit masih dalam tahap survei menurut uraian hasil kegiatan."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Pengadaan bibit durian dan kelengkeng berkualitas baik dan sudah okulasi.",
+     "Pendampingan atau pengawalan pembelian bibit."
+    ],
+    "bantuan": [
+     "Bantuan uang untuk pengadaan bibit buah produktif (Rp35.000.000)"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p009"
+    ]
+   },
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Pada tahap business as usual/tahap pertama dalam dinamika kelompok"
+    ],
+    "kondisi": "Tanaman kelengkeng yang belum berumur 2 tahun rata-rata sudah pernah berbuah dan tumbuh subur serta dirawat baik; durian tumbuh baik tetapi belum berbuah karena masih muda. Buah…",
+    "kendala": [
+     "Hasil kelengkeng masih sedikit dan belum dapat dijual",
+     "Durian diperkirakan baru berbuah dalam 2 sampai 4 tahun",
+     "Belum ada nilai ekonomi dari usaha buah"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Memperbarui SK setelah daftar anggota terkumpul",
+     "Mengajukan bibit durian dan kemiri kepada BPDASHL Dodokan Moyosari"
+    ],
+    "bantuan": [
+     "Bibit buah kelengkeng dan durian",
+     "Bibit buah durian dan kelengkeng",
+     "Bibit durian",
+     "Bibit kelengkeng"
+    ],
+    "produk": [
+     "Kelengkeng sudah berbuah pada sebagian tanaman, tetapi hasilnya masih sedikit dan dikonsumsi…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p083",
+     "p087",
+     "p095",
+     "p109"
+    ]
+   },
+   "2023": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Tahap pertama, Business as usual"
+    ],
+    "kondisi": "Bibit ditanam pada lahan masing-masing anggota dan tingkat hidupnya sekitar 80%. Kelengkeng telah berbuah dua kali setelah dua tahun, tetapi hasilnya masih sedikit dan dikonsumsi…",
+    "kendala": [
+     "Bibit berada di lahan anggota yang berbeda sehingga sulit dimonitor satu per satu",
+     "Belum ada perputaran modal usaha dari hasil buah",
+     "Pembukuan belum tertata"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Menjaga dan mengembangkan tanaman hingga produktif",
+     "Meningkatkan koordinasi ketua dan anggota"
+    ],
+    "bantuan": [
+     "Bibit durian",
+     "Bibit kelengkeng"
+    ],
+    "produk": [
+     "Bibit kelengkeng telah berbuah dua kali setelah dua tahun; jumlah buah tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p153",
+     "p159",
+     "p176",
+     "p196"
+    ]
+   },
+   "2024": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Disebut mengalami kemajuan; kesimpulan laporan juga menyebut kelompok ini…"
+    ],
+    "kondisi": "Anggota disebut aktif, meskipun banyak yang bertani pada musim tani. Sebagian bibit bantuan sudah berbuah dan dinikmati anggota serta masyarakat, tetapi hasilnya masih sedikit…",
+    "kendala": [
+     "Hasil bibit yang berbuah masih sedikit dan belum dapat dijual",
+     "Bantuan alat musik belum direalisasikan dan alat yang sesuai masih dicari",
+     "Anggota banyak bertani pada musim tani"
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Penambahan bibit produktif",
+     "Realisasi bantuan alat musik tradisional"
+    ],
+    "bantuan": [
+     "Bibit buah produktif",
+     "Satu set alat musik tradisional gendang beleq"
+    ],
+    "produk": [
+     "Sebagian bibit sudah berbuah; jumlah atau volume produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p243"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Mengikuti kegiatan pendampingan dan disebut sebagai kelompok percontohan yang berpotensi mengembangkan UMKM konservasi. Laporan menyebut kelompok antusias dan memahami pemaparan…",
+    "kendala": [],
+    "tema_kendala": [
+     "Pemasaran",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pertemuan kelompok lebih sering",
+     "Merintis sumber pemasukan alternatif"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p265"
+    ]
+   },
+   "2026": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Bibit buah dalam kondisi baik dan sebagian sudah berbuah serta dinikmati anggota. Beberapa bibit durian belum berbuah karena kurang perawatan, tetapi setelah pemupukan mulai…",
+    "kendala": [
+     "Banyak anggota tidak aktif.",
+     "Pohon durian kekurangan pupuk sehingga banyak bunga rontok.",
+     "Sebagian bibit durian kurang dirawat dan belum berbuah."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [
+     "Mengaktifkan kembali kelompok melalui program kerja baru.",
+     "Mengadakan pertemuan rutin minimal satu kali dalam sebulan."
+    ],
+    "bantuan": [
+     "Bibit buah durian dan kelengkeng",
+     "Bibit buah produktif, berupa kelengkeng dan durian"
+    ],
+    "produk": [
+     "Kelengkeng berbuah setiap tahun; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p302",
+     "p313"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k09",
+  "nama": "Kali Wangi Sorinomo",
+  "desa": "Sorinomo",
+  "resort": "Doropeti",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Kerajinan & ekonomi kreatif",
+  "ketua": "Umar Thohir",
+  "dibentuk": "2020",
+  "dasar_pembentukan": "Surat keputusan Kepala Desa Sorinomo direncanakan; nomor belum disebutkan.",
+  "tahun_terakhir": 2020,
+  "status_terakhir": "baru dibentuk",
+  "riwayat": {
+   "2020": {
+    "status": "baru dibentuk",
+    "anggota": 7,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok dibentuk melalui forum diskusi untuk usaha kerajinan tangan. Pengurus yang tercantum adalah ketua, sekretaris, bendahara, dan empat anggota. Kelengkapan anggota dari…",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [
+     "Melengkapi anggota dari masing-masing dusun",
+     "Menetapkan kelompok melalui surat keputusan Kepala Desa Sorinomo"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p012"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k10",
+  "nama": "Kelompok Tani Karyasari",
+  "desa": "Sori Tatanga",
+  "resort": "Doropeti",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok tani mitra konservasi",
+  "usaha": "Pertanian & agroforestri",
+  "ketua": "Minasa Rimawan",
+  "dibentuk": "2021",
+  "dasar_pembentukan": "SK Kepala Desa Sori Tatanga Nomor 207/DSTT/II/2021 tentang Pembentukan Pengurus Kelompok Tani Karyasari; PKS Kemitraan K",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2020": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Masyarakat menyepakati untuk melakukan PKS dengan Balai TN Tambora dan terlebih dahulu membentuk kelompok. Kelompok belum dinyatakan terbentuk. Jenis pemungutan HHBK dan budidaya…",
+    "kendala": [
+     "Kelompok masyarakat perlu dibentuk terlebih dahulu",
+     "Letak dan luas areal PKS belum ditentukan",
+     "Teknis pengelolaan areal PKS belum dibahas secara terperinci"
+    ],
+    "tema_kendala": [],
+    "kebutuhan": [
+     "Pendampingan pembentukan kelompok",
+     "Analisis kembali jenis HHBK dan budidaya tradisional"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p018"
+    ]
+   },
+   "2021": {
+    "status": "aktif",
+    "anggota": 50,
+    "anggota_perempuan": 0,
+    "penilaian": [],
+    "kondisi": "Kelompok telah memiliki PKS serta RPP 2021–2025 dan RKT 2021. Ketersediaan porang di zona tradisional semakin terbatas karena banyak dimanfaatkan; jumlah bibit yang dipungut…",
+    "kendala": [
+     "Pemahaman anggota mengenai pola, isi, dan tata cara PKS masih kurang.",
+     "Jarak tempat tinggal ke zona tradisional cukup jauh sehingga pemungutan HHBK jarang dilakukan.",
+     "Porang di zona tradisional terbatas, sementara pengepul baru membeli jika jumlahnya banyak, lebih dari 1 ton."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendamping khusus untuk kelompok.",
+     "Penyadartahuan dan pendampingan pelaksanaan kerja sama secara terencana dan berkelanjutan."
+    ],
+    "bantuan": [
+     "Bibit katak porang untuk persemaian kelompok",
+     "Bibit tanaman untuk penanaman di lokasi PKS"
+    ],
+    "produk": [
+     "Data pemanfaatan anggota yang dicatat: porang 100 kg, 10 kg, 10 kg, 30 kg, dan 100 kg; madu 8…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p030",
+     "p035",
+     "p038",
+     "p041",
+     "p043"
+    ]
+   },
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kebun bibit porang dinilai kurang terawat karena mayoritas anggota sibuk menanam jagung di lahan masing-masing. Anggota jarang memungut porang karena kondisi pasar belum jelas,…",
+    "kendala": [
+     "Sebagian anggota belum memahami tujuan, lokasi, dan komoditas PKS.",
+     "Belum ada keuntungan ekonomi; budidaya porang membutuhkan waktu panen sekitar 18–24 bulan.",
+     "Perlu pembersihan lahan dari semak belukar agar porang tumbuh baik dan katak mudah dipanen."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendalaman pemahaman mengenai PKS Kemitraan Konservasi.",
+     "Pendampingan budidaya porang dan pemeliharaan kebun bibit."
+    ],
+    "bantuan": [
+     "Bibit katak porang"
+    ],
+    "produk": [
+     "Pemungutan porang 300 kg pada Januari–Maret 2022; hasil panen kebun bibit belum disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p096",
+     "p100",
+     "p105",
+     "p107",
+     "p115"
+    ]
+   },
+   "2023": {
+    "status": "aktif",
+    "anggota": 50,
+    "anggota_perempuan": 0,
+    "penilaian": [
+     "Nilai evaluasi sebelumnya 1,99 dengan kategori cukup berhasil."
+    ],
+    "kondisi": "Kelompok memiliki akses pemungutan HHBK porang di Zona Tradisional Karyasari. Buku daftar anggota dan buku tamu telah tersedia; dalam pendampingan kelompok mulai membuat buku kas…",
+    "kendala": [
+     "Informasi pasar dan harga porang belum stabil atau jelas.",
+     "Sebagian anggota sibuk mengelola jagung dan tebu sehingga pemungutan porang serta pertemuan kelompok…",
+     "Pembibitan porang memerlukan sertifikasi kelayakan."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pelatihan untuk mendukung pengembangan usaha kelompok.",
+     "Peralatan pengolahan jahe merah, antara lain mesin pemanas jahe, pengupas jahe, kemasan, tabung…"
+    ],
+    "bantuan": [
+     "Dana stimulus untuk pengembangan usaha dan budidaya jahe merah",
+     "Bantuan ekonomi produktif untuk pengembangan jahe merah dan produk…",
+     "Bibit porang dan bibit jahe merah",
+     "Alat pengupas, alat penggorengan, dan peralatan pendukung produksi…"
+    ],
+    "produk": [
+     "Tidak disebutkan; produk minuman herbal jahe merah dibuat manual oleh salah satu anggota untuk…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p154",
+     "p160",
+     "p167",
+     "p176",
+     "p177",
+     "p185",
+     "p189",
+     "p193"
+    ]
+   },
+   "2024": {
+    "status": "aktif",
+    "anggota": 50,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok beranggotakan masyarakat yang pernah memungut HHBK porang di zona tradisional. Kegiatan monev mencakup usaha pemasaran minuman herbal jahe merah; dokumentasi menyebut…",
+    "kendala": [
+     "Permintaan pasar minuman jahe merah masih sedikit.",
+     "Cuaca panas mengurangi minat konsumen terhadap minuman yang menghangatkan.",
+     "HHBK yang biasa dipungut semakin sedikit dan nilai jualnya rendah."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pengembangan usaha kelompok dan bantuan modal dibahas.",
+     "Pengembangan kebun tanaman buah produktif seperti durian, alpukat, dan rambutan."
+    ],
+    "bantuan": [
+     "Akses pemanfaatan/pemungutan HHBK porang melalui kemitraan konservasi"
+    ],
+    "produk": [
+     "Produksi minuman herbal jahe merah menurun; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p227",
+     "p237"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Bibit produktif yang sebelumnya ditanam tumbuh dengan baik dan diperkirakan mulai berbuah pada tahun berikutnya. Produk yang disebutkan adalah kopi robusta original dan jahe…",
+    "kendala": [],
+    "tema_kendala": [],
+    "kebutuhan": [
+     "Alat pengolahan dan pengemasan"
+    ],
+    "bantuan": [
+     "Bibit produktif",
+     "Desain logo kemasan dan stiker logo kemasan"
+    ],
+    "produk": [
+     "Bibit produktif diperkirakan mulai berbuah pada 2026; volume produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p264"
+    ]
+   },
+   "2026": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Pendampingan dilakukan melalui diskusi dan pembahasan draf PKS penyelesaian areal permukiman dan lahan garapan di zona khusus serta draf PKS kemitraan konservasi di Resor…",
+    "kendala": [
+     "Keberatan terhadap penanaman di zona khusus karena berpotensi menghentikan penanaman jagung selama sekitar 3…",
+     "Aktivitas perambahan di Dusun Karyasari sebagian besar disebut dilakukan pihak luar dusun dari wilayah Bima…",
+     "Mekanisme pemanfaatan ruang dalam kawasan memerlukan kejelasan."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [
+     "Pendampingan pengembangan usaha produktif dan pemanfaatan lahan berkelanjutan.",
+     "Kejelasan mekanisme pemanfaatan ruang dalam kawasan sesuai ketentuan konservasi."
+    ],
+    "bantuan": [
+     "Bibit kemiri",
+     "Bibit kemiri yang telah disalurkan sebelumnya"
+    ],
+    "produk": [],
+    "pendapatan": [
+     7447000,
+     "Nilai Transaksi Ekonomi (NTE) sampai dengan Juni 2026, bukan keterangan…"
+    ],
+    "kegiatan": [
+     "p301",
+     "p304",
+     "p308",
+     "p311",
+     "p317"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k11",
+  "nama": "ALPATAR",
+  "desa": "Oi Bura",
+  "resort": "Pancasila",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok pecinta alam",
+  "usaha": "Wisata alam",
+  "ketua": "Sukri Jayandi",
+  "dibentuk": "2019",
+  "dasar_pembentukan": "SK Kepala Desa Oi Bura No. 141.02/PA/14/05/Tahun 2019 tanggal 9 September 2019; perubahan susunan pengurus dan anggota m",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "tidak aktif",
+  "riwayat": {
+   "2020": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok binaan di Desa Oi Bura yang mengikuti penyusunan RPP bersama pengurus dan anggota aktif. RPP memuat rencana penguatan kelembagaan, peningkatan kapasitas wisata, promosi,…",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM"
+    ],
+    "kebutuhan": [
+     "Sertifikasi pemandu wisata gunung",
+     "Pelatihan bahasa asing, SAR, dan pemanduan/porter"
+    ],
+    "bantuan": [
+     "Perlengkapan pendakian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p019"
+    ]
+   },
+   "2021": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Bantuan peralatan berada di sekretariat kelompok di Desa Oi Bura dan sebagian telah disewakan kepada petugas Resort Pancasila untuk kegiatan pendakian. Penyewaan kepada umum…",
+    "kendala": [
+     "Tarif penyewaan peralatan untuk umum belum ditentukan.",
+     "Jalur pendakian lama tidak dibuka.",
+     "Anggota sibuk berladang dan jarang berada di desa untuk mengikuti pertemuan."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pertemuan rutin dan kesepakatan waktu pertemuan yang diinformasikan jauh hari.",
+     "Menentukan tarif sewa dan mempromosikan peralatan pendakian."
+    ],
+    "bantuan": [
+     "Bantuan uang untuk pengadaan peralatan penunjang pendakian: tenda,…"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p040"
+    ]
+   },
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": 30,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok masih menunjukkan keberadaan tetapi kegiatannya pasif. Peralatan bantuan disewakan, namun pelanggan masih sedikit dan promosi belum optimal. Peralatan umumnya disimpan…",
+    "kendala": [
+     "Anggota sibuk berladang sehingga pertemuan rutin sulit dilaksanakan.",
+     "Promosi penyewaan perlengkapan pendakian belum maksimal.",
+     "Belum ada pembukuan kelembagaan maupun usaha."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Pendampingan penyusunan pembukuan kelompok dan usaha.",
+     "Peningkatan promosi penyewaan, termasuk melalui media sosial."
+    ],
+    "bantuan": [
+     "Alat dan perlengkapan pendakian: tenda 4p, tas carrier, matras…",
+     "Peralatan pendakian: tenda 4p, tas carrier, matras non-foil, matras…"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p085",
+     "p102"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Tidak disebutkan"
+    ],
+    "kondisi": "Kelompok telah memulai penyewaan peralatan dan anggotanya menjalankan jasa guide serta porter. Peralatan yang masih tersedia berupa tenda dan tas carrier, dengan kondisi sebagian…",
+    "kendala": [
+     "Anggota tersebar di beberapa dusun yang berjauhan sehingga komunikasi dan koordinasi sulit",
+     "Kesibukan anggota menghambat pelaksanaan program bersama",
+     "Jarak antaranggota"
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Menyepakati waktu berkumpul dan menjalankan program bersama",
+     "Menyiapkan pengelolaan destinasi wisata desa"
+    ],
+    "bantuan": [
+     "Alat pendakian",
+     "Bantuan peralatan untuk usaha kelompok",
+     "Peralatan pendakian, termasuk tenda dan tas carrier"
+    ],
+    "produk": [
+     "Penyewaan alat pendakian; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p153",
+     "p176",
+     "p196",
+     "p283"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok mengalami stagnasi. Ketua dan anggota sibuk dengan pekerjaan sehari-hari, jumlah pendaki yang menyewa alat menurun dan sebagian pendaki membawa peralatan sendiri. Usaha…",
+    "kendala": [
+     "Anggota tinggal tersebar di beberapa dusun yang berjauhan sehingga komunikasi sulit.",
+     "Anggota sibuk dengan kegiatan pertanian.",
+     "Dukungan pihak desa terhadap kegiatan yang direncanakan dinilai kurang."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Menyusun kembali program kerja ketika kesibukan anggota berkurang.",
+     "Meningkatkan usaha penyewaan alat pendakian."
+    ],
+    "bantuan": [
+     "Alat pendakian, termasuk tenda dan tas carrier"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p228",
+     "p233"
+    ]
+   },
+   "2025": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Penyewaan peralatan pendakian berjalan baik pada awalnya, tetapi menurun pada tahun-tahun berikutnya karena anggota memiliki kesibukan lain. Jasa pemandu dan porter masih…",
+    "kendala": [
+     "Usaha penyewaan peralatan pendakian menurun karena anggota memiliki kesibukan lain.",
+     "Jalur ilegal menimbulkan persaingan dengan anggota kelompok.",
+     "Ketua kelompok bekerja di luar kota."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Peningkatan kapasitas pemandu wisata.",
+     "Pembentukan pos jaga pendakian yang dijaga masyarakat."
+    ],
+    "bantuan": [
+     "Peralatan pendakian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p267"
+    ]
+   },
+   "2026": {
+    "status": "tidak aktif",
+    "anggota": 15,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "170; Kelas Pemula"
+    ],
+    "kondisi": "Kelompok dan seluruh pengurus maupun anggotanya disebut mengalami kevakuman dan tidak aktif. Banyak peralatan pendakian rusak dan tidak layak disewakan; tidak ada penyewaan alat.…",
+    "kendala": [
+     "Peralatan pendakian banyak yang rusak dan tidak layak disewakan.",
+     "Peralatan kopi tersebar dan digunakan secara mandiri oleh anggota.",
+     "Tidak ada catatan penjualan penggunaan alat kopi."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Inventarisasi ulang peralatan pendakian dan penetapan penanggung jawab.",
+     "Pencatatan penjualan anggota yang menggunakan alat kopi."
+    ],
+    "bantuan": [
+     "Peralatan pendakian, termasuk tas carrier",
+     "Peralatan untuk membuat kopi",
+     "Coffee box",
+     "Set alat sablon"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p303"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k12",
+  "nama": "Nente Jara",
+  "desa": "Sori Tatanga",
+  "resort": "Doro Ncanga",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok wisata alam",
+  "usaha": "Wisata alam",
+  "ketua": "Sudarman (ketua baru; Hamzah, ketua lama, tetap menjadi anggota)",
+  "dibentuk": "2021",
+  "dasar_pembentukan": "SK Kepala Desa Sori Tatanga Nomor 1493/DSTT/XI/2021 tentang perubahan SK Nomor 163/DSTT/II/2021; kelompok juga disebut t",
+  "tahun_terakhir": 2024,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2021": {
+    "status": "kurang aktif",
+    "anggota": 13,
+    "anggota_perempuan": 0,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai kelompok binaan TN Tambora dan kelompok baru dalam pembahasan bantuan sampan. Dokumen tidak menjelaskan bidang usaha, bantuan yang telah diterima, atau kondisi…",
+    "kendala": [
+     "Sebagian pengurus dan anggota sempat tidak bersemangat dan pesimis terhadap keberlanjutan kelompok.",
+     "Ketua lama sudah lanjut usia dan kesulitan menjalankan tugas; ketua baru sibuk menjaga kuda milik Gubernur…",
+     "Sebagian besar kuda kelompok merupakan kuda pacuan, bukan kuda wisata, sehingga perlu dilatih."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Keterampilan & SDM",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendampingan kelompok secara rutin.",
+     "Pelatihan kuda yang telah disiapkan agar siap digunakan untuk wisata."
+    ],
+    "bantuan": [
+     "Seperangkat peralatan berkuda: pelana, tali kekang, alas pelana,…"
+    ],
+    "produk": [
+     "Tidak disebut; kelompok telah menyiapkan 10 ekor kuda milik anggota untuk dilatih menjadi kuda…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p034",
+     "p037",
+     "p043"
+    ]
+   },
+   "2022": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok masih aktif, tetapi belum melakukan kegiatan produktif berupa penyewaan jasa menaiki kuda. Kegiatan sejauh ini berfokus pada penguatan kelembagaan dan musyawarah.…",
+    "kendala": [
+     "Sebagian anggota tidak aktif dan sibuk berladang",
+     "Pengurus dan anggota belum disahkan oleh Kepala Desa",
+     "Beberapa perlengkapan pelana kuda tidak pas"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Identifikasi dan pengesahan pengurus serta anggota melalui SK Kepala Desa",
+     "Penjahitan atau penyetelan ulang perlengkapan pelana"
+    ],
+    "bantuan": [
+     "Perlengkapan pelana kuda",
+     "Kandang kuda",
+     "Peralatan pelana kuda dan kelengkapannya"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p084",
+     "p104"
+    ]
+   },
+   "2023": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Dokumen menyebut terdapat masalah dan kendala yang dihadapi kelompok, tetapi tidak merinci kondisi kelembagaan, usaha, atau pemanfaatan bantuan.",
+    "kendala": [
+     "Tarif jasa berkuda belum ditentukan.",
+     "Promosi wisata berkuda belum dilakukan.",
+     "Belum ada penyewaan jasa berkuda kepada pengunjung."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [
+     "Musyawarah untuk menetapkan harga jasa berkuda yang proporsional dan terjangkau.",
+     "Promosi melalui anggota, media sosial, poster, spanduk, atau video."
+    ],
+    "bantuan": [
+     "Peralatan pelana kuda dan kelengkapannya",
+     "Uang untuk memfasilitasi pengadaan peralatan dan perlengkapan…"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p153",
+     "p176",
+     "p199"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": 30,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Pelana kuda bantuan masih lengkap dan disimpan. Kelompok pernah membuat kandang transit di sekitar Resort Doro Ncanga, tetapi belum digunakan karena belum ada wisatawan yang…",
+    "kendala": [
+     "Tarif wisata berkuda dinilai belum menutup biaya operasional pemeliharaan kuda.",
+     "Jarak kandang kuda ke lokasi atraksi wisata jauh dan tidak tersedia biaya atau kendaraan untuk mobilisasi…",
+     "Anggota belum mengetahui atau mampu mempromosikan wisata berkuda."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Penyesuaian dan sosialisasi tarif wisata berkuda.",
+     "Bantuan mobilisasi kuda dari kandang ke lokasi atraksi."
+    ],
+    "bantuan": [
+     "Pelana kuda"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p230",
+     "p248"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k13",
+  "nama": "Tambora Hijau",
+  "desa": "Sori Tatanga",
+  "resort": "Doro Ncanga",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Wisata alam",
+  "ketua": "Hendra",
+  "dibentuk": "2017",
+  "dasar_pembentukan": "Dibentuk melalui musyawarah masyarakat Desa Sori Tatanga dan Taman Nasional Tambora; nomor dasar hukum tidak disebutkan.",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2021": {
+    "status": "kurang aktif",
+    "anggota": 30,
+    "anggota_perempuan": 0,
+    "penilaian": [],
+    "kondisi": "Kelompok binaan TN Tambora. Bantuan perahu dimaksudkan untuk mendukung wisata bahari di Oi Ho’do. Dalam diskusi disampaikan bahwa bantuan sampan yang kurang tepat sasaran perlu…",
+    "kendala": [
+     "Pengurus kurang aktif dan kelembagaan tidak berjalan efektif.",
+     "Sebagian anggota pasif dan rapat rutin belum dilaksanakan.",
+     "AD/ART belum dijalankan secara konsisten dan belum mengatur beberapa hal, termasuk pembagian penghasilan."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Meninjau dan memperkuat pelaksanaan AD/ART.",
+     "Mengembalikan dan menyimpan barang kelompok di sekretariat atau Kantor Resort Doro Ncanga."
+    ],
+    "bantuan": [
+     "Paket alat pendakian, termasuk tenda, matras, dan sleeping bag",
+     "Perahu dan alat pancing",
+     "Perahu/sampan"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p039",
+     "p043"
+    ]
+   },
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok menyusun rencana aksi setelah aktivitas kelompok mengalami kevakuman. Rencana yang dibahas meliputi rapat rutin, penataan Bukit Bintang, camping santai, promosi media…",
+    "kendala": [
+     "Belum pernah melakukan pelaporan NPWP",
+     "Kelompok kurang aktif dan kepengurusan perlu diperbarui",
+     "Perselisihan dengan MMP/MPA terkait pelayanan tamu di jalur pendakian Doro Ncanga"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendampingan intensif dan pembaruan SK kelompok",
+     "Pendampingan pelaporan NPWP"
+    ],
+    "bantuan": [
+     "Kapal",
+     "Peralatan bantuan sebelumnya; jenis tidak dirinci, sebagian sudah…",
+     "Peralatan perkemahan",
+     "Matras"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p084",
+     "p092",
+     "p105",
+     "p321"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": 30,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Hanya disebut dalam daftar kelompok binaan SPTN II Pekat/Kempo; rincian kondisi tidak tersedia.",
+    "kendala": [
+     "Alat pendakian banyak rusak dan hilang.",
+     "Promosi penyewaan alat dan wisata pendakian kurang.",
+     "Penggunaan perahu untuk usaha kelompok kurang dan tidak rutin."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Pendampingan untuk meningkatkan kekompakan dan koordinasi kelompok.",
+     "Promosi penyewaan alat pendakian dan usaha kelompok."
+    ],
+    "bantuan": [
+     "Paket alat pendakian, termasuk tenda, matras, sleeping bag, dan…",
+     "Perahu dan alat pancing",
+     "Paket alat pendakian, termasuk tenda, matras, dan sleeping bag",
+     "Perahu"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p153",
+     "p169",
+     "p172",
+     "p176"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": 30,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok pernah menyewakan beberapa peralatan pendakian dan memiliki kas Rp1500000. Banyak peralatan bantuan rusak atau hilang. Anggota kurang terbuka dan jarang berdiskusi,…",
+    "kendala": [
+     "Banyak alat pendakian rusak atau hilang sehingga menghambat perputaran uang sewa.",
+     "Promosi jalur pendakian Doro Ncanga dan penyewaan alat masih kurang.",
+     "Ketua kurang aktif berinteraksi dengan anggota; anggota jarang berkumpul karena kesibukan bertani jagung dan…"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Pendampingan perencanaan kegiatan dan pembukuan yang transparan.",
+     "Promosi jalur pendakian dan penyewaan alat, termasuk melalui media sosial."
+    ],
+    "bantuan": [
+     "Paket alat pendakian, termasuk tenda, matras, dan sleeping bag",
+     "Perahu",
+     "Alat pancing",
+     "Peralatan pendakian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p230",
+     "p248"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": 30,
+    "anggota_perempuan": 0,
+    "penilaian": [
+     "Kelas Pemula (data sampai November 2020)"
+    ],
+    "kondisi": "Disebut dalam materi sebagai kelompok penerima bantuan usaha ekonomi produktif. Dokumen tidak menguraikan kondisi kelembagaan, usaha berjalan, atau pemanfaatan bantuan.",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [],
+    "bantuan": [
+     "Set alat pendakian (matras, sleeping bag, tenda, dan lain-lain)",
+     "Perahu dan alat pancing",
+     "Perahu",
+     "Alat pancing"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p255",
+     "p262",
+     "p263"
+    ]
+   },
+   "2026": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Anggota masih aktif terdaftar, tetapi kegiatan kelompok saat ini vakum. Peralatan yang semula disimpan ketua dipindahkan ke Resort Doro Ncanga; saat dipindahkan tercatat 7 tenda,…",
+    "kendala": [
+     "Usaha kelompok vakum",
+     "Pengelolaan dan pengawasan aset lemah",
+     "Peralatan hilang secara bertahap"
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Penguatan manajemen dan pengamanan aset",
+     "Revitalisasi kelembagaan"
+    ],
+    "bantuan": [
+     "Peralatan pendakian",
+     "Kompor mini"
+    ],
+    "produk": [],
+    "pendapatan": [
+     1200000,
+     "Total pemasukan dari penyewaan peralatan pendakian; digunakan untuk membeli 3…"
+    ],
+    "kegiatan": [
+     "p298"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k14",
+  "nama": "So Sori Tula",
+  "desa": "Sori Tatanga",
+  "resort": "Doro Ncanga",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Lainnya",
+  "ketua": null,
+  "dibentuk": "2022",
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2023,
+  "status_terakhir": "aktif",
+  "riwayat": {
+   "2021": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai kelompok yang akan dibentuk dengan latar belakang anggota sebagai pelaku illegal logging. Rencana pembentukan diarahkan agar kegiatan mereka tidak hanya…",
+    "kendala": [
+     "Sebagian calon anggota disebut memiliki latar belakang sebagai pelaku illegal logging."
+    ],
+    "tema_kendala": [],
+    "kebutuhan": [
+     "Alternatif kegiatan ekonomi yang memanfaatkan potensi laut."
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p043"
+    ]
+   },
+   "2023": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Dokumen menyebut terdapat masalah dan kendala yang dihadapi kelompok, tetapi tidak merinci kondisi kelembagaan atau usahanya.",
+    "kendala": [
+     "Kapal/perahu rusak.",
+     "Penangkapan ikan bergantung pada musim yang sesuai.",
+     "Pendapatan masih sedikit."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendampingan untuk mengatasi kendala kapal/perahu dan menjaga keberlanjutan usaha.",
+     "Koordinasi dan pertemuan kelompok untuk menyusun program kerja."
+    ],
+    "bantuan": [
+     "Perahu dan mesin",
+     "Perahu",
+     "Mesin perahu"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p153",
+     "p172",
+     "p176",
+     "p199"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k15",
+  "nama": "Kelompok Madu Tambora Desa Piong",
+  "desa": "Piong",
+  "resort": "Piong",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok tani hutan & madu",
+  "usaha": "Madu hutan",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2022,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2022": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Dokumen menyebut kelompok Madu Tambora telah dibentuk di beberapa desa lingkar Tambora dan menerima bantuan alat pemanenan madu. Madu hutan Tambora menjadi mata pencaharian…",
+    "kendala": [],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [
+     "Alat pemanenan madu"
+    ],
+    "produk": [
+     "Panen madu paling banyak berkisar Agustus–September; volume tidak disebut."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p046"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k16",
+  "nama": "Kelompok Madu Tambora Desa Oi Katupa",
+  "desa": "Oi Katupa",
+  "resort": "Oi Katupa",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok tani hutan & madu",
+  "usaha": "Madu hutan",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2022,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2022": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Dokumen menyebut kelompok Madu Tambora telah dibentuk di beberapa desa lingkar Tambora dan menerima bantuan alat pemanenan madu. Madu hutan Tambora menjadi mata pencaharian…",
+    "kendala": [],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [
+     "Alat pemanenan madu"
+    ],
+    "produk": [
+     "Panen madu paling banyak berkisar Agustus–September; volume tidak disebut."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p046"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k17",
+  "nama": "Kelompok Madu Tambora Desa Kawinda Toi",
+  "desa": "Kawinda Toi",
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok tani hutan & madu",
+  "usaha": "Madu hutan",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2022,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2022": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Dokumen menyebut kelompok Madu Tambora telah dibentuk di beberapa desa lingkar Tambora dan menerima bantuan alat pemanenan madu. Madu hutan Tambora menjadi mata pencaharian…",
+    "kendala": [],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [
+     "Alat pemanenan madu"
+    ],
+    "produk": [
+     "Panen madu paling banyak berkisar Agustus–September; volume tidak disebut."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p046"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k18",
+  "nama": "Oi Jara",
+  "desa": "Piong",
+  "resort": "Piong",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok wisata alam",
+  "usaha": "Wisata alam",
+  "ketua": null,
+  "dibentuk": "2017",
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2024,
+  "status_terakhir": "tidak aktif",
+  "riwayat": {
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok dibentuk untuk mengembangkan wisata berkuda dan mempertahankan tradisi penggunaan kuda. Pengurus dan anggotanya berprofesi sebagai peternak sapi sehingga kesibukan…",
+    "kendala": [
+     "Kesibukan anggota sebagai peternak menghambat kegiatan kelompok",
+     "Pertemuan dan administrasi kelompok tidak berjalan"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Penggerak kelompok yang dapat menyatukan anggota",
+     "Pengembangan kegiatan wisata berkuda"
+    ],
+    "bantuan": [
+     "Barang bantuan; jenis tidak disebutkan"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p048",
+     "p059"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Bantuan perlengkapan berkuda masih baik, tetapi menurut kelompok belum pernah dimanfaatkan. Kelompok meminta tindak lanjut atas rencana pembuatan jalur wisata berkuda di sekitar…",
+    "kendala": [
+     "Permodalan menjadi kendala",
+     "Banyak anggota dan pengurus tidak aktif",
+     "Belum memiliki kuda"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Permodalan",
+     "Kuda untuk mengembangkan usaha"
+    ],
+    "bantuan": [
+     "Seperangkat pelana kuda",
+     "Perlengkapan berkuda, termasuk pelana kuda"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p134",
+     "p135"
+    ]
+   },
+   "2024": {
+    "status": "tidak aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "0,53 — kurang berhasil"
+    ],
+    "kondisi": "Kelompok kesulitan mengembangkan wisata berkuda karena hanya sebagian kecil anggota masih memiliki kuda dan kuda-kuda tersebut bukan kuda jinak untuk wisata. Pelana bantuan tidak…",
+    "kendala": [
+     "Anggota tidak lagi memiliki kuda",
+     "Kuda pacuan sulit digunakan untuk wisata berkuda",
+     "Tidak ada permintaan wisata berkuda"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan"
+    ],
+    "kebutuhan": [
+     "Permintaan atau pasar wisata berkuda",
+     "Pendampingan intensif untuk merawat dan melatih kuda agar jinak."
+    ],
+    "bantuan": [
+     "Pelana kuda"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p217",
+     "p223"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k19",
+  "nama": "Sanggar Offroad",
+  "desa": "Piong",
+  "resort": "Piong",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok wisata alam",
+  "usaha": "Wisata alam",
+  "ketua": "Ashar",
+  "dibentuk": "2022",
+  "dasar_pembentukan": "SK kelompok ditandatangani/disahkan oleh Kepala Desa Piong; nomor SK tidak disebut",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "baru dibentuk",
+  "riwayat": {
+   "2022": {
+    "status": "baru dibentuk",
+    "anggota": 8,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok tercantum sebagai salah satu kelompok yang dievaluasi, tetapi uraian kondisi tidak tersedia dalam teks dokumen yang diberikan.",
+    "kendala": [
+     "Belum dijelaskan mekanisme pengelolaan kelompok dan lokasi penyimpanan mobil.",
+     "Muncul pertanyaan mengenai akses kelompok lain terhadap jasa mobil dan potensi kecemburuan."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Bimbingan rutin dan penguatan administrasi kelompok",
+     "Mengajukan proposal bantuan mobil 4x4"
+    ],
+    "bantuan": [
+     "Bantuan uang untuk membeli mobil off road (Rp125.000.000)"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p048",
+     "p068",
+     "p069"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "1,2 — cukup berhasil"
+    ],
+    "kondisi": "Mobil bantuan masih dalam kondisi baik dan aman digunakan untuk mengantar pengunjung; sejak menerima bantuan pada Agustus 2022 kelompok telah merasakan manfaatnya. Hanya sebagian…",
+    "kendala": [
+     "Kendaraan bantuan mengalami kerusakan dan sedang tidak digunakan.",
+     "Jalur pendakian ditutup sejak akhir 2022 sehingga pendapatan pelayanan pengunjung terhenti.",
+     "Pertemuan kelompok tidak rutin."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Perbaikan kendaraan bantuan.",
+     "Pembukaan kembali jalur pendakian."
+    ],
+    "bantuan": [
+     "Kendaraan mobil untuk kegiatan kelompok",
+     "Kendaraan mobil",
+     "Mobil off-road"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p117",
+     "p128",
+     "p134",
+     "p150"
+    ]
+   },
+   "2024": {
+    "status": "tidak aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "1,1; cukup berhasil"
+    ],
+    "kondisi": "Kelompok memiliki struktur dan ketua baru karena ketua lama tidak aktif, tetapi SK kepengurusan baru belum diproses. Mobil bantuan rusak parah dan tidak dapat digunakan;…",
+    "kendala": [
+     "Mobil bantuan rusak berat dan biaya perbaikan besar",
+     "Penyebab kerusakan belum dijelaskan kelompok",
+     "Ketua sulit ditemui"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pertemuan lanjutan dan konsultasi dengan atasan terkait kerusakan mobil",
+     "Pendampingan untuk menyelesaikan masalah kelompok"
+    ],
+    "bantuan": [
+     "Mobil bantuan",
+     "Mobil"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p211",
+     "p222"
+    ]
+   },
+   "2025": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Kelas Pemula (data sampai November 2020)"
+    ],
+    "kondisi": "Kelompok menjalankan jasa wisata alam dengan penyewaan mobil offroad. Aktivitas belum optimal karena mobil bantuan mengalami kerusakan berat. Pembaruan SK kelompok direncanakan…",
+    "kendala": [
+     "Mobil offroad bantuan mengalami kerusakan berat.",
+     "SK kelompok dan dokumen administrasi belum lengkap.",
+     "Jumlah anggota perlu ditambah."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Perbaikan mobil offroad.",
+     "Pembaruan SK kelompok dan penataan struktur organisasi."
+    ],
+    "bantuan": [
+     "Mobil offroad Mitsubishi Triton 4x4",
+     "Mobil offroad Mitsubishi Triton 4x4 untuk wisata pendakian",
+     "Mobil offroad"
+    ],
+    "produk": [
+     "Jasa penyewaan mobil offroad; volume layanan tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p255",
+     "p262",
+     "p263",
+     "p274"
+    ]
+   },
+   "2026": {
+    "status": "baru dibentuk",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai kelompok baru yang perlu dijalin komunikasinya oleh Moti La Halo. Kendaraan roda empat Mitsubishi Triton kelompok dalam kondisi rusak dan sedang diusulkan untuk…",
+    "kendala": [
+     "Kendaraan Mitsubishi Triton dalam kondisi rusak."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Perbaikan kendaraan Mitsubishi Triton agar dapat dimanfaatkan.",
+     "Menjalin komunikasi dan kerja sama dengan Kelompok Moti La Halo."
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p293"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k20",
+  "nama": "PALTAM",
+  "desa": "Kawinda Toi",
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok pecinta alam",
+  "usaha": "Wisata alam",
+  "ketua": "Asgar",
+  "dibentuk": "2019",
+  "dasar_pembentukan": "Disebut dalam Kesepakatan Konservasi Desa; nomor kesepakatan tidak dicantumkan",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2022": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kesepakatan memuat rencana pengembangan usaha penyewaan alat pendakian serta pendampingan kelompok. Dokumen tidak menjelaskan kondisi usaha, pemanfaatan bantuan, atau jumlah…",
+    "kendala": [
+     "Penyewaan alat terbatas dan terhenti selama pandemi Covid-19 dan penutupan jalur pendakian.",
+     "Permintaan izin membuka jalur pendakian baru tidak disetujui."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Mengaktifkan kembali penyewaan perlengkapan berkemah.",
+     "Bekerja sama dengan KPA Algura."
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p051",
+     "p071"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai sasaran monitoring dan evaluasi; rincian kondisi, bantuan, dan anggota tidak tersedia dalam teks yang diberikan.",
+    "kendala": [
+     "Pertemuan rutin belum terlaksana",
+     "Bantuan hilang atau rusak",
+     "Belum ada administrasi penyewaan"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Menjadwalkan pertemuan rutin minimal sebulan sekali",
+     "Menentukan tempat penyimpanan bantuan"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p118",
+     "p151"
+    ]
+   },
+   "2024": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok diberdayakan untuk mengelola alat pendakian dan camping. Minat pengunjung terhadap jasa kelompok meningkat, dikaitkan dengan adanya camping ground Savana di Desa Oi…",
+    "kendala": [],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Pencatatan transaksi penggunaan fasilitas perkemahan",
+     "Alat-alat perkemahan"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p206",
+     "p211",
+     "p219"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Kelas Pemula (data sampai November 2020)"
+    ],
+    "kondisi": "Disebut dalam materi sebagai kelompok binaan; materi mencantumkan peralatan pendakian, tetapi tidak merinci kondisi kelembagaan atau pemanfaatannya.",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [
+     "Peralatan pendakian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p255",
+     "p262",
+     "p263"
+    ]
+   },
+   "2026": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok sempat vakum dan keaktifan anggota berkurang pada musim tanam. Sebagian besar alat bantuan rusak karena usia dan sebagian hilang; alat yang masih ada masih digunakan dan…",
+    "kendala": [
+     "Sebagian alat bantuan rusak atau hilang.",
+     "Anggota kurang aktif pada musim tanam.",
+     "Dalam beberapa kegiatan diperlukan HT."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Pertimbangan bantuan lanjutan untuk sarana pendakian.",
+     "Akses/peminjaman HT."
+    ],
+    "bantuan": [
+     "Seperangkat alat pendakian: tas, tenda, sleeping bag, kompor, dan…"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p284"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k21",
+  "nama": "MPA Cincin Tambora",
+  "desa": "Oi Katupa",
+  "resort": "Oi Katupa",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kader & relawan konservasi",
+  "usaha": "Konservasi & lingkungan",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2022,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2021": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Anggota mengikuti sosialisasi dan disebut selama ini membantu pihak Taman Nasional Tambora dalam upaya pencegahan dan penanggulangan karhutla di wilayah kerja Resort Oi Katupa.",
+    "kendala": [],
+    "tema_kendala": [],
+    "kebutuhan": [],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p033"
+    ]
+   },
+   "2022": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Sebanyak 10 orang dari kelompok mengikuti sosialisasi; jumlah total anggota dan kondisi kelembagaan tidak disebut.",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p054"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k23",
+  "nama": "Madu Merah",
+  "desa": "Oi Katupa",
+  "resort": "Oi Katupa",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok tani hutan & madu",
+  "usaha": "Madu hutan",
+  "ketua": "Sukrin",
+  "dibentuk": "2018",
+  "dasar_pembentukan": "SK pembentukan; nomor tidak disebutkan",
+  "tahun_terakhir": 2025,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": 30,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok mengembangkan usaha pengolahan madu hutan. Dokumen menampilkan produk madu hutan kemasan dan mencatat diskusi dengan anggota serta pengecekan alat bantuan. Rincian…",
+    "kendala": [
+     "Administrasi kelompok belum memadai dan banyak kegiatan tidak tercatat.",
+     "Anggota aktif berkurang dari 30 menjadi 10 orang.",
+     "Promosi dan pemasaran belum maksimal."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Penguatan administrasi kelompok.",
+     "Peningkatan keterampilan dan pengetahuan anggota."
+    ],
+    "bantuan": [
+     "Pemeras madu manual",
+     "Botol kemasan 500 ml",
+     "Botol kemasan 350 ml",
+     "Botol kemasan 100 ml"
+    ],
+    "produk": [
+     "Volume produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p054",
+     "p065",
+     "p074",
+     "p075"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": 30,
+    "anggota_perempuan": 0,
+    "penilaian": [
+     "1,1 — cukup berhasil"
+    ],
+    "kondisi": "Alat pengolahan madu masih tersedia, tetapi jumlahnya sudah berkurang. Keuntungan penjualan tidak disisihkan sebagai kas kelompok sehingga tidak tersedia dana untuk membeli alat…",
+    "kendala": [
+     "Anggota memiliki kesibukan lain, termasuk pemanenan jagung.",
+     "Madu langsung dijual kepada pengumpul untuk memperoleh uang segera.",
+     "Penjualan produk kemasan membutuhkan waktu."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Konfirmasi dan penguatan komitmen anggota.",
+     "Pemanfaatan bantuan pengemasan untuk meningkatkan nilai jual madu."
+    ],
+    "bantuan": [
+     "Pemeras madu manual",
+     "Botol kemasan 500 ml",
+     "Botol kemasan 350 ml",
+     "Botol kemasan 100 ml"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p122",
+     "p134",
+     "p142",
+     "p151"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Barang bantuan masih ada, tetapi beberapa item, termasuk botol kemasan, rusak. Anggota sudah tidak beraktivitas mencari madu sehingga bantuan belum dimanfaatkan maksimal.…",
+    "kendala": [
+     "Aktivitas kelompok belum optimal",
+     "Pertemuan tidak rutin",
+     "Status keanggotaan kurang jelas"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pergantian pengurus dan anggota kelompok",
+     "Dana untuk penambahan dan perawatan alat pengolahan madu"
+    ],
+    "bantuan": [
+     "Alat-alat pengolahan madu",
+     "Peralatan pemanfaatan dan pengolahan madu alam"
+    ],
+    "produk": [
+     "Volume produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p221",
+     "p225"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Kelas Pemula (data sampai November 2020)"
+    ],
+    "kondisi": "Disebut dalam materi sebagai kelompok binaan TN Tambora; rincian kondisi kelompok dan bantuan tidak dicantumkan.",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [
+     "Peralatan pengolahan madu hutan"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p255",
+     "p262",
+     "p263"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k24",
+  "nama": "Madu Lestari Lereng Tambora",
+  "desa": "Oi Katupa",
+  "resort": "Oi Katupa",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok tani hutan & madu",
+  "usaha": "Madu hutan",
+  "ketua": "Hidayat Mahfin",
+  "dibentuk": "2020",
+  "dasar_pembentukan": "Arsip SK/berita acara pembentukan tersedia; nomor tidak disebutkan",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2022": {
+    "status": "aktif",
+    "anggota": 14,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok mengembangkan budidaya lebah madu kelulut/Trigona dan menerima bantuan stup dari BPPTHHBK NTB. Jumlah stup dan uraian hasil pendampingan tidak tersedia pada teks yang…",
+    "kendala": [
+     "Belum banyak menghasilkan madu sehingga produksi belum dimulai.",
+     "Administrasi kelompok belum memadai.",
+     "Pengetahuan dan keterampilan pengelolaan serta perbanyakan stub madu masih perlu ditingkatkan."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Keterampilan & SDM",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Peningkatan keterampilan pengelolaan dan perbanyakan stub madu.",
+     "Pendampingan penggunaan kemasan yang baik."
+    ],
+    "bantuan": [
+     "Stub madu berkoloni",
+     "Beruga stub",
+     "Saringan madu",
+     "Dandang tiris"
+    ],
+    "produk": [
+     "Belum memulai produksi; belum banyak menghasilkan madu."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p054",
+     "p065",
+     "p074",
+     "p075"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai sasaran monitoring dan evaluasi; rincian kondisi, bantuan, dan anggota tidak tersedia dalam teks yang diberikan.",
+    "kendala": [
+     "Sebagian besar anggota kurang aktif; kegiatan terutama dijalankan oleh ketua, sekretaris, dan satu anggota…",
+     "Pertemuan rutin kelompok hampir tidak pernah dilaksanakan",
+     "Alat panen belum dimanfaatkan secara maksimal"
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pertemuan rutin dan inovasi pengembangan kelompok",
+     "Pengurusan NIB dan P-IRT"
+    ],
+    "bantuan": [
+     "Paket alat panen madu dan setup madu trigona",
+     "Stup madu berkoloni"
+    ],
+    "produk": [
+     "Pemanenan dilakukan, tetapi volume produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p134",
+     "p139",
+     "p142",
+     "p151"
+    ]
+   },
+   "2024": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Jumlah stup bantuan yang aktif berkurang dan banyak stup kosong akibat gangguan monyet dan semut. Kelompok juga jarang mengadakan pertemuan dan koordinasi kelompok belum berjalan…",
+    "kendala": [
+     "Stup madu dirusak monyet dan semut",
+     "Sebagian stup lama telah lapuk",
+     "Bantuan stup belum dimanfaatkan optimal"
+    ],
+    "tema_kendala": [
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Dana operasional untuk memperbarui stup madu",
+     "Sumber pemasukan alternatif"
+    ],
+    "bantuan": [
+     "Stup madu berkoloni",
+     "Stup budidaya lebah madu Trigona"
+    ],
+    "produk": [
+     "Pemanenan rutin dilakukan menggunakan stup yang masih baik; volume produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p221",
+     "p225"
+    ]
+   },
+   "2025": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Hasil pendampingan menyebut kurang dari 50% stup masih utuh secara fisik dan hanya 3 stup yang masih berisi koloni lebah serta berpotensi menghasilkan madu. Banyak anggota tidak…",
+    "kendala": [
+     "Ketidakaktifan anggota dan lemahnya kelembagaan",
+     "Tidak ada pembagian tugas dan tanggung jawab yang jelas",
+     "Pengetahuan budidaya lebah trigona terbatas"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Keterampilan & SDM"
+    ],
+    "kebutuhan": [
+     "Pendampingan berkelanjutan untuk penguatan kelembagaan, AD/ART, dan pembagian tugas",
+     "Pelatihan teknis budidaya, pemberian pakan, penanganan predator, dan perawatan stup"
+    ],
+    "bantuan": [
+     "Stup madu berkoloni",
+     "Berugak stup",
+     "Saringan madu V Mesh 165",
+     "Dandang tiris"
+    ],
+    "produk": [
+     "Tidak disebut; hanya 3 stup berkoloni dan berpotensi menghasilkan madu."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p276"
+    ]
+   },
+   "2026": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kuantitas budidaya madu menurun/sedikit, perawatan masih minim dan pemasaran belum terlaksana optimal. Beberapa stup kosong. Laporan mengaitkan kondisi tersebut dengan…",
+    "kendala": [
+     "Sebagian besar anggota kelompok tidak aktif.",
+     "Hanya 3 dari 156 stup yang masih dihuni koloni lebah.",
+     "Jumlah anggota belum memenuhi batas minimal pendaftaran KTH."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Penambahan anggota kelompok agar memenuhi batas minimal untuk pendaftaran KTH."
+    ],
+    "bantuan": [
+     "Stup lebah madu Trigona"
+    ],
+    "produk": [
+     "Kuantitas budidaya menurun/sedikit; volume produksi tidak dicantumkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p291",
+     "p295"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k25",
+  "nama": "Boro Maju Bersama",
+  "desa": "Boro",
+  "resort": "Piong",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Lainnya",
+  "ketua": "Haedar",
+  "dibentuk": "2020",
+  "dasar_pembentukan": "SK Kepala Desa tahun 2020; nomor tidak disebutkan",
+  "tahun_terakhir": 2024,
+  "status_terakhir": "tidak aktif",
+  "riwayat": {
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": 43,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Dari 43 anggota, hanya sekitar 6 orang yang aktif. Sebagian anggota sibuk bertani dan beternak, tidak terbiasa melaut, atau bukan berprofesi sebagai nelayan. Perahu motor masih…",
+    "kendala": [
+     "Sebagian besar anggota kurang aktif atau tidak berkomunikasi.",
+     "Belum ada pertemuan kelompok untuk mengatur penggunaan perahu motor.",
+     "Belum ada pembukuan untuk pengelolaan keuangan dan perawatan perahu."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Pertemuan rutin untuk membahas penggunaan dan pengelolaan perahu motor.",
+     "Pembukuan keuangan kelompok dan penyisihan dana perawatan."
+    ],
+    "bantuan": [
+     "Perahu motor beserta perlengkapannya",
+     "Perahu motor"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p064",
+     "p066",
+     "p069",
+     "p076",
+     "p077"
+    ]
+   },
+   "2023": {
+    "status": "tidak aktif",
+    "anggota": 43,
+    "anggota_perempuan": 0,
+    "penilaian": [],
+    "kondisi": "Kelompok sudah lama vakum dari aktivitas melaut. Seluruh perangkat alat kapal bantuan disebut sudah rusak. Menurut ketua, biaya untuk sekali melaut tidak tertutup oleh hasil…",
+    "kendala": [
+     "Sebagian anggota tidak aktif atau mengundurkan diri.",
+     "Cuaca tidak memungkinkan untuk melaut.",
+     "Belum ada pertemuan kelompok dan pembukuan keuangan."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Mengaktifkan atau mengganti anggota yang tidak aktif dengan nelayan yang membutuhkan perahu motor.",
+     "Pertemuan kelompok berkala."
+    ],
+    "bantuan": [
+     "Perahu motor beserta perlengkapannya",
+     "Perahu dan perangkat alat kapal"
+    ],
+    "produk": [
+     "Hasil tangkapan ikan tuna; volume tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p122",
+     "p130",
+     "p134",
+     "p151"
+    ]
+   },
+   "2024": {
+    "status": "tidak aktif",
+    "anggota": 40,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "0,54; kurang berhasil"
+    ],
+    "kondisi": "Kelompok sudah lama vakum dari kegiatan melaut karena perahu rusak. Mesin perahu rusak total dan dijual oleh ketua seharga Rp800000; hasil penjualan digunakan untuk membayar…",
+    "kendala": [
+     "Anggota kurang aktif dan motivasi kelompok rendah.",
+     "Pertemuan rutin hampir tidak pernah dilakukan.",
+     "Badan perahu sering rusak meskipun telah diperbaiki."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Pertemuan rutin internal kelompok.",
+     "Inovasi untuk pengembangan kelompok."
+    ],
+    "bantuan": [
+     "Perahu motor",
+     "Perahu untuk melaut dan mencari ikan",
+     "Perahu bantuan beserta mesin"
+    ],
+    "produk": [
+     "Hasil tangkapan ikan tidak disebutkan"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p205",
+     "p217",
+     "p220"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k39",
+  "nama": "Oi Katebe",
+  "desa": "Tolokalo",
+  "resort": "Doro Ncanga",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok tani hutan & madu",
+  "usaha": "Madu hutan",
+  "ketua": null,
+  "dibentuk": "2018",
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2024,
+  "status_terakhir": "aktif",
+  "riwayat": {
+   "2022": {
+    "status": "tidak aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok tidak aktif karena anggota sibuk berladang, belum memiliki rencana kegiatan dan belum ada pertemuan rutin. Peralatan bantuan sebelumnya disebut belum dapat dipakai…",
+    "kendala": [
+     "Belum pernah melakukan pelaporan NPWP",
+     "Tidak ada pertemuan rutin dan rencana kegiatan",
+     "Anggota sibuk dengan kegiatan masing-masing"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Pendampingan dan penyusunan rencana aksi serta AD-ART",
+     "Modal untuk membeli madu anggota"
+    ],
+    "bantuan": [
+     "Peralatan bantuan sebelumnya; jenis tidak dirinci dan belum/tidak…",
+     "Baju pelindung lebah",
+     "Alat peras madu",
+     "Botol kemasan madu isi 500 ml"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p092",
+     "p101",
+     "p104",
+     "p321"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Hanya disebut dalam daftar kelompok binaan SPTN II Pekat/Kempo; rincian kondisi tidak tersedia.",
+    "kendala": [
+     "Kurangnya kekompakan dan anggota jarang berkumpul.",
+     "Madu tidak dikumpulkan pada satu tempat sehingga pemasaran dilakukan sendiri-sendiri.",
+     "Tidak ada pemungutan untuk kas kelompok."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Meningkatkan kekompakan dan menyepakati pengumpulan serta pemasaran madu secara kelompok.",
+     "Mengembangkan pengemasan produk."
+    ],
+    "bantuan": [
+     "Bantuan peralatan untuk usaha madu",
+     "Alat peras madu",
+     "Baju pelindung lebah",
+     "Botol kemasan madu"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p153",
+     "p169",
+     "p176"
+    ]
+   },
+   "2024": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok masih mencari madu, tetapi terkendala cuaca, ketersediaan madu di hutan, dan kesibukan anggota. Alat bantuan masih baik dan lengkap, namun baru digunakan satu kali;…",
+    "kendala": [
+     "Cuaca dan ketersediaan madu di hutan membatasi pemanenan.",
+     "Anggota jarang berkumpul karena kesibukan masing-masing dan kekompakan kelompok kurang.",
+     "Madu tidak dikumpulkan di satu tempat; anggota memilih menjual sendiri agar lebih cepat."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Modal untuk membeli madu hasil panen anggota.",
+     "Pelatihan promosi produk, termasuk melalui media sosial."
+    ],
+    "bantuan": [
+     "Alat peras madu",
+     "Baju pelindung lebah",
+     "Botol kemasan madu"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p230"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k42",
+  "nama": "Kader Konservasi SPTN II Pekat/Kempo",
+  "desa": null,
+  "resort": "Tidak disebut",
+  "wilayah": "Tidak disebut",
+  "jenis": "Kader & relawan konservasi",
+  "usaha": "Konservasi & lingkungan",
+  "ketua": null,
+  "dibentuk": "2022",
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2022,
+  "status_terakhir": "baru dibentuk",
+  "riwayat": {
+   "2022": {
+    "status": "baru dibentuk",
+    "anggota": 30,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kegiatan dimaksudkan untuk membentuk kader konservasi sekaligus memberikan pendidikan konservasi. Rincian kondisi kelembagaan dan kegiatan kader setelah pembentukan tidak…",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Keterampilan & SDM"
+    ],
+    "kebutuhan": [],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p106"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k43",
+  "nama": "K-PATA",
+  "desa": "Tambora",
+  "resort": "Pancasila",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok pecinta alam",
+  "usaha": "Wisata alam",
+  "ketua": null,
+  "dibentuk": "2018",
+  "dasar_pembentukan": "SK kelompok; nomor tidak disebut",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "aktif",
+  "riwayat": {
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Pengurus kurang aktif dan belum berubah sejak 2020; anggota bergerak sendiri-sendiri dan sebagian besar pasif karena kesibukan. Kegiatan yang masih berjalan adalah guide/porter,…",
+    "kendala": [
+     "Pengurus lama perlu diganti karena masa jabatan akan berakhir.",
+     "Belum ada pembukuan usaha.",
+     "Sekretariat belum tersedia dan anggota belum terkumpul untuk membersihkan calon lokasi."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pertemuan untuk melaksanakan pergantian pengurus.",
+     "Pendampingan pembukuan usaha."
+    ],
+    "bantuan": [
+     "Alat dan perlengkapan pendakian",
+     "Coffee maker set, mesin penggiling kopi, dan coffee box",
+     "Seperangkat coffee maker set, mesin penggiling kopi, dan coffee box",
+     "Paket alat pendakian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p085",
+     "p086",
+     "p108"
+    ]
+   },
+   "2023": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Tidak disebutkan"
+    ],
+    "kondisi": "Kelompok menunjukkan kemajuan dibandingkan ALPATAR dan memiliki pertemuan rutin. Sebagian anggota, terutama yang berusia muda, masih aktif; kelompok mulai mempromosikan layanan…",
+    "kendala": [
+     "Kelompok binaan secara umum menghadapi kesibukan anggota yang dapat menghambat program bersama",
+     "Sebagian anggota sibuk dengan kegiatan pribadi dan hanya sebagian kecil yang aktif.",
+     "Layanan guide dan porter jarang digunakan oleh pendaki lokal."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Melaksanakan rencana pembersihan sampah di pintu masuk jalur pendakian",
+     "Memasang papan informasi pendakian"
+    ],
+    "bantuan": [
+     "Peralatan bantuan kelompok; dokumen menyebut alat pendakian dan…",
+     "Bantuan peralatan untuk usaha kelompok",
+     "Perlengkapan pendukung wisata alam, termasuk tenda dan tas carrier",
+     "Peralatan pengolahan dan penyajian kopi, termasuk alat pemanggang,…"
+    ],
+    "produk": [
+     "Pengolahan kopi; volume produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p153",
+     "p176",
+     "p196",
+     "p283"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Sebagian anggota masih aktif sebagai ojek dan porter, terutama anggota yang lebih muda; kelompok mulai menawarkan jasa kepada pengunjung dan sebagian anggota meningkatkan…",
+    "kendala": [
+     "Jumlah tamu yang datang masih sedikit.",
+     "Sebagian peralatan pendakian mulai rusak.",
+     "Lantai coffee box mulai rusak."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan",
+     "Keterampilan & SDM"
+    ],
+    "kebutuhan": [
+     "Mempertahankan pertemuan rutin.",
+     "Melanjutkan program kegiatan untuk mendukung kemajuan desa."
+    ],
+    "bantuan": [
+     "Alat pendakian, termasuk tenda dan tas carrier",
+     "Alat pemrosesan kopi, termasuk alat pemanggang, penggiling, coffee…"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p228"
+    ]
+   },
+   "2025": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Kelas Pemula (data sampai November 2020)"
+    ],
+    "kondisi": "Banyak peralatan pendakian rusak dan hanya tersisa beberapa yang masih disewakan, antara lain carrier, sleeping bag, dan matras; sebagian disewakan bersama anggota yang masih…",
+    "kendala": [
+     "Sebagian peralatan pendakian rusak atau tidak termanfaatkan dengan baik.",
+     "Peralatan kelompok terpencar dan sebagian berada pada anggota atau pengurus terdahulu.",
+     "Peralatan kopi belum terkumpul di sekretariat dan belum dikelola untuk produksi kelompok."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Inventarisasi dan pengumpulan peralatan pendakian serta penetapan penanggung jawab.",
+     "Mengumpulkan peralatan kopi di sekretariat dan mulai memproduksi kopi."
+    ],
+    "bantuan": [
+     "Peralatan pendakian",
+     "Peralatan pengolahan kopi dan coffe box",
+     "Peralatan pengolahan kopi dan coffee box"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p255",
+     "p262",
+     "p263",
+     "p267",
+     "p268"
+    ]
+   },
+   "2026": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Banyak anggota masih aktif mengantar tamu pendakian sebagai pemandu. Banyak peralatan pendakian rusak dan tidak layak disewakan. Sebagian peralatan kopi masih digunakan secara…",
+    "kendala": [
+     "Banyak peralatan pendakian rusak dan tidak layak disewakan.",
+     "Peralatan kopi tersebar di anggota.",
+     "Tidak ada catatan penjualan dari anggota yang memakai peralatan kopi."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Sarana & peralatan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Menginventarisasi kembali peralatan pendakian dan menetapkan penanggung jawab.",
+     "Mencatat penjualan anggota yang menggunakan alat kopi."
+    ],
+    "bantuan": [
+     "Peralatan pendakian",
+     "Peralatan pengolahan kopi",
+     "Coffee box",
+     "Set alat sablon"
+    ],
+    "produk": [
+     "Pengolahan kopi dilakukan oleh anggota; volume produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p302"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k44",
+  "nama": "Kelompok Tani So Tompo Jaya",
+  "desa": "Tolokalo",
+  "resort": "Doro Ncanga",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok tani mitra konservasi",
+  "usaha": "Pertanian & agroforestri",
+  "ketua": "Nasarudin",
+  "dibentuk": "2022",
+  "dasar_pembentukan": "SK Kepala Desa telah ada; nomor tidak disebut. Draft PKS disusun dan dibahas, tetapi nomor PKS masih kosong.",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2022": {
+    "status": "baru dibentuk",
+    "anggota": 40,
+    "anggota_perempuan": 0,
+    "penilaian": [],
+    "kondisi": "Kelompok terlibat sebagai tenaga kerja dalam pemulihan ekosistem seluas sekitar 45 ha. Anggota menerima arahan teknis, mengecek batas areal tanam, membuat jalur tanam dan…",
+    "kendala": [
+     "Batas dan status lahan garapan masyarakat di dalam atau di luar kawasan perlu dipastikan.",
+     "Masyarakat mengharapkan lebih banyak warga dilibatkan dalam kegiatan.",
+     "Dukungan modal dan sarana pengolahan usaha belum tersedia."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Legalitas & perizinan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Fasilitasi SK kelompok, PKS, AD/ART, dan Rencana Kerja Tahunan.",
+     "Kepastian informasi batas kawasan dan lokasi lahan garapan."
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p110",
+     "p113",
+     "p114",
+     "p323"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": 33,
+    "anggota_perempuan": 0,
+    "penilaian": [
+     "1,70; cukup berhasil"
+    ],
+    "kondisi": "Kelompok memperoleh akses pemungutan HHBK pada Zona Tradisional Tompo Jaya seluas 150 ha. Pendampingan dan sosialisasi pembuatan keripik gadung telah dilakukan, tetapi kelompok…",
+    "kendala": [
+     "Pengolahan gadung belum maksimal dan gadung masih dijual mentah kepada tengkulak.",
+     "Pemungutan sabia belum dapat dilakukan karena belum musim.",
+     "RKT kelompok belum dibuat."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendampingan penyusunan RKT dan penguatan kelembagaan.",
+     "Peningkatan kapasitas SDM dan pendampingan pengembangan usaha."
+    ],
+    "bantuan": [
+     "Alat pemotong gadung untuk pengolahan keripik",
+     "Sampel produk olahan gadung beserta desain label dan kemasan",
+     "Alat pemotong keripik gadung",
+     "Leaflet informasi cara mengolah gadung dan contoh produk"
+    ],
+    "produk": [
+     "Penjualan gadung 1 ton pada Oktober–Desember 2022; pemungutan sabia belum dilakukan hingga…"
+    ],
+    "pendapatan": [
+     19650000,
+     "Hasil penjualan sabia dilaporkan sebesar Rp5250000 dalam satu musim. Hasil…"
+    ],
+    "kegiatan": [
+     "p127",
+     "p156",
+     "p161",
+     "p165",
+     "p168",
+     "p176",
+     "p183",
+     "p190",
+     "p192"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": 33,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "1,72; cukup berhasil"
+    ],
+    "kondisi": "Perkembangan kelompok masih stagnan dan belum signifikan. Anggota masih berfokus pada pertanian jagung dan perawatan jambu mete. Belum ada hasil pemungutan HHBK dan keripik…",
+    "kendala": [
+     "Gadung belum diolah karena anggota belum berminat dan belum ada pasar.",
+     "Anggota sibuk berladang dan menjaga tanaman sehingga keikutsertaan serta pemungutan HHBK tidak rutin setiap…",
+     "Madu hutan semakin sedikit; penebangan pohon besar mengurangi tempat bersarang lebah."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendampingan dan ide untuk pengembangan produk HHBK.",
+     "Anggota yang memiliki waktu untuk mengembangkan potensi gadung."
+    ],
+    "bantuan": [],
+    "produk": [
+     "Volume panen tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p226",
+     "p247",
+     "p249"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Kelas Pemula (data sampai November 2020)"
+    ],
+    "kondisi": "Disebut dalam materi sebagai kelompok binaan dengan bantuan untuk peternakan sapi; kondisi usaha dan pemanfaatan bantuan tidak dirinci.",
+    "kendala": [],
+    "tema_kendala": [],
+    "kebutuhan": [],
+    "bantuan": [
+     "Bantuan untuk peternakan sapi",
+     "Bantuan peternakan sapi"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p255",
+     "p262",
+     "p263"
+    ]
+   },
+   "2026": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok binaan yang dibentuk sebagai wadah masyarakat dengan mata pencaharian bergantung pada lahan garapan di kawasan TN Tambora. Draf PKS kemitraan konservasi untuk areal di…",
+    "kendala": [
+     "Perlindungan tanaman dari ternak yang direncanakan kembali dilepas mulai Juni.",
+     "Lahan yang siap tanam belum dilengkapi pagar keliling.",
+     "Masih diperlukan penguatan komitmen anggota untuk pemeliharaan tanaman."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendampingan teknis penanaman dan pemeliharaan kemiri.",
+     "Pagar atau perlindungan bibit."
+    ],
+    "bantuan": [
+     "Bibit kemiri",
+     "Bibit kemiri yang telah disalurkan sebelumnya"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p301",
+     "p304",
+     "p308",
+     "p311",
+     "p317"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k50",
+  "nama": "PEPA",
+  "desa": "Sandue",
+  "resort": "Tidak disebut",
+  "wilayah": "Tidak disebut",
+  "jenis": "Kader & relawan konservasi",
+  "usaha": "Konservasi & lingkungan",
+  "ketua": null,
+  "dibentuk": "2020",
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2023,
+  "status_terakhir": "aktif",
+  "riwayat": {
+   "2023": {
+    "status": "aktif",
+    "anggota": 40,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Organisasi siswa pecinta alam di bawah naungan SMA Negeri 1 Sanggar, dibimbing oleh Andi Irawan, S.Pd dan Nurhaedah, S.Pd. PEPA disebut cukup aktif dan melaksanakan pembinaan…",
+    "kendala": [],
+    "tema_kendala": [],
+    "kebutuhan": [
+     "Pembinaan kader konservasi secara berkelanjutan"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p121"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k51",
+  "nama": "KPA Pok Darwis",
+  "desa": "Kawinda Toi",
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok wisata alam",
+  "usaha": "Konservasi & lingkungan",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2023,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2023": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai mitra yang menangani jalur pendakian dan membantu kegiatan penanganan sampah; kondisi kelembagaan tidak dijelaskan.",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p147"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k52",
+  "nama": "Elang Katulistiwa",
+  "desa": "Kawinda Toi",
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok pecinta alam",
+  "usaha": "Konservasi & lingkungan",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2023,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2023": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai kelompok pecinta alam yang menangani jalur pendakian; kondisi kelembagaan tidak dijelaskan.",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p147"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k53",
+  "nama": "Atap Langit",
+  "desa": "Kawinda Toi",
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok pecinta alam",
+  "usaha": "Konservasi & lingkungan",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2023,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2023": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Disebut sebagai kelompok pecinta alam yang menangani jalur pendakian; kondisi kelembagaan tidak dijelaskan.",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p147"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k56",
+  "nama": "Kader Konservasi Balai TN Tambora wilayah kerja SPTN I Kore",
+  "desa": null,
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kader & relawan konservasi",
+  "usaha": "Konservasi & lingkungan",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": "Tidak disebut; kader konservasi merupakan mitra binaan Balai TN Tambora.",
+  "tahun_terakhir": 2024,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": 20,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kader antusias mengikuti kegiatan dan aktif berdiskusi. Evaluasi menyebut hanya beberapa kader yang terlihat aktif dalam kegiatan KSDAE, belum melaporkan aktivitas, dan belum ada…",
+    "kendala": [
+     "Kesulitan menggerakkan masyarakat untuk berpartisipasi dalam konservasi.",
+     "Keterbatasan waktu karena kader memiliki pekerjaan atau komitmen lain.",
+     "Kader belum rutin melaporkan kegiatan konservasi."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [
+     "Sertifikat kegiatan dan kartu keanggotaan kader.",
+     "Materi yang lebih spesifik, termasuk tumbuhan dan satwa, perpetaan, serta metode inventarisasi."
+    ],
+    "bantuan": [
+     "Uang saku peserta (Rp2.000.000)",
+     "Perlengkapan peserta (Rp4.000.000)",
+     "Konsumsi peserta (Rp1.200.000)"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p213"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k59",
+  "nama": "Kelompok Pemuda Duabanga",
+  "desa": "Calabai",
+  "resort": "Pancasila",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Kerajinan & ekonomi kreatif",
+  "ketua": "Sukri Jayandi",
+  "dibentuk": "2019",
+  "dasar_pembentukan": "SK Kepala Desa Calabai No. 141.02/PA/14/05/Tahun 2019 tanggal 9 September 2019; perubahan susunan pengurus dan anggota b",
+  "tahun_terakhir": 2024,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2022": {
+    "status": "kurang aktif",
+    "anggota": 30,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok masih menunjukkan keberadaan, tetapi kegiatan belum optimal selama pembatasan sosial dan tempat wisata sering ditutup. Peralatan bantuan disebut masih utuh dan disimpan…",
+    "kendala": [
+     "Kesibukan anggota di ladang menyebabkan pertemuan rutin belum terlaksana.",
+     "Pemasaran penyewaan perlengkapan dan suvenir belum maksimal selama pandemi.",
+     "Belum ada identitas kelompok di sekretariat."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Sarana & peralatan",
+     "Keterampilan & SDM"
+    ],
+    "kebutuhan": [
+     "Promosi dan pemasaran suvenir secara daring melalui media sosial.",
+     "Pelatihan pembuatan kerajinan sablon dan suvenir ukiran kayu."
+    ],
+    "bantuan": [
+     "Perahu kano, sepatu katak, snorkel, life jacket, kacamata selam,…",
+     "Peralatan snorkeling, kano, serta perlengkapan sablon/souvenir"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p086",
+     "p102"
+    ]
+   },
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Tahap pertama, Business as usual"
+    ],
+    "kondisi": "Peralatan bantuan digunakan untuk membuat miniatur rumah adat, gantungan kunci, piala, gelas bambu, dan kaos sablon. Alat wisata disewakan di Pantai Calabai dan Pantai Nangamiro.…",
+    "kendala": [
+     "Anggota sibuk bertani jagung dan sebagian telah berkeluarga sehingga waktu untuk kegiatan kelompok berkurang",
+     "Kerajinan tangan belum dibuat kembali",
+     "Kunjungan wisata masih sepi"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM"
+    ],
+    "kebutuhan": [
+     "Pelatihan sablon dengan alat sederhana",
+     "Mengaktifkan kembali pembuatan kerajinan dan kegiatan wisata"
+    ],
+    "bantuan": [
+     "Alat pembuatan kerajinan tangan",
+     "Alat kegiatan wisata pantai",
+     "Alat wisata air"
+    ],
+    "produk": [
+     "Pernah membuat miniatur rumah adat, gantungan kunci, piala, gelas bambu, dan kaos sablon; volume…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p153",
+     "p159",
+     "p176",
+     "p196"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Partisipasi menurun karena sebagian anggota awal yang kebanyakan pelajar melanjutkan kuliah, bekerja, atau menikah. Pengurus inti, termasuk ketua yang bekerja sebagai guru,…",
+    "kendala": [
+     "Kesibukan anggota membuat kegiatan kerajinan belum berjalan kembali.",
+     "Kunjungan wisata masih sepi sehingga penyewaan alat dan penjualan kerajinan belum optimal.",
+     "Pembukuan keuangan kelompok belum dilakukan."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Pemasaran",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Keterampilan & SDM",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pelatihan sablon baju dengan alat sederhana.",
+     "Promosi produk."
+    ],
+    "bantuan": [
+     "Alat pembuatan kerajinan tangan",
+     "Alat kegiatan wisata pantai",
+     "Barang bantuan; jenis barang tidak dirinci"
+    ],
+    "produk": [
+     "Pernah membuat miniatur rumah adat, gantungan kunci dari ukiran kayu atau batok kelapa, piala dari…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p228",
+     "p233"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k60",
+  "nama": "Sama Weki",
+  "desa": "Sori Tatanga",
+  "resort": "Doropeti",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Peternakan",
+  "ketua": "Samsudin",
+  "dibentuk": "2023",
+  "dasar_pembentukan": "SK Desa Nomor 04/D.STT/I/2023 dan Berita Acara Musyawarah pembentukan susunan kepengurusan dan keanggotaan",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2023": {
+    "status": "kurang aktif",
+    "anggota": 36,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok dibentuk dengan perhatian khusus bagi mantan pelaku illegal logging. Dana bantuan telah cair, tetapi belum dibelanjakan untuk ternak karena perselisihan pembagian…",
+    "kendala": [
+     "Anggota sebelumnya beraktivitas di dalam kawasan TN Tambora sebagai pemetik kayu/ pelaku illegal logging.",
+     "Jarak antar dusun dinilai menyulitkan perawatan ternak bersama.",
+     "Perselisihan mengenai pembagian jumlah ternak dan konflik internal."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Bantuan untuk usaha peternakan sapi dan kambing sesuai usulan kelompok.",
+     "Penyelesaian tahapan administrasi RUKK untuk pencairan bantuan."
+    ],
+    "bantuan": [
+     "Dana bantuan untuk pengadaan ternak"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p176",
+     "p195"
+    ]
+   },
+   "2025": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Secara umum kegiatan monev menyimpulkan kelompok cukup berhasil; skor khusus…"
+    ],
+    "kondisi": "Kelompok disebut masih aktif, tetapi belum ada kemajuan signifikan dan belum melakukan penyewaan jasa menaiki kuda kepada pengunjung. Kegiatan sejauh ini berfokus pada penguatan…",
+    "kendala": [
+     "Belum ada kegiatan penyewaan jasa berkuda kepada pengunjung.",
+     "Harga layanan berkuda belum ditentukan.",
+     "Promosi wisata berkuda belum dilakukan."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [
+     "Mengumpulkan dan mengaktifkan kembali anggota kelompok.",
+     "Memusyawarahkan dan menetapkan harga layanan berkuda."
+    ],
+    "bantuan": [
+     "Peralatan pelana kuda dan kelengkapannya"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p268"
+    ]
+   },
+   "2026": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Penilaian kelas kemampuan dilakukan, tetapi skor atau kelas akhir tidak…"
+    ],
+    "kondisi": "Sekitar 70% bibit berhasil tumbuh. Kelengkeng berbuah setiap tahun dan dimanfaatkan untuk pribadi, sedangkan durian mulai berbunga tetapi banyak bunga rontok. Banyak anggota…",
+    "kendala": [
+     "Banyak anggota tidak aktif.",
+     "Bunga durian banyak rontok karena kekurangan pupuk."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [
+     "Mengaktifkan kembali kelompok dengan program kerja baru.",
+     "Mengadakan pertemuan rutin minimal satu kali dalam sebulan."
+    ],
+    "bantuan": [
+     "Bibit durian dan kelengkeng"
+    ],
+    "produk": [
+     "Kelengkeng berbuah setiap tahun; jumlah produksi tidak disebutkan."
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p305"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k62",
+  "nama": "Bajang Girang",
+  "desa": "Sorinomo",
+  "resort": "Doropeti",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Kerajinan & ekonomi kreatif",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2026,
+  "status_terakhir": "aktif",
+  "riwayat": {
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Mengikuti kegiatan pendampingan dan disebut sebagai kelompok percontohan yang berpotensi mengembangkan UMKM konservasi. Laporan menyebut kelompok antusias dan memahami pemaparan…",
+    "kendala": [],
+    "tema_kendala": [
+     "Pemasaran",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pertemuan kelompok lebih sering",
+     "Merintis sumber pemasukan alternatif"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p265"
+    ]
+   },
+   "2026": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok masih aktif melestarikan kesenian tradisional Gendang Beleq. Bantuan alat kesenian masih dalam kondisi baik dan layak digunakan. Kesibukan anggota menyebabkan kelompok…",
+    "kendala": [
+     "Kesibukan masing-masing anggota membatasi partisipasi dalam undangan pentas.",
+     "Regenerasi anggota diperlukan untuk menjaga keberlangsungan kelompok."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Melibatkan generasi muda dengan waktu luang lebih banyak.",
+     "Penguatan administrasi melalui Buku Tamu, Buku Inventaris Barang, dan Buku Catatan Kegiatan."
+    ],
+    "bantuan": [
+     "Alat kesenian"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p313"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k67",
+  "nama": "Gunung Sari",
+  "desa": "Doropeti",
+  "resort": "Doropeti",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok usaha & ekonomi kreatif",
+  "usaha": "Lainnya",
+  "ketua": "Mukrin",
+  "dibentuk": "2023",
+  "dasar_pembentukan": "SK Kepala Desa Sorinomo; nomor tidak disebutkan",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "tidak aktif",
+  "riwayat": {
+   "2023": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Mulai berjalan pada Agustus 2023 dan telah produktif memancing cumi. Melaut malam hari di sekitar Teluk Saleh dengan 2–3 orang per boat atau sampan. Hasil tangkapan dijual…",
+    "kendala": [
+     "Cuaca, angin, dan gelombang membatasi frekuensi melaut.",
+     "Tempat penyimpanan boat jauh dari rumah anggota dan rawan.",
+     "Jangkar dan jaring pernah dicuri."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Tempat sandar dan penyimpanan boat yang aman serta mudah dipantau.",
+     "Pencatatan keuangan operasional dan hasil penjualan."
+    ],
+    "bantuan": [
+     "Boat beserta kelengkapannya",
+     "Sampan beserta kelengkapannya"
+    ],
+    "produk": [
+     "Rata-rata 20–40 kg cumi per malam (disebut per boat/sampan); hasil dapat dipengaruhi cuaca, angin,…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p195"
+    ]
+   },
+   "2024": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Sedikit kemajuan"
+    ],
+    "kondisi": "Sebagian besar anggota disebut aktif, tetapi sampan yang rusak membuat anggota memilih mata pencaharian lain, termasuk bertani dan menjadi mitra TN Tambora. Sampan pernah…",
+    "kendala": [
+     "Cuaca, angin, dan gelombang laut membatasi frekuensi melaut.",
+     "Salah satu mesin boat mengalami kerusakan.",
+     "2 dari 3 sampan rusak ringan dan belum dapat dipakai seperti sebelumnya"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Perbaikan atau penggantian mesin boat yang rusak.",
+     "Pencatatan perkembangan keuangan, biaya operasional, dan hasil penjualan."
+    ],
+    "bantuan": [
+     "Boat",
+     "Sampan",
+     "Kelengkapan boat dan sampan"
+    ],
+    "produk": [
+     "Rata-rata 20–40 kg cumi per malam (boat/sampan); pada satu kali melaut yang beruntung dapat…"
+    ],
+    "pendapatan": null,
+    "kegiatan": [
+     "p231",
+     "p243"
+    ]
+   },
+   "2026": {
+    "status": "tidak aktif",
+    "anggota": 15,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "165; Kelas Pemula"
+    ],
+    "kondisi": "Kelompok dan seluruh pengurus maupun anggotanya disebut mengalami kevakuman dan tidak aktif. Kapal dan mesin rusak berat; kapal hanya digunakan selama 4 bulan pertama dan…",
+    "kendala": [
+     "Cuaca tidak menentu dan ekstrem",
+     "Salah satu perahu tenggelam dan mengalami kerusakan",
+     "Baling-baling AS dicuri"
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Mesin diesel 7,5 PK atau mesin ketinting berkapasitas CC besar",
+     "Baling-baling AS"
+    ],
+    "bantuan": [
+     "Sarana usaha perikanan",
+     "Bibit buah durian dan kelengkeng",
+     "Kapal nelayan beserta mesin"
+    ],
+    "produk": [
+     "Kelengkeng berbuah setiap tahun; volume tidak disebutkan. Durian belum berbuah."
+    ],
+    "pendapatan": [
+     300000,
+     "Pendapatan rata-rata sekitar Rp300000 per orang per hari dalam kondisi…"
+    ],
+    "kegiatan": [
+     "p298",
+     "p303"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k68",
+  "nama": "TAMBORA RIDERZ",
+  "desa": "Tambora",
+  "resort": "Tidak disebut",
+  "wilayah": "Tidak disebut",
+  "jenis": "Kelompok wisata alam",
+  "usaha": "Wisata alam",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": "SK Kepala Desa Tambora; nomor tidak disebutkan.",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "aktif",
+  "riwayat": {
+   "2026": {
+    "status": "aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Penilaian kelas kemampuan dilakukan, tetapi skor atau kelas akhir tidak…"
+    ],
+    "kondisi": "Banyak anggota masih aktif mengantar tamu pendakian sebagai pemandu. Sebagian peralatan kopi masih digunakan secara mandiri oleh anggota; alat-alat tersebar di anggota dan…",
+    "kendala": [
+     "Sebagian peralatan pendakian rusak dan tidak layak disewakan.",
+     "Peralatan kopi terpencar dan tidak ada catatan penjualan.",
+     "Anggota kurang memahami penggunaan alat sablon dan takut menggunakannya."
+    ],
+    "tema_kendala": [
+     "Pemasaran",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Inventarisasi ulang peralatan pendakian dan menetapkan penanggung jawab.",
+     "Membuat catatan penjualan bagi anggota yang menggunakan alat kopi."
+    ],
+    "bantuan": [
+     "Peralatan pendakian",
+     "Peralatan membuat kopi dan coffee box",
+     "Set alat sablon"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p305"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k70",
+  "nama": "Dharma Bhakti Masyarakat Pecinta Alam (Dharmapala)",
+  "desa": "Pekat",
+  "resort": "Tidak disebut",
+  "wilayah": "Tidak disebut",
+  "jenis": "Kelompok pecinta alam",
+  "usaha": "Konservasi & lingkungan",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": "SK/legalitas kelompok dan berita acara pembentukan kelompok telah disiapkan; nomor tidak disebutkan",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2026": {
+    "status": "tidak disebut",
+    "anggota": 48,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok memiliki 48 anggota dan struktur kepengurusan yang terdiri atas ketua, sekretaris, bendahara, dan anggota. Pendampingan menghasilkan penyiapan dokumen legalitas, berita…",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Legalitas & perizinan"
+    ],
+    "kebutuhan": [
+     "Penguatan kelembagaan dan administrasi",
+     "Sarana dan prasarana pendukung kegiatan lapangan"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p309"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k71",
+  "nama": "Doro Ncanga Offroad (DC Offroad)",
+  "desa": "Sori Tatanga",
+  "resort": "Doro Ncanga",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kelompok wisata alam",
+  "usaha": "Wisata alam",
+  "ketua": "Mahfud",
+  "dibentuk": "2023",
+  "dasar_pembentukan": "SK kelompok disebut dalam nama berkas/lampiran; nomor tidak tercantum dalam teks dokumen",
+  "tahun_terakhir": 2026,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2023": {
+    "status": "tidak aktif",
+    "anggota": 18,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok belum menjalankan usaha sejak menerima kendaraan karena mesin Triton rusak. Kerusakan dan perkiraan biaya perbaikan belum diketahui; keuangan kelompok masih kosong.…",
+    "kendala": [
+     "Dokumen menyebut adanya kendala anggota, tetapi tidak merinci kendala tersebut.",
+     "Mesin kendaraan rusak dan belum diketahui rincian kerusakannya.",
+     "Keuangan kelompok kosong sehingga perbaikan terhambat."
+    ],
+    "tema_kendala": [
+     "Modal & pendanaan",
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Akses & jarak"
+    ],
+    "kebutuhan": [
+     "Pendampingan kelompok yang lebih intensif",
+     "Dukungan modal untuk membeli kendaraan roda empat sebagai moda transportasi wisata"
+    ],
+    "bantuan": [
+     "Kendaraan 4WD merek Triton"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p158",
+     "p195"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [
+     "Kelas Pemula (data sampai November 2020)"
+    ],
+    "kondisi": "Bantuan masih ada, tetapi mobil offroad rusak dan tidak dapat digunakan untuk mengantar tamu ke puncak Caldera. Anggota menyampaikan mobil yang dibeli bermasalah pada mesin dan…",
+    "kendala": [
+     "Mobil offroad rusak dan tidak dapat digunakan karena bermasalah pada mesin serta kondisinya kurang baik."
+    ],
+    "tema_kendala": [
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [],
+    "bantuan": [
+     "Mobil offroad Mitsubishi Triton 4x4",
+     "Mobil offroad Mitsubishi Triton 4x4 untuk wisata pendakian",
+     "Mobil offroad",
+     "Alat panah dan busur"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p255",
+     "p262",
+     "p263",
+     "p264"
+    ]
+   },
+   "2026": {
+    "status": "tidak disebut",
+    "anggota": 16,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok dipertahankan dalam evaluasi kelompok binaan karena dinilai masih memiliki potensi jika dibina kembali. Kendaraan offroad yang menjadi kebutuhan usaha dalam kondisi…",
+    "kendala": [
+     "Mobil offroad rusak dan tidak dapat beroperasi.",
+     "Permohonan bantuan merupakan pengajuan ketiga dan proses administrasi pencairan perlu disegerakan.",
+     "Sejumlah anggota tidak hadir karena sakit, keperluan di luar kota, atau pekerjaan di kebun."
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan"
+    ],
+    "kebutuhan": [
+     "Servis/perbaikan mobil offroad agar dapat digunakan mengantar tamu ke jalur pendakian hingga Pos 3.",
+     "Peralatan penunjang operasional mobil apabila terdapat sisa anggaran perbaikan."
+    ],
+    "bantuan": [
+     "Modal usaha untuk servis/perbaikan mobil offroad; permohonan…"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p315"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k74",
+  "nama": "Mitra Bersatu",
+  "desa": "Kawinda Toi",
+  "resort": "Kawinda Toi",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Kelompok tani mitra konservasi",
+  "usaha": "Pertanian & agroforestri",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2026,
+  "status_terakhir": "kurang aktif",
+  "riwayat": {
+   "2026": {
+    "status": "kurang aktif",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Ketiga kontainer boks masih baik dan layak digunakan; dua berada di kawasan Air Terjun Oi Marai dan satu di halaman rumah anggota. Kontainer di objek wisata tidak beroperasi…",
+    "kendala": [
+     "Kontainer kios wisata tidak beroperasi setiap hari karena anggota memiliki pekerjaan pertanian musiman.",
+     "Satu kontainer lama tidak beroperasi karena keterbatasan waktu penanggung jawab.",
+     "Terjadi pencurian bahan baku dan peralatan usaha; nominal kerugian tidak terbaca lengkap pada teks yang…"
+    ],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan",
+     "Sarana & peralatan",
+     "Produksi & bahan baku"
+    ],
+    "kebutuhan": [
+     "Musyawarah internal untuk merumuskan pemanfaatan kontainer yang belum beroperasi maksimal.",
+     "Desain kemasan produk madu hutan."
+    ],
+    "bantuan": [
+     "Kontainer boks untuk usaha kios wisata"
+    ],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p284",
+     "p287",
+     "p291"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k75",
+  "nama": "Sakawanabakti",
+  "desa": "Kadindi",
+  "resort": "Doro Ncanga",
+  "wilayah": "SPTN Wilayah II Pekat",
+  "jenis": "Kader & relawan konservasi",
+  "usaha": "Konservasi & lingkungan",
+  "ketua": null,
+  "dibentuk": "2022",
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2025,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2023": {
+    "status": "tidak disebut",
+    "anggota": 20,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Kelompok dibina melalui penyampaian materi dan praktik konservasi. Laporan menyebut peserta semakin termotivasi menjaga kawasan dan lebih memahami keanekaragaman hayati,…",
+    "kendala": [],
+    "tema_kendala": [],
+    "kebutuhan": [],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p163",
+     "p184"
+    ]
+   },
+   "2025": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "Peserta berasal dari 8 sekolah yang masing-masing diminta menugaskan 5 siswa. Mereka mengikuti penanaman bibit, pengamatan rusa, serta edukasi dan diskusi konservasi. Dokumen…",
+    "kendala": [],
+    "tema_kendala": [
+     "Kelembagaan & keaktifan"
+    ],
+    "kebutuhan": [
+     "Monitoring dan evaluasi jangka panjang terhadap bibit yang ditanam",
+     "Forum komunikasi kader secara rutin"
+    ],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p280"
+    ]
+   }
+  }
+ },
+ {
+  "id": "k76",
+  "nama": "Bintang Sembilan",
+  "desa": "Oi Katupa",
+  "resort": "Oi Katupa",
+  "wilayah": "SPTN Wilayah I Kore",
+  "jenis": "Lainnya",
+  "usaha": "Lainnya",
+  "ketua": null,
+  "dibentuk": null,
+  "dasar_pembentukan": null,
+  "tahun_terakhir": 2023,
+  "status_terakhir": "tidak disebut",
+  "riwayat": {
+   "2023": {
+    "status": "tidak disebut",
+    "anggota": null,
+    "anggota_perempuan": null,
+    "penilaian": [],
+    "kondisi": "RPK merencanakan pembentukan kelompok, tetapi tidak memuat laporan bahwa kelompok telah terbentuk. Masyarakat Oi Katupa disebut bermata pencaharian sebagai petani, peternak, dan…",
+    "kendala": [],
+    "tema_kendala": [],
+    "kebutuhan": [],
+    "bantuan": [],
+    "produk": [],
+    "pendapatan": null,
+    "kegiatan": [
+     "p202"
+    ]
+   }
+  }
+ }
+]
