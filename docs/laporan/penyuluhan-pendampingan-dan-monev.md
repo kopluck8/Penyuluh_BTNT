@@ -8,7 +8,7 @@
 
 | Waktu | Jenis | Resort | Desa | Peserta |
 |---|---|---|---|---|
-| 15–17 Januari 2020; pelaksanaan FGD dilaporkan pada 16… | Penyusunan RPP/RKT | Doropeti | Doropeti | 30 |
+| 15–17 Januari 2020; pelaksanaan FGD dilaporkan pada 16… | Penyusunan RPP/RKT/RPM | Doropeti | Doropeti | 30 |
 
 Balai Taman Nasional Tambora memfasilitasi penyusunan RPP Kelompok Fokus Tambora PD di Desa Doropeti pada 15–17 Januari 2020, dengan FGD dilaporkan berlangsung pada 16 Januari. Kegiatan diikuti 30 anggota kelompok dan dihadiri unsur pemerintah desa serta BPD. Kelompok…
 
@@ -255,7 +255,7 @@ Monev pemberdayaan masyarakat dilaksanakan pada 11–13 Januari 2021 di Desa Sor
 
 | Waktu | Jenis | Resort | Desa | Peserta |
 |---|---|---|---|---|
-| 29–31 Maret 2021 | Penyusunan RPP/RKT | Doro Ncanga | Sori Tatanga | 30 |
+| 29–31 Maret 2021 | Penyusunan RPP/RKT/RPM | Doro Ncanga | Sori Tatanga | 30 |
 
 Kegiatan penyusunan RPP dan RKT Kelompok Wisata Berkuda Nente Jara dilaksanakan pada 29–31 Maret 2021 di Balai Desa Sori Tatanga, Kecamatan Pekat. FGD melibatkan seluruh 13 anggota kelompok, anggota Karang Taruna, beberapa pengurus desa, dan Bhabinkamtibnas. Kegiatan…
 
@@ -2226,7 +2226,7 @@ Monitoring dan evaluasi Kelompok Tani So Tompo Jaya dilaksanakan pada 4–5 Mei 
 
 | Waktu | Jenis | Resort | Desa | Peserta |
 |---|---|---|---|---|
-| 16–17 Mei 2023 | Penyusunan RPP/RKT | Doropeti | Sori Tatanga | - |
+| 16–17 Mei 2023 | Penyusunan RPP/RKT/RPM | Doropeti | Sori Tatanga | - |
 
 Balai Taman Nasional Tambora melaksanakan monitoring dan evaluasi serta mendampingi penyusunan RPP dan RKT Kelompok Tani Karyasari pada 16–17 Mei 2023 di Dusun Karyasari, Desa Soritatanga. Kelompok ini dibentuk pada 2021 dan memiliki 50 anggota; evaluasi sebelumnya memberi…
 

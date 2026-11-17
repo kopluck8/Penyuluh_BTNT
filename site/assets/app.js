@@ -155,7 +155,7 @@
     const lvl = (v) => (v ? Math.min(6, 1 + Math.floor((v / max) * 5.999)) : 0);
     let t = `<div class="heat-wrap"><table class="heat"><thead><tr><th></th>${cols.map((c) => `<th>${esc(c)}</th>`).join("")}</tr></thead><tbody>`;
     rows.forEach((r) => {
-      t += `<tr><th class="rl" scope="row">${esc(r)}</th>`;
+      t += `<tr><th class="rl" scope="row">${opts.rowClick ? `<button type="button" data-row="${esc(r)}">${esc(r)}</button>` : esc(r)}</th>`;
       cols.forEach((c) => {
         const v = get(r, c), l = lvl(v);
         t += `<td class="${v ? (l >= 4 ? "hi" : "") : "z"}" style="background:var(--seq-${l})" data-r="${esc(r)}" data-c="${esc(c)}" data-v="${v}">${v || "·"}</td>`;
@@ -164,6 +164,7 @@
     });
     host.innerHTML = t + "</tbody></table></div>" +
       `<ul class="legend" style="margin-top:10px"><li>Sedikit</li>${[1, 2, 3, 4, 5, 6].map((l) => `<li><i style="background:var(--seq-${l})"></i></li>`).join("")}<li>Banyak</li></ul>`;
+    if (opts.rowClick) host.querySelectorAll("th.rl button").forEach((b) => b.addEventListener("click", () => opts.rowClick(b.dataset.row)));
     host.querySelectorAll("td").forEach((td) =>
       bindTip(td, () => `<b>${esc(td.dataset.r)} · ${esc(td.dataset.c)}</b>${tipRow(opts.unit || "Kegiatan", fmt(+td.dataset.v))}`));
   }
@@ -425,6 +426,48 @@
       openDialog(`${stBadge(g._last.status)} ${chip(g.jenis)}`, g.nama, body);
       $("#detail-body").querySelectorAll("[data-p]").forEach((b) => b.addEventListener("click", () => openKegiatan(b.dataset.p)));
     }
+
+    // ---- program: semua jenis kegiatan ----
+    const PROG = D.program;
+    heatmap("#ch-jenis-tahun", PROG.map((x) => x.jenis), YL,
+      (j, y) => P.filter((k) => k.jenis_kegiatan === j && String(k.tahun) === y).length,
+      { unit: "Laporan", rowClick: (j) => { selectProgram(j); $("#program").scrollIntoView({ behavior: "smooth", block: "start" }); } });
+    const tabs = $("#prog-tabs");
+    tabs.innerHTML = PROG.map((x) => `<button class="ptab" role="tab" type="button" aria-selected="false" data-j="${esc(x.jenis)}"><span class="tema-dot" style="background:${grupColor(x.kelompok_kegiatan)}" aria-hidden="true"></span>${esc(x.jenis)} <b>${x.jumlah_laporan}</b></button>`).join("");
+    tabs.querySelectorAll(".ptab").forEach((b) => b.addEventListener("click", () => selectProgram(b.dataset.j)));
+    let progSel = null;
+    function selectProgram(j) {
+      progSel = PROG.find((x) => x.jenis === j) || PROG[0];
+      tabs.querySelectorAll(".ptab").forEach((b) => b.setAttribute("aria-selected", b.dataset.j === progSel.jenis));
+      renderProgram();
+    }
+    function renderProgram() {
+      const x = progSel, th = Object.keys(x.per_tahun);
+      const ks = x.kegiatan.map((i) => keg.get(i)).filter(Boolean).sort((a, b) => (b.tahun || 0) - (a.tahun || 0) || (b.bulan || 0) - (a.bulan || 0));
+      const kelLink = ["Pendampingan kelompok binaan", "Monitoring & evaluasi kelompok", "Pembentukan kelompok", "Penyusunan RPP/RKT/RPM", "Bantuan ekonomi produktif"].includes(x.jenis);
+      $("#prog-panel").innerHTML = `<div class="prog-head"><div><h3>${esc(x.jenis)}</h3><p>${esc(x.tujuan)}</p></div>${chip(x.kelompok_kegiatan)}</div>
+        <div class="kv prog-kv">
+          <div><span>Laporan</span><b>${fmt(x.jumlah_laporan)}</b></div>
+          <div><span>Tahun</span><b>${th.length ? (th[0] === th[th.length - 1] ? th[0] : `${th[0]}–${th[th.length - 1]}`) : "–"}</b></div>
+          <div><span>Desa dijangkau</span><b>${fmt(x.desa.length)}</b></div>
+          <div><span>Peserta tercatat</span><b>${x.peserta_tercatat ? fmt(x.peserta_tercatat) : "–"}</b>${x.peserta_tercatat ? `<span>dari ${x.laporan_dengan_peserta} laporan</span>` : ""}</div>
+        </div>
+        <div class="prog-grid">
+          <div><h4>Isi laporan</h4><ul class="poin">${x.poin.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
+            ${kelLink ? `<p style="margin-top:12px"><a href="#kelompok">Lihat kondisi tiap kelompok di bagian Kelompok binaan</a></p>` : ""}
+            ${x.desa.length ? `<h4 style="margin-top:18px">Desa</h4><div class="chips">${x.desa.map((d) => chip(d)).join("")}</div>` : ""}</div>
+          <div><h4>Laporan per tahun</h4><div id="prog-bars"></div></div>
+        </div>
+        <h4 style="margin:18px 0 0;font-size:13px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.06em">Semua laporan (${ks.length})</h4>
+        <div class="klist">${ks.map((k) => `<button type="button" data-p="${k.id}"><span class="y">${k.tahun || "–"}</span><span>${esc(k.judul)}<span>${esc([k.bulan ? BULAN[k.bulan] : "", k.desa.join(", ") || k.resort.join(", ")].filter(Boolean).join(" · ") || "Lokasi tidak disebut")}${k.peserta ? ` · ${fmt(k.peserta)} peserta` : ""}</span></span></button>`).join("")}</div>`;
+      stackedBars({
+        el: "#prog-bars", cats: YL, series: [{ key: "n", label: x.jenis, color: grupColor(x.kelompok_kegiatan) }],
+        get: (y) => x.per_tahun[y] || 0, unit: "laporan", valLabel: "Laporan", height: 200, aria: `Laporan ${x.jenis} per tahun`,
+      });
+      $("#prog-panel").querySelectorAll("[data-p]").forEach((b) => b.addEventListener("click", () => openKegiatan(b.dataset.p)));
+    }
+    selectProgram("Tambora Goes To School");
+    register(() => progSel && renderProgram());
 
     // ---- penyuluhan ----
     const pesertaY = YL.map((y) => sum(P.filter((k) => String(k.tahun) === y).map((k) => k.peserta)));

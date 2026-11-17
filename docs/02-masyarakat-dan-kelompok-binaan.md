@@ -1,6 +1,6 @@
 # Kelompok binaan, penyuluhan, dan pemberdayaan masyarakat
 
-Dokumen ini merangkum isi folder Drive kedua (laporan penyuluhan dan pemberdayaan, 274 berkas, sekitar 3,5 GB). Setelah dibaca seluruhnya, folder ini menghasilkan **260 laporan kegiatan** (2020–2026) dan **43 kelompok** yang riwayatnya bisa diikuti per tahun. Angka di bawah dihitung dari `data/penyuluhan.json` dan `data/kelompok.json`. Rincian per kelompok ada di [kelompok-binaan.md](kelompok-binaan.md), dan ringkasan per laporan ada di [docs/laporan](laporan/README.md).
+Dokumen ini merangkum isi folder Drive kedua (laporan penyuluhan dan pemberdayaan, 274 berkas, sekitar 3,5 GB). Setelah dibaca seluruhnya, folder ini menghasilkan **260 laporan kegiatan** (2020–2026) dan **43 kelompok** yang riwayatnya bisa diikuti per tahun. Angka di bawah dihitung dari `data/penyuluhan.json` dan `data/kelompok.json`. Rincian per kelompok ada di [kelompok-binaan.md](kelompok-binaan.md). Ringkasan untuk setiap jenis kegiatan (Tambora Goes To School, kader, kemitraan, KKD, pemulihan ekosistem, karhutla, zonasi, sampah, penyadartahuan, dan lainnya) beserta daftar lengkap laporannya ada di [05-program-penyuluhan.md](05-program-penyuluhan.md). Ringkasan per laporan ada di [docs/laporan](laporan/README.md).
 
 ## Ringkasan dalam tujuh poin
 

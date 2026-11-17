@@ -8,7 +8,7 @@
 2. Teks diambil dari PDF, DOCX, dan XLSX. Foto dan PDF hasil pindai tanpa lapisan teks tidak terbaca.
 3. Setiap arsip diekstrak ke format terstruktur dengan bantuan model bahasa: judul, jenis kegiatan, waktu, resort, desa, peserta, sekolah, kelompok yang dibahas, ringkasan, temuan, kendala, dan rekomendasi. Untuk setiap kelompok yang dibahas, dicatat juga kondisi, anggota, penilaian, kendala, kebutuhan, bantuan, produk, dan pendapatan.
 4. Nama kelompok yang ditulis berbeda-beda disatukan, misalnya "KPA Algura", "Algura", dan "Kelompok Pecinta Alam Algura". Hasilnya 43 kelompok. Catatan per kelompok per tahun digabung dari semua laporan tahun itu.
-5. Arsip yang isinya kegiatan yang sama (RPK dan LPK terpisah, atau unggahan ganda) digabung menjadi satu kegiatan. Hasilnya 260 kegiatan. Sebanyak 88 dari 274 berkas tidak menjadi kegiatan sendiri karena isinya sudah tergabung atau hanya berisi lampiran. Lihat kolom `dipakai_di_dashboard` di `data/sumber_penyuluhan.csv`.
+5. Arsip yang isinya kegiatan yang sama (RPK dan LPK terpisah, atau unggahan ganda) digabung menjadi satu kegiatan. Hasilnya 260 kegiatan. Jenis "Penyusunan RPP/RKT" dan "Penyusunan RPP/RKT/RPM" disatukan, sehingga ada 15 jenis kegiatan. Semua 274 berkas dibaca. Sebanyak 88 berkas tidak menjadi kegiatan tersendiri karena isinya sama dengan berkas lain, misalnya unggahan ganda atau RPK dan LPK satu kegiatan yang diunggah terpisah. Lihat kolom `status` di `data/sumber_penyuluhan.csv`.
 6. Data ringkas hasil kurasi disimpan di `data/raw/ekstraksi_penyuluhan.json`. `scripts/build_data.py` menormalkan ejaan desa dan nama sekolah, lalu menulis `data/penyuluhan.*`, `data/kelompok.*`, dan `data/kelompok_riwayat.csv`.
 
 Kunci ringkas di `ekstraksi_penyuluhan.json`:

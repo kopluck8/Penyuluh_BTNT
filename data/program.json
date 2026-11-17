@@ -1,0 +1,825 @@
+[
+ {
+  "jenis": "Pendampingan kelompok binaan",
+  "kelompok_kegiatan": "Pendampingan & monev kelompok",
+  "tujuan": "Kunjungan rutin penyuluh ke kelompok binaan untuk membina kelembagaan, usaha, dan pemanfaatan bantuan.",
+  "poin": [
+   "Kegiatan terbanyak di folder ini. Hampir setiap kunjungan mencatat kehadiran anggota, kondisi alat bantuan, dan kendala usaha.",
+   "Masalah yang paling sering dicatat adalah anggota tidak aktif, pertemuan tidak rutin, dan alat bantuan yang rusak atau tersebar di rumah anggota.",
+   "Rincian per kelompok ada di bagian Kelompok binaan dan di docs/kelompok-binaan.md."
+  ],
+  "jumlah_laporan": 90,
+  "per_tahun": {
+   "2020": 3,
+   "2021": 9,
+   "2022": 25,
+   "2023": 24,
+   "2024": 13,
+   "2025": 4,
+   "2026": 11
+  },
+  "desa": [
+   "Kawinda Toi",
+   "Sori Tatanga",
+   "Piong",
+   "Tolokalo",
+   "Oi Saro",
+   "Oi Katupa",
+   "Oi Bura",
+   "Doropeti",
+   "Boro",
+   "Sorinomo",
+   "Tambora",
+   "Oi Panihi",
+   "Calabai",
+   "Gunung Sari",
+   "Pekat"
+  ],
+  "resort": [
+   "Kawinda Toi",
+   "Doro Ncanga",
+   "Doropeti",
+   "Piong",
+   "Pancasila",
+   "Oi Katupa"
+  ],
+  "peserta_tercatat": 283,
+  "laporan_dengan_peserta": 21,
+  "kegiatan": [
+   "p004",
+   "p007",
+   "p008",
+   "p029",
+   "p039",
+   "p040",
+   "p027",
+   "p032",
+   "p035",
+   "p030",
+   "p034",
+   "p026",
+   "p047",
+   "p049",
+   "p075",
+   "p083",
+   "p084",
+   "p085",
+   "p050",
+   "p086",
+   "p087",
+   "p092",
+   "p051",
+   "p102",
+   "p104",
+   "p070",
+   "p096",
+   "p059",
+   "p064",
+   "p061",
+   "p107",
+   "p073",
+   "p074",
+   "p076",
+   "p077",
+   "p079",
+   "p082",
+   "p156",
+   "p283",
+   "p117",
+   "p118",
+   "p122",
+   "p199",
+   "p123",
+   "p139",
+   "p159",
+   "p169",
+   "p160",
+   "p130",
+   "p135",
+   "p133",
+   "p168",
+   "p177",
+   "p128",
+   "p142",
+   "p172",
+   "p145",
+   "p183",
+   "p185",
+   "p195",
+   "p137",
+   "p206",
+   "p249",
+   "p225",
+   "p227",
+   "p230",
+   "p205",
+   "p208",
+   "p226",
+   "p233",
+   "p216",
+   "p231",
+   "p219",
+   "p221",
+   "p264",
+   "p265",
+   "p276",
+   "p274",
+   "p284",
+   "p298",
+   "p304",
+   "p291",
+   "p293",
+   "p301",
+   "p311",
+   "p313",
+   "p317",
+   "p309",
+   "p315",
+   "p207"
+  ]
+ },
+ {
+  "jenis": "Monitoring & evaluasi kelompok",
+  "kelompok_kegiatan": "Pendampingan & monev kelompok",
+  "tujuan": "Penilaian berkala keaktifan kelompok dan pemanfaatan bantuan, kadang dengan skor kriteria dan indikator (K&I).",
+  "poin": [
+   "Monev rutin berjalan sejak 2021, paling banyak pada 2022–2024.",
+   "Hasil monev menjadi sumber utama status aktif, kurang aktif, atau tidak aktif di matriks kelompok.",
+   "Skor K&I hanya tercatat pada sebagian kecil kelompok, misalnya Citra Madu Lestari (2,08 pada 2023, kategori berhasil), sehingga belum bisa dibuat tren."
+  ],
+  "jumlah_laporan": 47,
+  "per_tahun": {
+   "2021": 5,
+   "2022": 10,
+   "2023": 13,
+   "2024": 11,
+   "2025": 2,
+   "2026": 6
+  },
+  "desa": [
+   "Sori Tatanga",
+   "Piong",
+   "Tambora",
+   "Sorinomo",
+   "Oi Saro",
+   "Kawinda Toi",
+   "Tolokalo",
+   "Boro",
+   "Oi Bura",
+   "Oi Katupa",
+   "Doropeti",
+   "Calabai"
+  ],
+  "resort": [
+   "Doropeti",
+   "Piong",
+   "Kawinda Toi",
+   "Doro Ncanga",
+   "Pancasila",
+   "Oi Katupa"
+  ],
+  "peserta_tercatat": 53,
+  "laporan_dengan_peserta": 6,
+  "kegiatan": [
+   "p023",
+   "p024",
+   "p031",
+   "p041",
+   "p025",
+   "p062",
+   "p100",
+   "p065",
+   "p069",
+   "p080",
+   "p108",
+   "p109",
+   "p105",
+   "p115",
+   "p321",
+   "p127",
+   "p134",
+   "p154",
+   "p153",
+   "p165",
+   "p150",
+   "p196",
+   "p138",
+   "p189",
+   "p190",
+   "p151",
+   "p140",
+   "p193",
+   "p211",
+   "p247",
+   "p210",
+   "p237",
+   "p217",
+   "p228",
+   "p243",
+   "p220",
+   "p222",
+   "p223",
+   "p248",
+   "p267",
+   "p268",
+   "p285",
+   "p295",
+   "p302",
+   "p303",
+   "p305",
+   "p308"
+  ]
+ },
+ {
+  "jenis": "Pembentukan kelompok",
+  "kelompok_kegiatan": "Pendampingan & monev kelompok",
+  "tujuan": "Membentuk kelompok baru lewat musyawarah dan penggalian potensi desa.",
+  "poin": [
+   "2020: kelompok binaan Desa Sorinomo (kerajinan, Kali Wangi Sorinomo).",
+   "2022: kelompok baru di Desa Piong, yang sudah punya Oi Jara, Moti La Halo, dan Madu Putih. Warga menanyakan pengelolaan mobil 4x4 yang direncanakan, dan Sanggar Offroad tercatat baru dibentuk pada tahun yang sama. Di Dusun Tompo Jaya, Tolokalo, dibentuk Kelompok Tani So Tompo Jaya (33 anggota) untuk kemitraan konservasi.",
+   "2023: Doro Ncanga Offroad di Sori Tatanga, dan rencana kelompok kemitraan di Oi Katupa (Bintang Sembilan, baru tahap RPK).",
+   "Pertanyaan warga yang muncul berulang: kejelasan batas kawasan dan pengelolaan aset bantuan seperti mobil 4x4."
+  ],
+  "jumlah_laporan": 5,
+  "per_tahun": {
+   "2020": 1,
+   "2022": 2,
+   "2023": 2
+  },
+  "desa": [
+   "Sorinomo",
+   "Piong",
+   "Tolokalo",
+   "Sori Tatanga",
+   "Oi Katupa"
+  ],
+  "resort": [
+   "Doro Ncanga",
+   "Doropeti",
+   "Piong",
+   "Oi Katupa"
+  ],
+  "peserta_tercatat": 85,
+  "laporan_dengan_peserta": 3,
+  "kegiatan": [
+   "p012",
+   "p048",
+   "p110",
+   "p158",
+   "p202"
+  ]
+ },
+ {
+  "jenis": "Penyusunan RPP/RKT/RPM",
+  "kelompok_kegiatan": "Pendampingan & monev kelompok",
+  "tujuan": "Menyusun Rencana Pengelolaan Program (RPP), Rencana Kerja Tahunan (RKT), dan Rencana Pemberdayaan Masyarakat (RPM) bersama kelompok.",
+  "poin": [
+   "2020: FGD RPP untuk KPA Algura, River Tubing, dan Citra Madu Lestari (Kawinda Toi), Oi Saro Kreatif, ALPATAR (Oi Bura), dan Fokus Tambora PD (Doropeti).",
+   "2021: RPP dan RKT kelompok wisata berkuda Nente Jara. Dicatat bahwa kuda pacuan milik anggota belum jinak untuk wisata.",
+   "2022: RPM Desa Sori Tatanga. 2023: RPP dan RKT Kelompok Tani Karyasari, saat permintaan porang turun.",
+   "Rekomendasi yang berulang: rencana perlu disusun lebih matang sesuai juknis lalu benar-benar dijalankan."
+  ],
+  "jumlah_laporan": 7,
+  "per_tahun": {
+   "2020": 4,
+   "2021": 1,
+   "2022": 1,
+   "2023": 1
+  },
+  "desa": [
+   "Sori Tatanga",
+   "Doropeti",
+   "Kawinda Toi",
+   "Oi Saro",
+   "Oi Bura"
+  ],
+  "resort": [
+   "Doropeti",
+   "Doro Ncanga",
+   "Kawinda Toi",
+   "Piong",
+   "Pancasila"
+  ],
+  "peserta_tercatat": 120,
+  "laporan_dengan_peserta": 4,
+  "kegiatan": [
+   "p000",
+   "p001",
+   "p002",
+   "p019",
+   "p037",
+   "p112",
+   "p167"
+  ]
+ },
+ {
+  "jenis": "Bantuan ekonomi produktif",
+  "kelompok_kegiatan": "Pendampingan & monev kelompok",
+  "tujuan": "Penyerahan bantuan peralatan atau dana usaha kepada kelompok.",
+  "poin": [
+   "2020: bibit durian dan kelengkeng untuk Sorinomo Berkarya. Laporan mencatat persyaratan penerima belum lengkap saat penyerahan.",
+   "2022: penyerahan bantuan di Resort Piong, termasuk Rp125 juta untuk Sanggar Offroad membeli mobil offroad.",
+   "Riwayat kelompok penerima menunjukkan banyak bantuan yang kemudian rusak atau tidak dipakai. Lihat bagian Kelompok binaan."
+  ],
+  "jumlah_laporan": 2,
+  "per_tahun": {
+   "2020": 1,
+   "2022": 1
+  },
+  "desa": [
+   "Sorinomo",
+   "Piong",
+   "Oi Katupa",
+   "Boro",
+   "Oi Saro",
+   "Kawinda Toi"
+  ],
+  "resort": [
+   "Doropeti",
+   "Piong"
+  ],
+  "peserta_tercatat": 20,
+  "laporan_dengan_peserta": 1,
+  "kegiatan": [
+   "p009",
+   "p068"
+  ]
+ },
+ {
+  "jenis": "Kemitraan konservasi",
+  "kelompok_kegiatan": "Kemitraan & kesepakatan konservasi",
+  "tujuan": "Memberi akses pemanfaatan tradisional di zona tradisional lewat perjanjian kerja sama (PKS) dengan kelompok masyarakat.",
+  "poin": [
+   "Karyasari, Sori Tatanga: FGD kelayakan PKS (2020) lalu penguatan kelembagaan Kelompok Tani Karyasari (2021, 30 dari 50 anggota hadir). HHBK yang direncanakan, yaitu porang, dinilai belum cukup menguntungkan.",
+   "So Tompo, Tolokalo (2022): sosialisasi rencana, FGD kelayakan dengan narasumber dari direktorat pusat, dan pra-penandatanganan PKS dengan 27 anggota. Pada pendampingan 2023 hanya 3 anggota hadir karena sibuk menanam jagung.",
+   "2023: identifikasi lokasi potensi kemitraan di Kawinda Toi dan Oi Katupa.",
+   "2026: Citra Madu Lestari (15 anggota) dinilai memenuhi syarat untuk melanjutkan akses pemanfaatan tradisional, dan PKS-nya diusulkan diperpanjang."
+  ],
+  "jumlah_laporan": 8,
+  "per_tahun": {
+   "2020": 1,
+   "2021": 1,
+   "2022": 3,
+   "2023": 2,
+   "2026": 1
+  },
+  "desa": [
+   "Tolokalo",
+   "Sori Tatanga",
+   "Kawinda Toi",
+   "Oi Katupa"
+  ],
+  "resort": [
+   "Doro Ncanga",
+   "Kawinda Toi",
+   "Doropeti",
+   "Oi Katupa"
+  ],
+  "peserta_tercatat": 154,
+  "laporan_dengan_peserta": 6,
+  "kegiatan": [
+   "p018",
+   "p038",
+   "p097",
+   "p113",
+   "p114",
+   "p161",
+   "p146",
+   "p294"
+  ]
+ },
+ {
+  "jenis": "Kesepakatan konservasi desa",
+  "kelompok_kegiatan": "Kemitraan & kesepakatan konservasi",
+  "tujuan": "Kesepakatan Konservasi Desa (KKD) antara Balai dan pemerintah desa penyangga.",
+  "poin": [
+   "Ditandatangani dengan Sori Tatanga (November 2021), lalu Oi Saro, Sorinomo, dan Tolokalo (April 2022), Kawinda Nae (Agustus 2022), dan Oi Panihi (September 2022).",
+   "Masalah yang diangkat warga: batas kawasan, penanaman yang melewati pal batas, dan tingginya aktivitas warga di dalam kawasan.",
+   "Setiap laporan merekomendasikan KKD dijadikan dasar program desa dan dimonev berkala. Belum ada laporan monev KKD di folder ini."
+  ],
+  "jumlah_laporan": 7,
+  "per_tahun": {
+   "2021": 1,
+   "2022": 5
+  },
+  "desa": [
+   "Sori Tatanga",
+   "Kawinda Nae",
+   "Oi Saro",
+   "Sorinomo",
+   "Tolokalo",
+   "Oi Panihi"
+  ],
+  "resort": [
+   "Doro Ncanga",
+   "Doropeti",
+   "Kawinda Toi",
+   "Piong"
+  ],
+  "peserta_tercatat": 90,
+  "laporan_dengan_peserta": 4,
+  "kegiatan": [
+   "p043",
+   "p052",
+   "p095",
+   "p101",
+   "p066",
+   "p071",
+   "p044"
+  ]
+ },
+ {
+  "jenis": "Pemulihan ekosistem",
+  "kelompok_kegiatan": "Kemitraan & kesepakatan konservasi",
+  "tujuan": "Pendampingan dan pengawasan penanaman di areal terdegradasi bersama kelompok masyarakat.",
+  "poin": [
+   "So Lia/So Tompo, Doro Ncanga (November 2022): 45 ha, dikerjakan 40 anggota Kelompok Tani So Tompo Jaya. Jalan berlumpur menghambat pengangkutan bibit.",
+   "Labu Bili, Piong (Januari 2023): 45 ha. Tanah keras dan cuaca panas menyulitkan pembuatan lubang tanam.",
+   "Patroli November 2023 di So Lia menemukan areal pemulihan terbakar dan banyak tanaman mati. Rekomendasinya pengamanan yang lebih intensif."
+  ],
+  "jumlah_laporan": 3,
+  "per_tahun": {
+   "2022": 1,
+   "2023": 2
+  },
+  "desa": [
+   "Tolokalo",
+   "Piong",
+   "Sori Tatanga"
+  ],
+  "resort": [
+   "Doro Ncanga",
+   "Piong"
+  ],
+  "peserta_tercatat": 49,
+  "laporan_dengan_peserta": 2,
+  "kegiatan": [
+   "p323",
+   "p120",
+   "p192"
+  ]
+ },
+ {
+  "jenis": "Tambora Goes To School",
+  "kelompok_kegiatan": "Edukasi & kader konservasi",
+  "tujuan": "Pendidikan konservasi di sekolah sekitar kawasan: pengenalan TN Tambora, fungsi hutan, flora dan satwa dilindungi.",
+  "poin": [
+   "Dua gelombang besar: 2020 (9 kegiatan, sebagian terganggu pandemi) dan 2023 (12 kegiatan), lalu berlanjut pada 2024 dan 2026 dengan nama Kampanye/Promosi Goes To School.",
+   "Sasaran dari SD sampai SMA/SMK dan pondok pesantren. Metodenya paparan, video, permainan, kuis, dan simulasi Pohon Harapan.",
+   "Kendala yang berulang: jadwal bentrok dengan ujian sehingga siswa sedikit, dan sekolah yang sulit dijangkau.",
+   "Rekomendasi yang berulang: belajar langsung di kawasan, lebih banyak praktik, dan menjadikannya agenda tahunan."
+  ],
+  "jumlah_laporan": 27,
+  "per_tahun": {
+   "2020": 9,
+   "2023": 12,
+   "2024": 2,
+   "2026": 4
+  },
+  "desa": [
+   "Oi Saro",
+   "Kawinda Toi",
+   "Tambora",
+   "Piong",
+   "Doropeti",
+   "Boro",
+   "Oi Bura",
+   "Sori Laju",
+   "Garuda",
+   "Sagolo",
+   "Kore",
+   "Ta’a",
+   "Sori Tatanga",
+   "Siladarma",
+   "Tolokalo"
+  ],
+  "resort": [
+   "Piong",
+   "Kawinda Toi",
+   "Doropeti",
+   "Pancasila",
+   "Doro Ncanga"
+  ],
+  "peserta_tercatat": 621,
+  "laporan_dengan_peserta": 15,
+  "kegiatan": [
+   "p003",
+   "p005",
+   "p011",
+   "p006",
+   "p010",
+   "p014",
+   "p015",
+   "p017",
+   "p021",
+   "p119",
+   "p162",
+   "p201",
+   "p124",
+   "p173",
+   "p164",
+   "p143",
+   "p149",
+   "p166",
+   "p132",
+   "p170",
+   "p191",
+   "p212",
+   "p215",
+   "p287",
+   "p289",
+   "p300",
+   "p306"
+  ]
+ },
+ {
+  "jenis": "Kader konservasi",
+  "kelompok_kegiatan": "Edukasi & kader konservasi",
+  "tujuan": "Membentuk dan membina kader konservasi atau Bina Cinta Alam dari pelajar, pramuka, dan pemuda.",
+  "poin": [
+   "2022: pembentukan kader di SPTN I Kore (28 peserta, Kecamatan Sanggar) dan SPTN II Pekat/Kempo (30 peserta).",
+   "2023: pembinaan PEPA, pecinta alam SMAN 1 Sanggar, dan Sakawanabakti, pramuka Pekat (dua kali, masing-masing 20 orang). Materinya antara lain drone dan keanekaragaman hayati.",
+   "2024: peningkatan kapasitas 20 kader SPTN I Kore. Evaluasinya: sebagian besar kader belum aktif dan belum melaporkan kegiatan.",
+   "Desember 2025: Kemah Bakti Kader Bina Cinta Alam di Sanctuary Rusa Doro Ncanga (40 peserta dari 8 sekolah), dengan penanaman dan pengamatan rusa."
+  ],
+  "jumlah_laporan": 8,
+  "per_tahun": {
+   "2022": 2,
+   "2023": 3,
+   "2024": 2,
+   "2025": 1
+  },
+  "desa": [
+   "Piong",
+   "Sanggar",
+   "Oi Saro",
+   "Sandue",
+   "Kawinda Toi",
+   "Kadindi"
+  ],
+  "resort": [
+   "Doro Ncanga",
+   "Piong",
+   "Kawinda Toi"
+  ],
+  "peserta_tercatat": 158,
+  "laporan_dengan_peserta": 6,
+  "kegiatan": [
+   "p053",
+   "p106",
+   "p121",
+   "p163",
+   "p184",
+   "p213",
+   "p214",
+   "p280"
+  ]
+ },
+ {
+  "jenis": "Sosialisasi karhutla",
+  "kelompok_kegiatan": "Sosialisasi & lainnya",
+  "tujuan": "Pencegahan kebakaran hutan dan lahan lewat sosialisasi, anjangsana, dan patroli bersama MPA/MMP.",
+  "poin": [
+   "2021–2024: satu sosialisasi per resort di kantor desa atau resort, biasanya dengan 20 peserta (aparat desa, MPA, MMP, kelompok madu, petani jagung).",
+   "2025: berubah menjadi anjangsana dua desa per kegiatan bersama Muspika dan Satpol PP kecamatan. Jangkauannya meluas ke desa di luar resort (Beringin Jaya, Konte, Dorokobo, Kore, Boro).",
+   "2026: ditambah smart patrol bersama MPA (5 petugas dan 5 anggota MPA) serta sosialisasi kepada pendaki di Oi Marai, Tambora, dan Oi Bura.",
+   "Temuan dari lapangan: membakar untuk membuka lahan masih dianggap murah dan praktis; mobil tangki tidak bisa masuk ke jalan sempit; kantor desa Oi Katupa belum berlistrik; ternak digembalakan di dalam kawasan; ada konflik lahan warga dengan PT AWB di Kadindi dan Tambora."
+  ],
+  "jumlah_laporan": 33,
+  "per_tahun": {
+   "2021": 1,
+   "2022": 6,
+   "2024": 2,
+   "2025": 14,
+   "2026": 10
+  },
+  "desa": [
+   "Oi Katupa",
+   "Tambora",
+   "Kawinda Toi",
+   "Oi Saro",
+   "Tolokalo",
+   "Doropeti",
+   "Sori Tatanga",
+   "Piong",
+   "Kawinda Nae",
+   "Oi Panihi",
+   "Sorinomo",
+   "Oi Bura",
+   "Labuhan Kananga",
+   "Beringin Jaya",
+   "Nangakara",
+   "Konte",
+   "Dorokobo",
+   "Kore",
+   "Boro",
+   "Kadindi",
+   "Pekat",
+   "Calabai",
+   "Gunung Sari",
+   "DAM Kasipahu"
+  ],
+  "resort": [
+   "Oi Katupa",
+   "Kawinda Toi",
+   "Pancasila",
+   "Piong",
+   "Doro Ncanga",
+   "Doropeti"
+  ],
+  "peserta_tercatat": 195,
+  "laporan_dengan_peserta": 11,
+  "kegiatan": [
+   "p033",
+   "p054",
+   "p090",
+   "p091",
+   "p094",
+   "p056",
+   "p063",
+   "p203",
+   "p204",
+   "p271",
+   "p273",
+   "p275",
+   "p279",
+   "p254",
+   "p262",
+   "p266",
+   "p272",
+   "p277",
+   "p282",
+   "p255",
+   "p261",
+   "p269",
+   "p278",
+   "p288",
+   "p310",
+   "p290",
+   "p299",
+   "p312",
+   "p314",
+   "p296",
+   "p307",
+   "p297",
+   "p316"
+  ]
+ },
+ {
+  "jenis": "Penanganan sampah",
+  "kelompok_kegiatan": "Sosialisasi & lainnya",
+  "tujuan": "Membersihkan sampah pengunjung di objek wisata dan jalur pendakian sebagai bagian dari pencegahan kebakaran.",
+  "poin": [
+   "2022 dan 2023 di Oi Marai dan jalur pendakian Kawinda Toi, serta 2022 di jalur Doro Ncanga dan Sanctuary Rusa (termasuk sisa Festival Tambora).",
+   "Setiap kegiatan melibatkan 5 petugas dan 5 warga atau anggota kelompok mitra.",
+   "Rekomendasinya kegiatan tahunan dan pemasangan kembali papan larangan buang sampah dan peringatan kebakaran."
+  ],
+  "jumlah_laporan": 3,
+  "per_tahun": {
+   "2022": 2,
+   "2023": 1
+  },
+  "desa": [
+   "Kawinda Toi",
+   "Sori Tatanga"
+  ],
+  "resort": [
+   "Kawinda Toi",
+   "Doro Ncanga"
+  ],
+  "peserta_tercatat": 30,
+  "laporan_dengan_peserta": 3,
+  "kegiatan": [
+   "p060",
+   "p103",
+   "p147"
+  ]
+ },
+ {
+  "jenis": "Sosialisasi zonasi",
+  "kelompok_kegiatan": "Sosialisasi & lainnya",
+  "tujuan": "Menjelaskan zonasi baru dan batas kawasan TN Tambora kepada warga dan pemangku kepentingan.",
+  "poin": [
+   "2022: di Sori Tatanga, Tambora, Kawinda Toi, Oi Katupa, dan Piong (sekitar 30 peserta per desa), serta di BAPPEDA Kabupaten Bima bersama dinas, pegiat wisata, dan media.",
+   "2024: sosialisasi batas Zona Tradisional Kawinda Toi (35 peserta).",
+   "Yang paling sering ditanyakan warga adalah batas TN dengan hutan produksi dan lahan perusahaan. PT AWB disebut tidak hadir saat diundang.",
+   "Rekomendasinya leaflet, peta, dan papan informasi batas zonasi."
+  ],
+  "jumlah_laporan": 7,
+  "per_tahun": {
+   "2022": 6,
+   "2024": 1
+  },
+  "desa": [
+   "Kawinda Toi",
+   "Sori Tatanga",
+   "Tambora",
+   "Oi Bura",
+   "Oi Katupa",
+   "Piong"
+  ],
+  "resort": [
+   "Kawinda Toi",
+   "Oi Katupa",
+   "Piong",
+   "Doro Ncanga",
+   "Pancasila"
+  ],
+  "peserta_tercatat": 185,
+  "laporan_dengan_peserta": 6,
+  "kegiatan": [
+   "p088",
+   "p098",
+   "p055",
+   "p058",
+   "p072",
+   "p046",
+   "p224"
+  ]
+ },
+ {
+  "jenis": "Penyadartahuan & sosialisasi lain",
+  "kelompok_kegiatan": "Sosialisasi & lainnya",
+  "tujuan": "Penyadartahuan perlindungan dan pengamanan kawasan, kampanye konservasi, dan pameran.",
+  "poin": [
+   "2025: rangkaian Sosialisasi dan Anjangsana Penyadartahuan Perlindungan dan Pengamanan di desa penyangga SPTN II, yaitu Kempo, Ta'a, Sorinomo, Nangakara, Soro Barat, Tolokalo, Pekat, Calabai, Kadindi, Nangamiro, Tambora, Oi Bura, Doropeti, dan Sori Tatanga.",
+   "2023: sosialisasi pemberdayaan dan penyusunan rencana usaha kelompok di Sori Tatanga. Laporannya menyebut sebagian anggota Sama Weki adalah mantan pelaku illegal logging.",
+   "2026: kampanye konservasi di Pantai Lakey, Hu'u, dan booth di FTN-TWA Expo, Ragunan, Jakarta.",
+   "Pesan yang berulang: batas kawasan perlu disosialisasikan rutin oleh aparat desa bersama penyuluh."
+  ],
+  "jumlah_laporan": 11,
+  "per_tahun": {
+   "2023": 1,
+   "2025": 7,
+   "2026": 2
+  },
+  "desa": [
+   "Sori Tatanga",
+   "Kempo",
+   "Ta’a",
+   "Sorinomo",
+   "Nangakara",
+   "Soro Barat",
+   "Tolokalo",
+   "Pekat",
+   "Calabai",
+   "Kadindi",
+   "Nangamiro",
+   "Tambora",
+   "Oi Bura",
+   "Doropeti",
+   "Kore",
+   "Sandue"
+  ],
+  "resort": [
+   "Doropeti",
+   "Doro Ncanga",
+   "Pancasila",
+   "Oi Katupa",
+   "Kawinda Toi",
+   "Piong"
+  ],
+  "peserta_tercatat": 34,
+  "laporan_dengan_peserta": 2,
+  "kegiatan": [
+   "p176",
+   "p256",
+   "p260",
+   "p257",
+   "p259",
+   "p263",
+   "p253",
+   "p258",
+   "p318",
+   "p319",
+   "p270"
+  ]
+ },
+ {
+  "jenis": "Lainnya",
+  "kelompok_kegiatan": "Sosialisasi & lainnya",
+  "tujuan": "Kegiatan lapangan pendukung wisata dan sarana.",
+  "poin": [
+   "2022: pengecekan sumber air di Pos 2 jalur Doro Ncanga dan progres jembatan akses Oi Marai.",
+   "2026: penjagaan pintu masuk Wisata Alam Oi Marai saat musim ramai. Tercatat 186 pengunjung dalam tiga hari (138 wisatawan dan 48 pendaki), dengan puncak 109 orang pada 16 Agustus."
+  ],
+  "jumlah_laporan": 2,
+  "per_tahun": {
+   "2022": 1,
+   "2026": 1
+  },
+  "desa": [
+   "Kawinda Toi"
+  ],
+  "resort": [
+   "Doro Ncanga",
+   "Kawinda Toi"
+  ],
+  "peserta_tercatat": 188,
+  "laporan_dengan_peserta": 2,
+  "kegiatan": [
+   "p322",
+   "p292"
+  ]
+ }
+]

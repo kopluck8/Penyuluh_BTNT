@@ -109,6 +109,11 @@ STATUS_IKON = {"aktif": "🟢 aktif", "kurang aktif": "🟡 kurang aktif", "tida
                "baru dibentuk": "🔵 baru dibentuk", "tidak disebut": "⚪ tidak disebut"}
 
 
+def slug(t):
+    import re
+    return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
+
+
 def waktu_teks(k):
     return k.get("tanggal") or " ".join(
         x for x in [BULAN[k["bulan"]] if k.get("bulan") else "", str(k["tahun"] or "")] if x) or "tidak tercantum"
@@ -203,10 +208,41 @@ def tulis_penyuluhan():
     t = ["# Katalog berkas penyuluhan dan pemberdayaan\n",
          f"Folder asal: {dash['folder_drive_penyuluhan']} ({len(kat)} berkas, sekitar "
          f"{sum(m['ukuran_mb'] for m in kat) / 1000:.1f} GB). Berkas asli tidak disalin ke repo.\n",
-         "| # | Berkas | Ukuran (MB) | Kegiatan di data | Dipakai |", "|---|---|---|---|---|"]
+         "Semua berkas sudah dibaca. Berkas berstatus *digabung* berisi kegiatan yang sama dengan berkas lain "
+         "(unggahan ganda, atau RPK dan LPK satu kegiatan yang diunggah terpisah), jadi isinya sudah masuk ke kegiatan lain.\n",
+         "| # | Berkas | Ukuran (MB) | Kegiatan di data | Status |", "|---|---|---|---|---|"]
     for i, m in enumerate(kat, 1):
-        t.append(f"| {i} | [{m['nama']}]({m['url']}) | {m['ukuran_mb']} | {m['kegiatan'] or '-'} | {m['dipakai_di_dashboard']} |")
+        t.append(f"| {i} | [{m['nama']}]({m['url']}) | {m['ukuran_mb']} | {m['kegiatan'] or '-'} | {m['status']} |")
     (ROOT / "docs" / "katalog-sumber-penyuluhan.md").write_text("\n".join(t) + "\n", encoding="utf-8")
+    # Dokumen per program: semua jenis kegiatan di folder penyuluhan.
+    out = ["# Program penyuluhan dan pemberdayaan\n",
+           f"Semua {len(keg)} laporan di folder penyuluhan dan pemberdayaan, dikelompokkan menurut jenis kegiatannya. "
+           "Setiap bagian berisi tujuan, ringkasan isi laporan, angka, dan daftar lengkap kegiatannya dengan tautan ke berkas asli. "
+           "Dibuat otomatis oleh `scripts/build_docs.py`. Teks ringkasan ada di `scripts/program_narasi.py`.\n",
+           "| Jenis kegiatan | Laporan | Tahun | Desa | Peserta tercatat |", "|---|---|---|---|---|"]
+    for pr in dash["program"]:
+        th = list(pr["per_tahun"])
+        out.append(f"| [{pr['jenis']}](#{slug(pr['jenis'])}) | {pr['jumlah_laporan']} | "
+                   f"{th[0] + '–' + th[-1] if th else '-'} | {len(pr['desa'])} | {pr['peserta_tercatat'] or '-'} |")
+    out.append("")
+    for pr in dash["program"]:
+        out.append(f'<a id="{slug(pr["jenis"])}"></a>\n## {pr["jenis"]}\n')
+        out.append(f"_{pr['tujuan']}_\n")
+        out.append(f"**{pr['jumlah_laporan']} laporan** · per tahun: "
+                   + ", ".join(f"{t} ({n})" for t, n in pr["per_tahun"].items())
+                   + (f" · peserta tercatat {pr['peserta_tercatat']} (dari {pr['laporan_dengan_peserta']} laporan)" if pr["peserta_tercatat"] else "")
+                   + "\n")
+        out += [f"- {x}" for x in pr["poin"]]
+        if pr["desa"]:
+            out.append(f"\n**Desa:** {', '.join(pr['desa'])}\n")
+        out.append("| Tahun | Kegiatan | Desa | Peserta |\n|---|---|---|---|")
+        for i in pr["kegiatan"]:
+            k = ref[i]
+            judul = f"[{k['judul']}]({k['url']})" if k["url"] else k["judul"]
+            out.append(f"| {k['tahun'] or '-'} | {judul} | {', '.join(k['desa']) or '-'} | {k['peserta'] or '-'} |")
+        out.append("")
+    (ROOT / "docs" / "05-program-penyuluhan.md").write_text("\n".join(out) + "\n", encoding="utf-8")
+    print("docs/05-program-penyuluhan.md ditulis")
     print("docs/laporan/penyuluhan-*.md, docs/kelompok-binaan.md, docs/katalog-sumber-penyuluhan.md ditulis")
 
 

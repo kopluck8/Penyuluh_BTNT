@@ -16,6 +16,7 @@ Kurasi laporan penyuluhan, pemberdayaan masyarakat, dan kegiatan teknis **Balai 
 |---|---|
 | [docs/02-masyarakat-dan-kelompok-binaan.md](docs/02-masyarakat-dan-kelompok-binaan.md) | Temuan utama tentang kelompok binaan dan penyuluhan |
 | [docs/kelompok-binaan.md](docs/kelompok-binaan.md) | Profil dan riwayat per tahun untuk 43 kelompok |
+| [docs/05-program-penyuluhan.md](docs/05-program-penyuluhan.md) | Semua 15 jenis kegiatan penyuluhan: ringkasan, angka, dan daftar lengkap laporan per program |
 | [docs/01-gambaran-umum.md](docs/01-gambaran-umum.md) | Gambaran dua folder dan hasil teknis (satwa, flora, ekosistem) |
 | [docs/03-panduan-penyajian-data.md](docs/03-panduan-penyajian-data.md) | Cara menyajikan data ini supaya jelas |
 | [docs/04-catatan-kualitas-data.md](docs/04-catatan-kualitas-data.md) | Cara kurasi dan keterbatasan data |
@@ -30,6 +31,7 @@ data/
   penyuluhan.csv|json       260 kegiatan penyuluhan dan pemberdayaan
   kelompok.csv|json         43 kelompok binaan
   kelompok_riwayat.csv      satu baris per kelompok per tahun
+  program.json              ringkasan per jenis kegiatan (15 program)
   kegiatan.csv|json         96 kegiatan teknis PEH
   indikator.csv, seri/, kehati/   angka teknis dan daftar jenis
   sumber_*.csv              katalog berkas Drive
@@ -38,7 +40,8 @@ data/
 docs/                       penjelasan dan ringkasan laporan
 scripts/
   build_data.py             data/raw -> semua CSV/JSON
-  build_docs.py             data -> docs/laporan, docs/kelompok-binaan.md, katalog
+  build_docs.py             data -> docs/laporan, docs/kelompok-binaan.md, docs/05, katalog
+  program_narasi.py         teks ringkasan per program (bisa diedit)
 site/                       dashboard (HTML, CSS, JS tanpa pustaka luar)
 .github/workflows/pages.yml deploy otomatis ke GitHub Pages
 ```

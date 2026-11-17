@@ -26,7 +26,7 @@
     <div class="nav-links" id="nav-links">
       <a href="#ringkasan">Ringkasan</a>
       <a href="#kelompok">Kelompok binaan</a>
-      <a href="#penyuluhan">Penyuluhan</a>
+      <a href="#penyuluhan">Program</a>
       <a href="#teknis">Hasil teknis</a>
       <a href="#laporan">Laporan</a>
       <a href="#panduan">Cara membaca</a>
@@ -135,12 +135,23 @@
       <div class="wrap">
         <div class="section-head">
           <div>
-            <div class="kicker">Penyuluhan &amp; edukasi</div>
-            <h2>Siapa yang dijangkau</h2>
-            <p>Tambora Goes To School, kader konservasi, sosialisasi pencegahan kebakaran hutan, sosialisasi zonasi, dan kesepakatan konservasi desa.</p>
+            <div class="kicker">Program penyuluhan &amp; pemberdayaan</div>
+            <h2>Semua kegiatan di folder penyuluhan</h2>
+            <p>Seluruh 260 laporan dikelompokkan menjadi 15 jenis kegiatan: pendampingan dan monev kelompok, pembentukan kelompok, penyusunan rencana, bantuan, kemitraan dan kesepakatan konservasi, pemulihan ekosistem, Tambora Goes To School, kader konservasi, sosialisasi karhutla dan zonasi, penanganan sampah, penyadartahuan, dan lainnya.</p>
           </div>
         </div>
-        <div class="grid g-2">
+        <div class="card">
+          <h3>Jenis kegiatan per tahun</h3>
+          <p class="sub">Jumlah laporan untuk tiap jenis kegiatan. Klik nama jenis untuk membuka ringkasannya di bawah.</p>
+          <div id="ch-jenis-tahun"></div>
+        </div>
+        <div class="card" style="margin-top:16px" id="program">
+          <h3>Ringkasan per program</h3>
+          <p class="sub">Pilih jenis kegiatan untuk membaca apa yang dikerjakan, apa yang ditemukan, dan daftar semua laporannya.</p>
+          <div class="ptabs" id="prog-tabs" role="tablist" aria-label="Jenis kegiatan"></div>
+          <div id="prog-panel" role="tabpanel"></div>
+        </div>
+        <div class="grid g-2" style="margin-top:16px">
           <div class="card">
             <h3>Peserta yang tercatat per tahun</h3>
             <p class="sub">Jumlah peserta yang disebut di laporan. Laporan yang tidak menyebut jumlah peserta tidak ikut dihitung.</p>

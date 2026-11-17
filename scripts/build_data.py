@@ -5,7 +5,7 @@ Masukan : data/raw/ekstraksi_lpk_rpk.json      (folder Drive 1, laporan teknis P
           data/raw/ekstraksi_penyuluhan.json  (folder Drive 2, laporan penyuluhan & pemberdayaan)
 Keluaran: data/kegiatan.json|csv, data/indikator.csv, data/sumber_dokumen.csv,
           data/seri/*.csv, data/kehati/*.csv,
-          data/penyuluhan.json|csv, data/kelompok.json|csv, data/kelompok_riwayat.csv,
+          data/penyuluhan.json|csv, data/kelompok.json|csv, data/kelompok_riwayat.csv, data/program.json,
           data/sumber_penyuluhan.csv, data/dashboard.json
 
 Hanya memakai pustaka standar Python 3.9+. Jalankan dari akar repo:
@@ -16,6 +16,8 @@ import json
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
+
+from program_narasi import JENIS_SINONIM, PROGRAM
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw" / "ekstraksi_lpk_rpk.json"
@@ -478,7 +480,7 @@ def bangun_penyuluhan():
         keg.append({
             "id": k["id"],
             "judul": k["j"],
-            "jenis_kegiatan": k["jk"],
+            "jenis_kegiatan": JENIS_SINONIM.get(k["jk"], k["jk"]),
             "kelompok_kegiatan": GRUP_PENYULUHAN[k["g"]],
             "tahun": k.get("t"),
             "bulan": k.get("b"),
@@ -560,10 +562,36 @@ def bangun_penyuluhan():
     for k in raw["kegiatan"]:
         if k.get("u"):
             dipakai[k["u"]].append(k["id"])
+    # Semua berkas sudah dibaca. Berkas tanpa kegiatan sendiri berisi kegiatan yang sama dengan berkas
+    # lain (unggahan ganda, atau RPK dan LPK satu kegiatan yang diunggah terpisah), jadi digabung.
     katalog = [{"nama": nama, "ukuran_mb": mb, "kegiatan": gabung(dipakai.get(fid, [])),
-                "dipakai_di_dashboard": "ya" if fid in dipakai else "tidak", "url": drive_url(fid)}
+                "status": "sumber utama kegiatan" if fid in dipakai else "digabung (isi sama dengan kegiatan lain)",
+                "url": drive_url(fid)}
                for fid, nama, mb in raw["manifest"]]
     tulis_csv(OUT / "sumber_penyuluhan.csv", list(katalog[0].keys()), katalog)
+
+    program = []
+    for jenis, info in PROGRAM.items():
+        ks = [k for k in keg if k["jenis_kegiatan"] == jenis]
+        if not ks:
+            continue
+        thn = Counter(k["tahun"] for k in ks if k["tahun"])
+        program.append({
+            "jenis": jenis,
+            "kelompok_kegiatan": ks[0]["kelompok_kegiatan"],
+            "tujuan": info["tujuan"],
+            "poin": info["poin"],
+            "jumlah_laporan": len(ks),
+            "per_tahun": dict(sorted(thn.items())),
+            "desa": [d for d, _ in Counter(d for k in ks for d in k["desa"]).most_common()],
+            "resort": [r for r, _ in Counter(r for k in ks for r in k["resort"]).most_common()],
+            "peserta_tercatat": sum(k["peserta"] or 0 for k in ks),
+            "laporan_dengan_peserta": sum(1 for k in ks if k["peserta"]),
+            "kegiatan": [k["id"] for k in ks],
+        })
+    belum = {k["jenis_kegiatan"] for k in keg} - set(PROGRAM)
+    assert not belum, f"jenis kegiatan tanpa narasi: {belum}"
+    (OUT / "program.json").write_text(json.dumps(program, ensure_ascii=False, indent=1), encoding="utf-8")
 
     print(f"penyuluhan: {len(keg)} kegiatan, {len(kel)} kelompok, "
           f"{sum(len(g['riwayat']) for g in kel)} catatan kelompok-tahun, katalog {len(katalog)} berkas")
@@ -575,6 +603,7 @@ def bangun_penyuluhan():
         "penyuluhan": keg,
         "kelompok": kel,
         "katalog_penyuluhan": katalog,
+        "program": program,
     }
 
 
