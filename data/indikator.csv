@@ -1,0 +1,611 @@
+kegiatan_id,tahun,resort,sasaran,nama,nilai,satuan,keterangan
+na-analisis-data-doropeti,,Doropeti,Raptor,Jumlah total individu raptor,23,individu,Total seluruh jenis raptor dalam plot pengamatan.
+na-analisis-data-doropeti,,Doropeti,Raptor,Jumlah plot pengamatan,18,plot,n = 18.
+na-analisis-data-doropeti,,Doropeti,Raptor,Radius plot,500,m,r = 500 m.
+na-analisis-data-doropeti,,Doropeti,Raptor,Luas plot,1413,ha,A = 1413 ha.
+na-analisis-data-doropeti,,Doropeti,Raptor,Kepadatan populasi raptor,0.01627742392073602,individu/1413 ha,D total raptor.
+na-analisis-data-doropeti,,Doropeti,Raptor,Kepadatan populasi raptor,61.434782608695656,individu/Ha,D total raptor pada kolom D(indv/Ha).
+na-analisis-data-doropeti,,Doropeti,Raptor,Indeks keanekaragaman (H'),2.01984,indeks,H' = 2.01984.
+na-analisis-data-doropeti,,Doropeti,Raptor,Indeks dominansi tertinggi,26.08695652173913,%,Elang Bondol.
+na-analisis-data-doropeti,,Doropeti,Raptor,Indeks dispersi total,2.6363,indeks,Total ID.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-4,2020,Doropeti,Tumbuhan penting,Jenis tumbuhan tingkat semai,29,jenis,"Alang-alang (Imperata cylindrica) memiliki INP tertinggi, 29,37%."
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-4,2020,Doropeti,Tumbuhan penting,Jenis tumbuhan tingkat pancang,15,jenis,"Soka (Ardisia javanica) memiliki INP tertinggi, 45,42%."
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-4,2020,Doropeti,Tumbuhan penting,Jenis tumbuhan tingkat tiang,8,jenis,"Soka (Ardisia javanica) memiliki INP tertinggi, 87,11%."
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-4,2020,Doropeti,Tumbuhan penting,Jenis tumbuhan tingkat pohon,22,jenis,"Ntingi (Crypteronia paniculata) memiliki INP tertinggi, 57,03%."
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-4,2020,Doropeti,Tumbuhan penting,Plot pengamatan,20,plot,Jarak antarplot 500 meter.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-3,2020,Doro Ncanga,Tumbuhan penting,Jumlah petak ukur,30,petak,Plot pengamatan disusun sepanjang jalur pendakian dengan jarak antarplot 500 m.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-3,2020,Doro Ncanga,Tumbuhan penting,Jenis tumbuhan tingkat semai,30,jenis,Jumlah sebagaimana disebut dalam uraian hasil; tabel memuat beberapa jenis yang tidak teridentifikasi secara ilmiah.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-3,2020,Doro Ncanga,Tumbuhan penting,Jenis tumbuhan tingkat pancang,11,jenis,"To’a (Timonius timon) memiliki INP tertinggi, 58,33%."
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-3,2020,Doro Ncanga,Tumbuhan penting,Jenis tumbuhan tingkat tiang,5,jenis,"To’a (Timonius timon) memiliki INP tertinggi, 141,04%."
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-3,2020,Doro Ncanga,Tumbuhan penting,Jenis tumbuhan tingkat pohon,12,jenis,"To’a (Timonius timon) memiliki INP tertinggi, 83,90%."
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-3,2020,Doro Ncanga,Tumbuhan penting,INP tertinggi tingkat semai,68.21,%,Alang-alang (Imperata cylindrica).
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Jumlah plot pengamatan,16,plot,Plot ditempatkan dengan jarak 500 meter.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Panjang jalur pengamatan dalam kawasan,7.35,km,Sepanjang jalur pendakian Kawinda Toi.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Jenis tercatat tingkat semai,32,jenis,Dicatat pada pembahasan hasil.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Jenis tercatat tingkat pancang,17,jenis,Dicatat pada pembahasan hasil.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Jenis tercatat tingkat tiang,13,jenis,Dicatat pada pembahasan hasil.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Jenis tercatat tingkat pohon,15,jenis,Dicatat pada pembahasan hasil.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Indeks keanekaragaman semai,3.36,H’,"Nilai pada tabel hasil; bagian pembahasan menyebutkan nilai 2,82."
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Indeks keanekaragaman pancang,2.3941,H’,Nilai pada tabel hasil.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Indeks keanekaragaman tiang,2.3543,H’,Nilai pada tabel hasil.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh-2,2020,Kawinda Toi,Tumbuhan penting,Indeks keanekaragaman pohon,1.79,H’,"Tabel hasil menyebut 1,79; pembahasan menyebut 1,7909."
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh,2020,,Tumbuhan asing invasif,Jenis tumbuhan asing/invasif teridentifikasi,11,jenis,Meliputi jenis yang dikonfirmasi invasif dan jenis asing/eksotik.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh,2020,,Tumbuhan asing invasif,Jenis terkonfirmasi sebagai tumbuhan asing dan invasif,9,jenis,Menurut kesimpulan laporan.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh,2020,,Tumbuhan asing invasif,Jenis asing/eksotik yang belum terkonfirmasi invasif,2,jenis,Sonokeling dan ncambu wera.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh,2020,,Tumbuhan asing invasif,Personel pelaksana,5,orang,Kegiatan juga dibantu 5 buruh.
+2020-identifikasi-penyebaran-dan-inventarisasi-tumbuh,2020,,Tumbuhan asing invasif,Ncambu wera yang ditemukan,1,pohon,"Tercatat pada koordinat S 08°23’48,1” E 118°02’50,0”."
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,Jumlah jenis tanaman tercatat,45,jenis,Hasil survey pada 32 plot inventarisasi
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,Jumlah plot inventarisasi,32,plot,LPK; RPK merencanakan jarak antar plot 500 m
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,Jumlah jenis tumbuhan invasif/asing teridentifikasi,8,jenis,7 jenis invasif dan 1 jenis asing/eksotik (Dao)
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,Kerapatan tertinggi tingkat semai,7602,ind/ha,Mpori ngame (Themeda arguens)
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,Frekuensi tertinggi tingkat semai,0.781,,Mpori ngame (Themeda arguens)
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,INP tertinggi tingkat semai,0.849,,Mpori ngame (Themeda arguens)
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,Kerapatan tertinggi tingkat pancang,225,ind/ha,Sarume maju (Phyllanthus emblica)
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,INP tertinggi tingkat pancang,0.528,,Sarume maju (Phyllanthus emblica)
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,Kerapatan tertinggi tingkat tiang,26,ind/ha,Sarume maju (Phyllanthus emblica)
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,INP tertinggi tingkat tiang,1.744,,Sarume maju (Phyllanthus emblica)
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,Kerapatan tertinggi tingkat pohon,6.25,ind/ha,Sarume maju (Phyllanthus emblica)
+2020-inventarisasi-tumbuhan-asing-invasif-di-sptn-i-k,2020,Piong,Tumbuhan asing invasif,INP tertinggi tingkat pohon,0.711,,Bidara (Ziziphus rotundifolia)
+2020-monitoring-populasi-dan-persebaran-satwa-liar-sp,2020,Doro Ncanga,Rusa timor,Perkiraan jumlah individu Rusa Timor,26,individu,"Estimasi berdasarkan tanda keberadaan, bukan perjumpaan langsung."
+2020-monitoring-populasi-dan-persebaran-satwa-liar-sp,2020,Doro Ncanga,Rusa timor,Site monitoring dengan deteksi Rusa Timor,4,site,"Pos 2 Jalur Pendakian, Doro Mbolo, Wadu Brusu, dan Doro Saha."
+2020-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2020,Doropeti,Rusa timor,Rusa Timor diperkirakan berdasarkan tanda keberadaan,31,individu,Estimasi analisis deskriptif.
+2020-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2020,Doropeti,Rusa timor,Rusa Timor teramati langsung,4,individu,Laporan menyebut total 4 individu teramati langsung.
+2020-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2020,Doropeti,Rusa timor,Estimasi Rusa Timor dengan pellet count,10,individu,Dihitung dari 54 kelompok feses pada transek 500 m × 10 m; periode feses diasumsikan 180 hari.
+2020-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2020,Doropeti,Rusa timor,Perkiraan total Rusa Timor,45,individu,"Kesimpulan laporan menjumlahkan estimasi 31 dari tanda keberadaan, 4 perjumpaan langsung, dan 10 dari pellet count."
+2020-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2020,Doropeti,Rusa timor,Elang Flores teramati,2,individu,Satu individu di kawasan TN pada Pos 4 dan satu individu di Hutan Produksi.
+2020-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2020,Doropeti,Rusa timor,Kakak Tua Jambul Kuning teramati,2,individu,Teramati di Pos 3; belum terdokumentasi.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah jenis anggrek teridentifikasi,13,jenis,Bab V menyebut 13 spesies dari 17 titik pengamatan; kesimpulan menyebut 12 jenis dan tabel hasil memuat 12 nama jenis.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah genus,8,genus,Teks pembahasan menyebut 8 genus.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah titik pengamatan,17,titik,Titik pengamatan AGP01–AGP17.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Trichoglottis lanceolaria Blume,55,individu,Jenis paling banyak ditemukan dan dijumpai di 4 titik pengamatan.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Malaxis koordersii,37,individu,Tumbuh terrestrial.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Malaxis junghuhnii,35,individu,Tumbuh terrestrial.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Luisia sp,1,individu,Jumlah paling sedikit yang ditemukan.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Dendrobium sp 1,13,individu,Ditemukan epifit pada pohon kesambi dan luhu/walikukun.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Dendrobium sp 2,2,individu,Ditemukan di titik pengamatan 14.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Polystachya concreta,11,individu,10 individu di titik pengamatan 1 dan 1 individu di titik pengamatan 17.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Thrixspermum centipeda,6,individu,Tumbuh epifit pada pohon duwet dan soka.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Peristylus gracilis Blume,2,individu,Ditemukan di titik pengamatan 5.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Habenaria sp,2,individu,Ditemukan di titik pengamatan 11.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Trichoglottis sp,3,individu,Ditemukan tidak berbunga.
+2021-identifikasi-jenis-anggrek-di-resort-piong-seksi,2021,Piong,Anggrek,Jumlah individu Malaxis sp,8,individu,Belum teridentifikasi dari genus Malaxis.
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah titik perjumpaan,22,titik,di sepanjang jalur transek
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jarak total jalur transek,12.39,Km,jalur pengumpulan data
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah jenis anggrek teridentifikasi,10,jenis,dari 7 marga/genus
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah jenis teridentifikasi sampai spesies,8,jenis,"2 jenis hanya sampai genus, yaitu Coelogyne dan Malaxis"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah individu seluruh jenis,110,individu,akumulasi Tabel 3
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah individu Peristylus monticola,32,individu,"terbanyak; elevasi 590-630 mdpl; 3 titik; frekuensi 13,6%"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah individu Habenaria hymenophylla,19,individu,"elevasi 260-630 mdpl; 3 titik; frekuensi 13,6%"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah individu Vanda lombokensis,16,individu,"epifit; elevasi 240-760 mdpl; 8 titik; frekuensi 36,4%; inang antara lain Rajumas, Suren, Ampelas, Palaquium amboinense, Grewia eriocarpa"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah individu Crepidium junghuhnii,12,individu,"elevasi 620-650 mdpl; 3 titik; frekuensi 13,6%"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah rumpun Coelogyne sp.,10,rumpun,"epifit; elevasi 730-760 mdpl; 4 titik; frekuensi 18,2%"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah individu Crepidium koordersii,8,individu,"elevasi 630-680 mdpl; 3 titik; frekuensi 13,6%"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah individu Peristylus gracilis,8,individu,"elevasi 580-620 mdpl; 2 titik; frekuensi 9,1%"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah rumpun Eulophia zollingeri,3,rumpun,"elevasi 260 mdpl; 1 titik; frekuensi 4,5%"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah individu Habenaria loerzingii,1,individu,"elevasi 750 mdpl; 1 titik; frekuensi 4,5%"
+2021-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2021,Oi Katupa,Anggrek,Jumlah individu Malaxis sp.,1,individu,"elevasi 640 mdpl; 1 titik; frekuensi 4,5%"
+2021-identifikasi-jenis-anggrek-di-wilayah-sptn-ii-pe,2021,Pancasila,Anggrek,Taksa anggrek yang tercantum dalam daftar gambar,9,taksa,Dihitung dari nama anggrek pada judul Gambar 3–11; bukan jumlah individu.
+2021-laporan-pelaksanaan-kegiatan-identifikasi-jenis-,2021,Doropeti,Anggrek,Jumlah spesies anggrek,16,spesies,Terdiri dari 13 genus
+2021-laporan-pelaksanaan-kegiatan-identifikasi-jenis-,2021,Doropeti,Anggrek,Jumlah genus anggrek,13,genus,Terdapat 16 spesies
+2021-laporan-pelaksanaan-kegiatan-identifikasi-jenis-,2021,Doropeti,Anggrek,Jumlah individu anggrek,147,individu,Total individu dari seluruh jenis yang ditemukan
+2021-laporan-pelaksanaan-kegiatan-identifikasi-jenis-,2021,Doropeti,Anggrek,Anggrek epifit,9,jenis,"Agrostophyllum sp1, Agrostophyllum sp2, Bulbophylum sp1, Bulbophyllum sp2, Cymbidium aloifolium, Dendrobium sp, Eria sp1, Eria sp2, Vanda sp"
+2021-laporan-pelaksanaan-kegiatan-identifikasi-jenis-,2021,Doropeti,Anggrek,Anggrek terestrial,7,jenis,"Anoectochilus reinwardtii, Goodyera sp, Habenaria sp, Liparis barbata, Malaxis versicolor, Nervilia aragoana, Peristylus gracilis"
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-4,2021,Oi Katupa,Elang flores,Jumlah individu Elang Flores teramati,3,individu,2 individu di plot EFK05 dan 1 individu di plot EFK06; kemungkinan 1 individu EFK06 sama dengan salah satu individu EFK05.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-4,2021,Oi Katupa,Elang flores,Jumlah perjumpaan,3,kali,2 kali perjumpaan 1 ekor dan 1 kali perjumpaan 2 ekor.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-4,2021,Oi Katupa,Elang flores,Jumlah sarang Elang Flores ditemukan,1,sarang,"Sarang aktif di pohon Kalanggo, koordinat 118,06627 BT dan -8,16820 LS, elevasi 741 mdpl."
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-4,2021,Oi Katupa,Elang flores,Panjang jalur pengamatan,9.27,km,Jalur jalan setapak menyusuri sungai Oi Katupa menuju Mada Oi To’i.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-4,2021,Oi Katupa,Elang flores,Jumlah plot pengamatan,6,plot,"Setiap plot radius 500 m, luas 78,5 ha."
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-4,2021,Oi Katupa,Elang flores,Luas area pengamatan,471,ha,"Total 6 plot x 78,5 ha."
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-4,2021,Oi Katupa,Elang flores,Kepadatan populasi,0.636,individu/km2,Dibulatkan ≈ 1 individu/km2.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-4,2021,Oi Katupa,Elang flores,Indeks dispersi,1.4,indeks,ID > 1 menunjukkan sebaran mengelompok.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp,2021,Doro Ncanga,Rusa timor,Kepadatan hasil perjumpaan langsung di Wadu Brusu,0.059,individu/ha,Estimasi sekitar 21 individu pada area pengamatan Wadu Brusu.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp,2021,Doro Ncanga,Rusa timor,Estimasi populasi minimum berdasarkan jejak kaki,8,individu,Estimasi untuk kedua area pengamatan.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp,2021,Doro Ncanga,Rusa timor,Estimasi populasi maksimum berdasarkan jejak kaki,26,individu,Estimasi untuk kedua area pengamatan.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp,2021,Doro Ncanga,Rusa timor,Kepadatan berdasarkan feses di Wadu Brusu,0.077,individu/ha,Analisis pellet count; setara sekitar 1 individu per 13 ha.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp,2021,Doro Ncanga,Rusa timor,Kepadatan berdasarkan feses di Pos 2 Doro Ncanga,0.0078,individu/ha,Analisis pellet count; setara sekitar 1 individu per 128 ha.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp,2021,Doro Ncanga,Rusa timor,Komposisi kelas umur hasil perjumpaan langsung,0:0:2,individu (anak:muda:dewasa),Tidak ditemukan individu anak dan muda pada analisis perjumpaan langsung.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp,2021,Doro Ncanga,Rusa timor,Rasio kelamin rusa dewasa,1:1,jantan:betina,Berdasarkan perjumpaan langsung.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp,2021,Doro Ncanga,Rusa timor,Indeks Dispersion di Wadu Brusu,0.009,indeks,Nilai ID < 1; laporan menyebut pola sebaran homogen/merata.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2021,Pancasila,Rusa timor,Perkiraan jumlah rusa,31,individu,LPK menyebut 13 individu dijumpai langsung dan 18 melalui tanda keberadaan.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2021,Pancasila,Rusa timor,Perjumpaan langsung,13,individu,Dijumpai di jalur Sorinomo dan jalur baru.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2021,Pancasila,Rusa timor,Kepadatan berdasarkan metode King,1,individu per hektar,Laporan menyebut hasil perhitungan 4 ekor per 4 hektar.
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2021,Pancasila,Rusa timor,Onggokan kotoran di jalur Sorinomo,75,onggokan,"Kotoran tercatat dalam berbagai kondisi, dari lama hingga baru."
+2021-monitoring-populasi-dan-persebaran-satwa-liar-sp-2,2021,Pancasila,Rusa timor,Onggokan kotoran di jalur lama,30,onggokan,Disebutkan dalam uraian hasil.
+2021-sosialisasi-peraturan-terkait-keanekaragaman-hay,2021,Pancasila,Sosialisasi TSL,Jumlah personel pelaksana,3,orang,Terdiri atas satu koordinator dan dua anggota.
+2021-sosialisasi-peraturan-terkait-keanekaragaman-hay,2021,Pancasila,Sosialisasi TSL,Uang saku peserta yang tercantum dalam anggaran,20,orang,Rincian anggaran mencantumkan uang saku peserta untuk 20 orang.
+2021-sosialisasi-peraturan-terkait-keanekaragaman-hay,2021,Pancasila,Sosialisasi TSL,Jumlah jenis TSL dilindungi yang disebut sebelum P.106/2018,294,jenis,Angka yang disampaikan dalam materi sosialisasi.
+2021-sosialisasi-peraturan-terkait-keanekaragaman-hay,2021,Pancasila,Sosialisasi TSL,Jumlah jenis TSL dilindungi setelah P.106/2018,904,jenis,Angka yang disampaikan dalam materi sosialisasi.
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar-2,2021,Kawinda Toi,Raptor,Jumlah raptor teramati,17,individu,Tercatat dari 7 jenis raptor.
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar-2,2021,Kawinda Toi,Raptor,Jumlah jenis raptor,7,jenis,Jenis yang tercatat selama kegiatan.
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar-2,2021,Kawinda Toi,Raptor,Jumlah plot pengamatan,9,plot,Plot ditempatkan sepanjang jalan setapak.
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar-2,2021,Kawinda Toi,Raptor,Indeks keanekaragaman,1.77,H′,Termasuk kategori rendah.
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar-2,2021,Kawinda Toi,Raptor,Kepadatan populasi raptor keseluruhan,0.00241,individu/ha,"Dalam laporan juga disebut satu individu menempati areal 41,56 ha."
+2021-inventarisasi-penggunaan-lahan-zona-khusus-so-to,2021,,Tutupan lahan & ekosistem,Jumlah petak penggunaan lahan teridentifikasi,95,petak,62 petak berada atau masuk Zona Khusus dan 33 petak berada di Zona Tradisional.
+2021-inventarisasi-penggunaan-lahan-zona-khusus-so-to,2021,,Tutupan lahan & ekosistem,Luas penggunaan lahan di Zona Khusus,143.122,ha,Laporan menyebut luasan ini mencakup lahan yang berbatasan dan masuk ke Zona Tradisional serta kawasan Hutan Produksi.
+2021-inventarisasi-penggunaan-lahan-zona-khusus-so-to,2021,,Tutupan lahan & ekosistem,Luas penggunaan lahan di Zona Tradisional,103.147,ha,Disebut telah diubah atau dirambah menjadi lahan jagung.
+2021-inventarisasi-penggunaan-lahan-zona-khusus-so-to,2021,,Tutupan lahan & ekosistem,Jumlah penggarap di Zona Khusus dan sekitarnya,78,orang,48 orang berasal dari Dusun So Tompo dan 30 orang dari luar So Tompo.
+2021-inventarisasi-penggunaan-lahan-zona-khusus-so-to,2021,,Tutupan lahan & ekosistem,Petak lahan yang ditanami jagung,70,petak,Dari 95 petak penggunaan lahan di So Tompo dan sekitarnya.
+2021-inventarisasi-penggunaan-lahan-zona-khusus-so-to,2021,,Tutupan lahan & ekosistem,Petak lahan yang ditanami jambu mete,24,petak,Komoditas utama lain yang tercatat selain jagung.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-4,2021,Piong,Raptor,Jumlah individu raptor teramati,9,individu,Terdiri atas enam jenis raptor.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-4,2021,Piong,Raptor,Jumlah jenis raptor,6,jenis,Teridentifikasi selama kegiatan.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-4,2021,Piong,Raptor,Jumlah plot pengamatan,42,plot,19 plot di jalur pendakian Piong dan 23 plot di luar jalur.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-4,2021,Piong,Raptor,Luas seluruh plot pengamatan,3297,ha,"Luas satu plot tercatat 78,5 ha."
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-4,2021,Piong,Raptor,Indeks keanekaragaman jenis,1.58,H',Kategori rendah.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-4,2021,Piong,Raptor,Kepadatan populasi raptor keseluruhan,0.0027,individu/ha,"Setara sekitar 1 individu per 366,33 ha."
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-4,2021,Piong,Raptor,Jumlah individu Alap-alap sapi (Falco moluccensis),4,individu,"Teramati dalam dua perjumpaan, masing-masing dua individu."
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da,2021,Doropeti,Raptor,Jumlah plot pengamatan,18,plot,"Luas tiap plot 78,5 Ha; luas total 1.413 Ha."
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da,2021,Doropeti,Raptor,Jumlah jenis raptor tercatat,9,jenis,Terdiri atas tujuh jenis diurnal dan dua jenis burung hantu.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da,2021,Doropeti,Raptor,Indeks keanekaragaman (H’),2.01984,indeks,Termasuk kategori sedang.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da,2021,Doropeti,Raptor,Kepadatan populasi raptor keseluruhan,0.016277424,per 1.413 Ha,"Laporan menyebut setara satu individu pada radius 61,43 Ha."
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da,2021,Doropeti,Raptor,Indeks dispersi raptor keseluruhan,2.636,indeks,Pola sebaran keseluruhan dikategorikan mengelompok.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-2,2021,Doropeti,Raptor,Jumlah jenis raptor tercatat,9,jenis,Tercatat dalam hasil pengamatan.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-2,2021,Doropeti,Raptor,Jumlah individu teramati,23,individu,Jumlah seluruh individu dari sembilan jenis.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-2,2021,Doropeti,Raptor,Jumlah plot pengamatan,18,plot,"Setiap plot memiliki luas 78,5 ha."
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-2,2021,Doropeti,Raptor,Luas total plot pengamatan,1413,ha,Luas total yang dilaporkan.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-2,2021,Doropeti,Raptor,Indeks keanekaragaman H’,2.01984,indeks,Termasuk kategori sedang menurut laporan.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-2,2021,Doropeti,Raptor,Kepadatan populasi keseluruhan,0.016277424,individu/ha,"Laporan juga menyatakan setara dengan satu individu per 61,43 ha."
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-2,2021,Doropeti,Raptor,Individu Elang Bondol,6,individu,Jumlah tertinggi di antara jenis yang tercatat.
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-3,2021,Oi Katupa,Raptor,Jumlah plot pengamatan,9,plot,Point Count
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-3,2021,Oi Katupa,Raptor,Luas total plot pengamatan,706.5,ha,"Luas tiap plot 78,5 ha"
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-3,2021,Oi Katupa,Raptor,Jumlah individu teramati,22,individu,Menurut tabel kepadatan populasi
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-3,2021,Oi Katupa,Raptor,Jumlah jenis tercatat,7,jenis,Tabel hasil memuat tujuh jenis
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-3,2021,Oi Katupa,Raptor,Kepadatan populasi keseluruhan,0.028025478,individu/ha,"Laporan juga menyebut 1 individu per 32,11 ha"
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-3,2021,Oi Katupa,Raptor,Indeks keanekaragaman (H’),2.01984,indeks,Kategori sedang menurut laporan
+2021-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da-3,2021,Oi Katupa,Raptor,Indeks dispersi keseluruhan,2.636,indeks,Kategori mengelompok
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar,2021,Pancasila,Raptor,Jumlah individu Alap-alap sapi teramati,2,individu,Masing-masing satu individu dijumpai di plot PC03 dan PC04.
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar,2021,Pancasila,Raptor,Jumlah jenis raptor teridentifikasi di dalam kawasan,1,jenis,Alap-alap sapi (Falco moluccensis).
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar,2021,Pancasila,Raptor,Kepadatan populasi Alap-alap sapi,0.425,individu/km²,Laporan menyetarakan hasil ini dengan 1 individu per 2 km².
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar,2021,Pancasila,Raptor,Luas total plot pengamatan,471,ha,"Terdiri atas 6 plot, masing-masing seluas 78,5 ha."
+2021-identifikasi-dan-inventarisasi-jenis-serta-sebar,2021,Pancasila,Raptor,Indeks keanekaragaman raptor (H’),0,indeks,Dikategorikan rendah; hanya satu jenis raptor ditemukan di dalam kawasan.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-2,2021,Doropeti,Elang flores,Jumlah individu Elang Flores teramati,5,individu,Tercatat 5 individu dalam 5 kali perjumpaan
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-2,2021,Doropeti,Elang flores,Jumlah perjumpaan Elang Flores,5,kali,Plot 9: 3 kali; Plot 6: 1 kali (sarang); Plot 5: 1 kali
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-2,2021,Doropeti,Elang flores,Jumlah plot pengamatan,16,plot,"Tersebar di zona khusus, tradisional, rehabilitasi, pemanfaatan, dan rimba; tabel analisis menggunakan n=17"
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-2,2021,Doropeti,Elang flores,Luas per plot pengamatan,78.5,Ha,Sesuai teks LPK
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-2,2021,Doropeti,Elang flores,Luas total plot pengamatan,1256,Ha,"16 plot x 78,5 Ha"
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-2,2021,Doropeti,Elang flores,Kepadatan populasi Elang Flores,0.003980892,individu/Ha,"Setara 1 individu per 251,2 Ha"
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-2,2021,Doropeti,Elang flores,Indeks Dispersi Elang Flores,5.0,indeks,Kriteria sebaran kelompok
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-2,2021,Doropeti,Elang flores,Jumlah jenis burung lain tercatat,6,jenis,Selain Elang Flores
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang,2021,Doro Ncanga,Elang flores,Elang Flores teramati,0,individu,"Tidak ditemukan jejak, suara, maupun perjumpaan langsung selama kegiatan."
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang,2021,Doro Ncanga,Elang flores,Jenis satwa lain tercatat,12,jenis,Berdasarkan lampiran data perjumpaan satwa.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang,2021,Doro Ncanga,Elang flores,Individu satwa lain tercatat,31,individu,Jumlah berdasarkan rekap data perjumpaan satwa; termasuk Rusa Timor.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang,2021,Doro Ncanga,Elang flores,Titik pengamatan,15,titik,12 titik di jalur Pos 1–Pos 2/Wadu Brusu dan 3 titik di Seralia.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-3,2021,Pancasila,Elang flores,Jumlah individu Elang Flores teramati,0,individu,Tidak dijumpai secara langsung maupun melalui suara selama kegiatan.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-3,2021,Pancasila,Elang flores,Jenis satwa lain tercatat,8,jenis,Tercantum dalam lampiran data perjumpaan satwa lain.
+2021-inventarisasi-dan-monitoring-serta-sebaran-elang-3,2021,Pancasila,Elang flores,Individu satwa lain tercatat,29,individu,Jumlah dari angka individu pada delapan jenis di lampiran.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi,2022,Doro Ncanga,Mata air,Lokasi potensial mata air yang diidentifikasi,3,lokasi,"Doro Mbolo, Oi Ntala, dan Oi Katebe."
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi,2022,Doro Ncanga,Mata air,Mata air ditemukan di Doro Mbolo,3,mata air,Di Oi Ntala dan Oi Katebe tidak ditemukan mata air mengalir.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi,2022,Doro Ncanga,Mata air,Debit Doro Mbolo 1,0.001,m³/s,Diukur dengan metode apung.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi,2022,Doro Ncanga,Mata air,Debit Doro Mbolo 2,0.009,m³/s,Debit terbesar di antara tiga titik Doro Mbolo.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi,2022,Doro Ncanga,Mata air,Debit Doro Mbolo 3,0.007,m³/s,Diukur dengan metode apung.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi,2022,Doro Ncanga,Mata air,Rembesan air Oi Ntala,1,tetes/5 detik,Rembesan ditemukan di sekitar dinding batu dekat Pos 2.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi,2022,Doro Ncanga,Mata air,Luas catchment area pada hasil kegiatan,2002.38,hektar,Disebut sebagai target luas tangkapan air pada bagian hasil.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d,2022,Pancasila,Rusa timor,Perjumpaan langsung rusa,0,individu,LPK menyatakan tidak ada individu rusa yang dijumpai langsung.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d,2022,Pancasila,Rusa timor,Jejak kaki,25,temuan,Jumlah rekapitulasi lampiran.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d,2022,Pancasila,Rusa timor,Feses/kotoran,28,temuan,Jumlah rekapitulasi lampiran.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d,2022,Pancasila,Rusa timor,Bekas garukan tanduk,6,temuan,Jumlah rekapitulasi lampiran.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d,2022,Pancasila,Rusa timor,Estimasi individu berdasarkan tanda tidak langsung,59,individu,Angka kesimpulan LPK; rincian pembahasan juga menyebut estimasi 31 individu dan terdapat pernyataan perbandingan 31 menjadi 32.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Jumlah mata air terdata,8,mata air,Terdiri dari tujuh mata air Mada Oi Katupa dan satu Mada Oi To’i.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Jumlah sumber Mada Oi Katupa,7,mata air,"Total debit ketujuh sumber sebesar 39,17 liter/detik."
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Debit Mada Oi Katupa 1,0.17,liter/detik,
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Debit Mada Oi Katupa 2,9.1,liter/detik,
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Debit Mada Oi Katupa 3,5.85,liter/detik,
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Debit Mada Oi Katupa 4,1.3,liter/detik,
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Debit Mada Oi Katupa 5,7.8,liter/detik,
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Debit Mada Oi Katupa 6,9.75,liter/detik,Debit terbesar di antara mata air yang terdata di Sori Katupa.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Debit Mada Oi Katupa 7,5.2,liter/detik,
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-3,2022,Oi Katupa,Mata air,Debit Mada Oi To’i,0.25,liter/detik,Mata air semi-perenial.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-2,2022,Pancasila,Mata air,Sumber mata air yang dilaporkan,1,sumber,Sumber mata air Pos 3 jalur pendakian Pancasila.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-2,2022,Pancasila,Mata air,Kontinuitas aliran,Mengalir sepanjang tahun,,Berdasarkan wawancara dengan petugas dan masyarakat yang pernah menggunakan sumber mata air.
+2022-inventarisasi-dan-pemetaan-sumber-mata-air-di-wi-2,2022,Pancasila,Mata air,Perubahan debit menurut musim,"Debit meningkat saat musim hujan, tetapi tidak signifikan",,Informasi diperoleh dari wawancara; debit tidak diukur langsung.
+2022-inventarisasi-dan-identifikasi-kemitraan-konserv,2022,Doro Ncanga,Kemitraan konservasi,Plot inventarisasi,25,plot,Setiap plot berukuran 20 x 20 meter.
+2022-inventarisasi-dan-identifikasi-kemitraan-konserv,2022,Doro Ncanga,Kemitraan konservasi,Luas areal sampel,1,ha,Luas total 25 plot.
+2022-inventarisasi-dan-identifikasi-kemitraan-konserv,2022,Doro Ncanga,Kemitraan konservasi,Jenis tumbuhan tercatat,46,spesies,Laporan menyebut sekitar 46 spesies dalam 21 famili.
+2022-inventarisasi-dan-identifikasi-kemitraan-konserv,2022,Doro Ncanga,Kemitraan konservasi,Jenis HHBK potensial tercatat,4,jenis,"Sabia, gadung, porang, dan suweg."
+2022-inventarisasi-dan-identifikasi-kemitraan-konserv,2022,Doro Ncanga,Kemitraan konservasi,Sabia,130,rumpun/ha,Densitas yang dicantumkan dalam analisis potensi HHBK.
+2022-inventarisasi-dan-identifikasi-kemitraan-konserv,2022,Doro Ncanga,Kemitraan konservasi,Gadung/Lede,689,batang/ha,Densitas yang dicantumkan dalam analisis potensi HHBK.
+2022-inventarisasi-dan-identifikasi-kemitraan-konserv,2022,Doro Ncanga,Kemitraan konservasi,Luas Zona Tradisional So Tompo,586.76,ha,Luas kawasan menurut laporan.
+2022-inventarisasi-dan-identifikasi-kemitraan-konserv,2022,Doro Ncanga,Kemitraan konservasi,Areal potensial untuk kemitraan konservasi,100,ha,Luas potensial menurut kesimpulan laporan.
+2022-inventarisasi-dan-identifikasi-kemitraan-konserv,2022,Doro Ncanga,Kemitraan konservasi,Perkiraan nilai ekonomi total dua komoditas HHBK,4446000000,rupiah,Proyeksi dalam laporan untuk pemanfaatan optimal: sabia dan gadung.
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Jumlah sungai yang melintasi wilayah Resort Kawinda Toi,3,sungai,"Sori Laju, Sori Nae, dan Oi Marai"
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Jumlah sumber daya air tercatat,13,sumber,Di wilayah kerja Resort Kawinda Toi
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Debit air Sori Laju,0.2979,m3/detik,Hasil pengukuran metode apung
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Debit air Sori Nae,0.9165,m3/detik,Hasil pengukuran metode apung
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Debit air Oi Marai,4.9187,m3/detik,Debit terbesar di wilayah kerja Balai TN Tambora
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Total debit sumber mata air hulu Sori Nae,1.2413,m3/detik,Gabungan 10 Mada Oi
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Selisih debit hulu Sori Nae dengan Sori Nae,0.3248,m3/detik,Hilang atau meresap ke dalam tanah
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Luas target pelaksanaan kegiatan,6345.34,hektar,Luasan daerah tangkapan air
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Jumlah personel,5,orang,Dari Balai TN Tambora dan SPTN Wilayah I Kore
+2022-inventarisasi-dan-pemetaan-sumber-daya-mata-air-,2022,Kawinda Toi,Mata air,Jumlah dana kegiatan,12975000,Rupiah,Sumber DIPA BA. 29 Balai Taman Nasional Tambora Tahun Anggaran 2022
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Kepadatan populasi Elang Flores,1.0171,ekor/ha,Dihitung dengan persamaan Jarvinnen (1978) yang dimodifikasi; disebut juga 1 ekor/ha.
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Indeks Dispersi Elang Flores,4.497,,Termasuk kriteria sebaran kelompok/mengelompok (ID>1).
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Kerapatan seluruh jenis Plot I,2.796,,Kerapatan seluruh jenis pada Plot I.
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Kerapatan seluruh jenis Plot II,1.995,,Kerapatan seluruh jenis pada Plot II.
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Kerapatan seluruh jenis Plot III,2.136,,Kerapatan seluruh jenis pada Plot III.
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Kerapatan seluruh jenis/ha Plot I,279.639,,Kerapatan seluruh jenis per hektar pada Plot I.
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Kerapatan seluruh jenis/ha Plot II,199.496,,Kerapatan seluruh jenis per hektar pada Plot II.
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Kerapatan seluruh jenis/ha Plot III,213.609,,Kerapatan seluruh jenis per hektar pada Plot III.
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,INP tertinggi Plot I,77.367,%,Jenis Kalanggo (Duabanga moluccana).
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,INP tertinggi Plot II,92.695,%,Jenis Kalanggo (Duabanga moluccana).
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,INP tertinggi Plot III,95.082,%,Jenis Kalanggo (Duabanga moluccana).
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Dominansi relatif Kalanggo Plot I,62.784,%,Jenis Kalanggo (Duabanga moluccana).
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Dominansi relatif Kalanggo Plot II,79.778,%,Jenis Kalanggo (Duabanga moluccana).
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-3,2022,Oi Katupa,Elang flores,Dominansi relatif Kalanggo Plot III,67.582,%,Jenis Kalanggo (Duabanga moluccana).
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2022,Kawinda Toi,Elang flores,Jumlah Elang flores,2,ekor,Kesimpulan laporan untuk site Ngguwu Saha.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2022,Kawinda Toi,Elang flores,Kepadatan Elang flores,1,"ekor per 2,7475 ha",Angka kepadatan sebagaimana dilaporkan.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2022,Kawinda Toi,Elang flores,Indeks dispersi,1.929,indeks,Laporan menyimpulkan pola persebaran berkelompok.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2022,Kawinda Toi,Elang flores,Jenis vegetasi tercatat,11,jenis,Ditemukan dalam tiga kuadran di sekitar pohon sarang.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2022,Kawinda Toi,Elang flores,Individu vegetasi berukuran tiang dan pohon,37,individu,Jumlah yang dilaporkan dalam analisis vegetasi.
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2022,Doro Ncanga,Rusa timor,Dugaan populasi minimum berdasarkan jejak kaki,6,individu,"Pada areal sampel 370,29 ha; 4 individu/jejak di Transek I dan 2 di Transek II."
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2022,Doro Ncanga,Rusa timor,Dugaan populasi maksimum berdasarkan jejak kaki,46,individu,Taksiran untuk dua area pengamatan berdasarkan rumus yang digunakan dalam laporan.
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2022,Doro Ncanga,Rusa timor,Kepadatan dugaan berdasarkan jejak kaki,0.0162,individu/ha,Laporan menyetarakan dengan sekitar 1 individu per 62 ha.
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2022,Doro Ncanga,Rusa timor,Perjumpaan langsung menurut uraian LPK,0,perjumpaan,Uraian hasil LPK menyatakan tidak terjadi perjumpaan langsung.
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2022,Doro Ncanga,Rusa timor,Kontak langsung pada lembar analisis Excel,2,kontak,Lembar analisis mencatat dua kontak pada Transek II ulangan I; hasil ini berbeda dari uraian LPK yang menyatakan tidak ada perjumpaan langsung.
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2022,Doro Ncanga,Rusa timor,Luas areal sampel berdasarkan jejak,370.29,ha,Total luas sampel Transek I–III.
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-2,2022,,Elang flores,Jumlah individu teramati,1,individu,Elang Flores; bertengger menunggu mangsa.
+2022-monitoring-satwa-kunci-elang-flores-nisaetus-flo-2,2022,,Elang flores,Elevasi lokasi perjumpaan,467,mdpl,Berdasarkan data perjumpaan.
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-res,2022,Oi Katupa,Rusa timor,Rusa teramati langsung,5,ekor,Dua ekor terlihat di padang rumput dan tiga ekor di hutan cemara.
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-res,2022,Oi Katupa,Rusa timor,Perkiraan jumlah rusa dengan metode King,17,ekor,"Estimasi untuk site So Tuka; kepadatan dilaporkan 1 ekor per 83,09 ha."
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-res,2022,Oi Katupa,Rusa timor,Rentang perkiraan jumlah rusa dari perjumpaan tidak langsung,3–21,ekor,Pendugaan berdasarkan jejak kaki.
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-res,2022,Oi Katupa,Rusa timor,Panjang transek,10669,meter,"Luas petak pengamatan dilaporkan 415,5 ha."
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-res,2022,Oi Katupa,Rusa timor,Jenis vegetasi tingkat semai/tumbuhan bawah tercatat,10,jenis,Nilai ini mengikuti daftar jenis pada tabel dan lampiran analisis vegetasi.
+2022-monitoring-satwa-kunci-rusa-timor-di-wilayah-res,2022,Oi Katupa,Rusa timor,Indeks keanekaragaman vegetasi tingkat semai,1.57,indeks,Dilaporkan dalam kategori sedang.
+2022-perjalanan-dinas-dalam-rangka-pendampingan-mahas,2022,Oi Katupa,Elang flores,Individu Elang flores terpantau,1,individu,Satu individu dewasa terpantau; tidak terpantau individu immature/anakan.
+2022-perjalanan-dinas-dalam-rangka-pendampingan-mahas,2022,Oi Katupa,Elang flores,Durasi kemunculan pada pengamatan sabana 7 Juli,67,menit,Dilaporkan dari total waktu pengamatan 180 menit.
+2022-perjalanan-dinas-dalam-rangka-pendampingan-mahas,2022,Oi Katupa,Elang flores,Durasi aktivitas feeding di spot sarang 8 Juli,55,menit,Individu makan sendiri; jenis pakan yang terpantau adalah ular.
+2022-perjalanan-dinas-dalam-rangka-pendampingan-mahas,2022,Oi Katupa,Elang flores,Durasi kemunculan pada pengamatan sabana 8 Juli,10,menit,Aktivitas soaring di sekitar sabana basecamp.
+2022-perjalanan-dinas-dalam-rangka-pendampingan-mahas,2022,Oi Katupa,Elang flores,Jenis burung lain tercatat,8,jenis,"Kirik-kirik australia, nuri pipi-merah, kipasan flores, kekep babi, srigunting wallacea, caladi tilik, kepudang-sungu sumba, dan kancilan dada-merah."
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2022,Doropeti,Elang flores,Jumlah individu Elang Flores di site Karyasari,3,individu,Satu pasang indukan dewasa dan satu anakan berumur sekitar 26 minggu.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2022,Doropeti,Elang flores,Jumlah individu Elang Flores di tiga site TN Tambora,7,individu,Jumlah yang dilaporkan setelah bertambah satu anakan di site Karyasari.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2022,Doropeti,Elang flores,Titik pengamatan yang dijumpai Elang Flores,14,titik,"Laporan menyebut pola sebaran homogen/merata dengan indeks dispersi 0,659."
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2022,Doropeti,Elang flores,Luas areal teramati,1400,ha,Dilaporkan masih termasuk wilayah jelajah satu pasang indukan.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2022,Doropeti,Elang flores,Umur anakan Elang Flores,26,minggu,Perkiraan saat kegiatan monitoring.
+2022-identifikasi-jenis-anggrek-di-resort-doro-ncanga,2022,Doro Ncanga,Anggrek,Jenis anggrek teridentifikasi,27,jenis,Teridentifikasi dari 21 genus.
+2022-identifikasi-jenis-anggrek-di-resort-doro-ncanga,2022,Doro Ncanga,Anggrek,Jenis belum teridentifikasi,4,jenis,Dilaporkan sebagai jenis yang belum teridentifikasi.
+2022-identifikasi-jenis-anggrek-di-resort-doro-ncanga,2022,Doro Ncanga,Anggrek,Individu anggrek ditemukan,513,individu,Jumlah dalam rekap hasil LPK.
+2022-identifikasi-jenis-anggrek-di-resort-doro-ncanga,2022,Doro Ncanga,Anggrek,Jenis tercatat di hutan sekitar Pos 2,24,jenis,Dari 27 jenis anggrek yang tercatat.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Jumlah individu anggrek tercatat,77,individu,Jumlah keseluruhan pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Jumlah titik perjumpaan,26,titik,Jumlah keseluruhan pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Coelogyne sp.,25,individu,Tercatat pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Gongora sp.,2,individu,Tercatat pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Goodyera sp.,12,individu,Tercatat pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Hebenaria sp.,1,individu,Ejaan pada tabel hasil; bagian lain laporan menyebut Habenaria sp. dan Habenaria loerzingii.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Nervilia punctata,3,individu,Tercatat pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Pholidota sp.,19,individu,Tercatat pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Pteroceras sp.,1,individu,Tercatat pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Vanda lombokensis,21,individu,Tercatat pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-resort-kawinda-toi,2022,Kawinda Toi,Anggrek,Zeuxine affinis,3,individu,Tercatat pada tabel hasil.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso-2,2022,Doropeti,Anggrek,Jumlah jenis/spesies anggrek,16,spesies,Bagian hasil menyebut 16 spesies; bagian lain menyebut 15 jenis/spesies.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso-2,2022,Doropeti,Anggrek,Jumlah individu anggrek,147,individu,"Narasi hasil menyebut total 147 individu, sedangkan tabel kelimpahan mencantumkan total 635 individu."
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso-2,2022,Doropeti,Anggrek,Indeks keanekaragaman Shannon-Wiener (H'),1.708,indeks,Nilai total pada tabel analisis; laporan mengategorikan keanekaragaman keseluruhan sebagai sedang.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso-2,2022,Doropeti,Anggrek,Keanekaragaman Eria monostachya,0.34,indeks,Nilai tertinggi yang disebut dalam laporan.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso-2,2022,Doropeti,Anggrek,Jumlah jalur pengamatan,3,jalur,"Jalur Nguwu Nga’a, Mada Oi Kaleli, dan Transat."
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2022,Oi Katupa,Elang flores,Dugaan populasi Elang flores,2,individu,Dua individu diduga sepasang; laporan menyatakan perjumpaan berulang merupakan individu yang sama.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2022,Oi Katupa,Elang flores,Kepadatan populasi Elang flores,0.011,individu/ha,"Setara dengan 1 individu per 87,5 ha."
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2022,Oi Katupa,Elang flores,Perjumpaan Elang flores,8,kali,Menurut uraian hasil laporan; perjumpaan berulang terjadi pada waktu dan spot berbeda.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2022,Oi Katupa,Elang flores,Perjumpaan raptor lainnya,5,kali,Termasuk raptor yang tidak berhasil diidentifikasi.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2022,Oi Katupa,Elang flores,Sex ratio Elang flores,1:1,rasio jantan:betina,Dugaan berdasarkan individu yang dijumpai.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2022,Oi Katupa,Elang flores,Indeks Dispersion Elang flores,4.3,ID,ID > 1; pola sebaran dinyatakan berkelompok.
+2022-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2022,Oi Katupa,Elang flores,Luas areal pengamatan,175,ha,Terdiri atas tujuh plot berukuran 25 ha.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2022,Piong,Anggrek,Jenis anggrek dijumpai,18,jenis,15 jenis berhasil teridentifikasi dan 3 jenis belum diketahui.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2022,Piong,Anggrek,Indeks keanekaragaman Shannon-Wiener,2.19,indeks,Laporan mengategorikannya sebagai keanekaragaman sedang.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2022,Piong,Anggrek,Jumlah lokasi pengamatan,9,lokasi,Disebutkan dalam kesimpulan laporan.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2022,Piong,Anggrek,Individu Zeuxine gracilis,78,individu,Jenis dengan jumlah individu terbanyak.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2022,Piong,Anggrek,Lokasi perjumpaan Trichoglottis lanceolaria Blume,7,lokasi,Jenis dengan frekuensi perjumpaan terbanyak.
+2022-identifikasi-jenis-anggrek-di-wilayah-kerja-reso,2022,Piong,Anggrek,Individu paling sedikit,1,individu,Taeniophyllum muelleri dan Anggrek 12 masing-masing dijumpai satu individu.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d-2,2022,Pancasila,Rusa timor,Estimasi jumlah Rusa Timor keseluruhan,32,individu,Angka dalam kesimpulan LPK; bagian pembahasan menyebut 19 individu dijumpai langsung dan estimasi keseluruhan 32.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d-2,2022,Pancasila,Rusa timor,Perjumpaan langsung menurut rekapitulasi dan uraian hasil,19,individu,Uraian menyebut 17 individu di jalur lama dan 2 di jalur Sorinomo.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d-2,2022,Pancasila,Rusa timor,Perjumpaan langsung menurut kesimpulan LPK,17,individu,Angka ini berbeda dari rekapitulasi dan uraian hasil yang menyebut 19.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d-2,2022,Pancasila,Rusa timor,Tanda jejak dalam rekapitulasi tabel,22,catatan,Jumlah pada tabel rekapitulasi perjumpaan.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d-2,2022,Pancasila,Rusa timor,Tanda feses dalam rekapitulasi tabel,33,catatan,Jumlah pada tabel rekapitulasi perjumpaan.
+2022-monitoring-satwa-liar-spesies-kunci-rusa-timor-d-2,2022,Pancasila,Rusa timor,Estimasi individu berdasarkan jejak tidak langsung,55,individu,Estimasi yang disebut dalam pembahasan; LPK juga menyatakan kotoran tidak dimasukkan dalam perhitungan individu karena berisiko menghitung individu yang sama lebih dari sekali.
+2022-monitoring-satwa-kunci-rusa-timor-tahap-ii-di-wi,2022,Doro Ncanga,Rusa timor,Jumlah individu teramati langsung,3,individu,Dua betina di sekitar Pos 2 (satu dewasa dan satu muda/remaja) serta satu jantan dewasa di Wadu Brusu.
+2022-monitoring-satwa-kunci-rusa-timor-tahap-ii-di-wi,2022,Doro Ncanga,Rusa timor,Densitas berdasarkan perjumpaan langsung,0.003144,individu/ha,Setara dengan sekitar 1 individu per 318 ha.
+2022-monitoring-satwa-kunci-rusa-timor-tahap-ii-di-wi,2022,Doro Ncanga,Rusa timor,Dugaan jumlah individu minimum berdasarkan jejak kaki,6,individu,"Estimasi untuk kedua area pengamatan berdasarkan areal sampling 269,2 ha."
+2022-monitoring-satwa-kunci-rusa-timor-tahap-ii-di-wi,2022,Doro Ncanga,Rusa timor,Dugaan jumlah individu maksimum berdasarkan jejak kaki,46,individu,"Estimasi untuk kedua area pengamatan berdasarkan areal sampling 269,2 ha."
+2022-monitoring-satwa-kunci-rusa-timor-tahap-ii-di-wi,2022,Doro Ncanga,Rusa timor,Pasangan jejak kaki tercatat,6,pasang,Jumlah terbanyak pertama 4 pasang dan terbanyak kedua 2 pasang.
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Jumlah larikan jalur tanam dibuat 14-17 November 2022,50,larikan,±15 larikan/hari
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Jumlah lubang tanam dibuat 14-17 November 2022,8000,lubang,"±8000, rata-rata 2000 lubang/hari"
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Total lubang tanam sejak 9 November 2022,15000,lubang,±15.000 lubang
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Ajir tersedia,30000,batang,20.000 diangkut Tim 1; 10.000 diangkut 14-17 November 2022
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Bibit rencana tanam,30000,batang,"untuk 45 Ha; Pulai 13.340, Beringin 6.990, Duwet 6.670, Kalanggo 3.000"
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Bibit terdistribusi ke lokasi penanaman hingga 17 November 2022,9000,batang,±9.000 bibit
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Pengangkutan bibit 15 November 2022 truk pertama,14750,batang,dari Dusun So Tompo
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Pengangkutan bibit 15 November 2022 truk kedua,14250,batang,dari Dusun So Tompo
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Luas lokasi rencana/realisasi,45,Ha,Zona Rehabilitasi So Lia
+2022-perjalanan-dinas-dalam-rangka-pendampingan-kegia,2022,Doro Ncanga,Pemulihan ekosistem,Jarak tanam,5,m x 3 m,5 x 3 m; 667 bibit/Ha; 660 lubang/Ha
+2023-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da,2023,Doro Ncanga,Burung,Jenis burung dijumpai,36,jenis,Tersebar dalam 28 famili.
+2023-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da,2023,Doro Ncanga,Burung,Famili burung dijumpai,28,famili,
+2023-laporan-pelaksanaan-kegiatan-lpk-identifikasi-da,2023,Doro Ncanga,Burung,Total individu tercatat,239,individu,Jumlah hasil penjumlahan jumlah individu pada daftar perjumpaan.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-2,2023,Oi Katupa,Burung,Jenis burung tercatat,34,jenis,Berdasarkan tally sheet identifikasi burung.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-2,2023,Oi Katupa,Burung,Jumlah individu tercatat,339,individu,Jumlah total pada tally sheet.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-2,2023,Oi Katupa,Burung,Grid pengamatan,30,grid,Tally sheet memuat 30 nomor grid.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-3,2023,Piong,Burung,Jenis burung tercatat,37,jenis,LPK menyebut 37 jenis dari 26 famili.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-3,2023,Piong,Burung,Jumlah individu tercatat,554,individu,Jumlah total pada lembar analisis data.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-3,2023,Piong,Burung,Kepadatan tertinggi,4.6,individu/km²,Layang-layang batu.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-3,2023,Piong,Burung,Indeks keanekaragaman Shannon-Wiener,2.834,indeks,Diklasifikasikan dalam laporan sebagai sedang.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-3,2023,Piong,Burung,Dominansi tertinggi,15.88,%,Layang-layang batu.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Jumlah jenis burung dijumpai,35,jenis,Terdiri dalam 28 family
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Total perjumpaan individu burung,207,individu,Disebut pada kesimpulan; lampiran analisis data menyebut jumlah individu teramati 270
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Jumlah individu teramati,270,individu,Tercatat pada lampiran analisis data
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Jumlah plot pengamatan,36,plot,Luas masing-masing plot 25 Ha
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Luas total plot pengamatan,900,Ha,Total areal sampling
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Indeks Keanekaragaman (H'),2.86,indeks,Kategori keanekaragaman sedang
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Indeks Dispersion (ID),16.38,indeks,Pola sebaran kelompok
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Densitas populasi Nuri pipi merah (Geoffroyus geoffroyi),0.0522,ind/Ha,"1 individu/19,15 Ha; populasi tertinggi"
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Jumlah individu Nuri pipi merah (Geoffroyus geoffroyi),47,individu,Jenis dominan
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Jumlah individu Kipasan Flores (Rhipidura diluta),38,individu,
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w-4,2023,Doropeti,Burung,Jumlah individu Walet Sapi (Collocalia esculenta),34,individu,
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2023,Doropeti,Elang flores,Jumlah perjumpaan Elang Flores,5,perjumpaan,"Tabel 17 mencatat 5 perjumpaan pada 20, 21, dan 23 Februari 2023; setiap perjumpaan tercatat 1 individu."
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2023,Doropeti,Elang flores,Jumlah sarang baru,1,sarang,"Sarang baru di lokasi Mada Oi pada pohon Kalanggo (Duabanga moluccana), berjarak 600 m dari sarang lama."
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2023,Doropeti,Elang flores,Jumlah sarang lama,1,sarang,"Sarang lama pada pohon Terep/Benda (Artocarpus elasticus), ketinggian 30 m di atas permukaan tanah."
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2023,Doropeti,Elang flores,Luas home range,1000,Ha,"Mencakup grid 208, 209, 245, 246, 282, 283, 317, 318, 319, 352 pada ketinggian 400–547 mdpl."
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2023,Doropeti,Elang flores,Populasi Elang Flores di TN Tambora,7,individu,Terdiri dari 3 site pengamatan setelah penambahan 1 individu anakan di site Doropeti.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2023,Doropeti,Elang flores,Jumlah individu site Karya Sari tahun 2022,3,individu,Terdiri dari 1 pasang indukan dewasa dan 1 anakan berumur 26 minggu.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2023,Doropeti,Elang flores,Jumlah perjumpaan Elang Flores yang tercatat,5,perjumpaan,"Tercatat pada 20, 21, dan 23 Februari 2023; angka ini adalah jumlah catatan perjumpaan, bukan jumlah individu unik."
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2023,Doropeti,Elang flores,Jarak sarang baru dari sarang lama,600,meter,Sarang baru pada pohon Kalanggo (Duabanga moluccana) dinyatakan berjarak sekitar 600 m dari sarang lama.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2023,Doropeti,Elang flores,Luas home range site monitoring,1000,ha,Dilaporkan dalam pembahasan untuk site Karya Sari.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2023,Doropeti,Elang flores,Individu pada monitoring 2022 di site Karya Sari,3,individu,Dilaporkan terdiri atas sepasang indukan dewasa dan satu anakan berumur 26 minggu.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w,2023,Pancasila,Burung,Jumlah jenis burung teridentifikasi,32,jenis,Termasuk dalam 23 famili.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w,2023,Pancasila,Burung,Jumlah individu teramati,251,individu,Total perjumpaan burung di lokasi pengamatan.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w,2023,Pancasila,Burung,Jumlah plot pengamatan,9,plot,Luas tiap plot 25 ha.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w,2023,Pancasila,Burung,Luas total areal plot pengamatan,225,ha,"Sembilan plot, masing-masing seluas 25 ha."
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w,2023,Pancasila,Burung,Indeks Keanekaragaman (H’),3.03,indeks,Dilaporkan berkategori sedang.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w,2023,Pancasila,Burung,Indeks Dispersion (ID),5.264,indeks,Pola sebaran burung dilaporkan berkelompok.
+2023-identifikasi-dan-inventarisasi-jenis-burung-di-w,2023,Pancasila,Burung,Kepadatan Isap Madu Australia,0.151,individu/ha,"Jenis dengan dugaan kepadatan tertinggi; setara 1 individu per 6,62 ha."
+2023-inventarisasi-tumbuhan-invasif-alien-species-ias,2023,Doropeti,Tumbuhan asing invasif,Jumlah titik pengukuran,39,titik,Titik-titik yang diukur di Resort Doropeti
+2023-inventarisasi-tumbuhan-invasif-alien-species-ias,2023,Doropeti,Tumbuhan asing invasif,Jumlah jenis tumbuhan invasif teridentifikasi,9,jenis,Semua berupa tumbuhan bawah dan rumput; tidak dijumpai bentuk pohon
+2023-inventarisasi-tumbuhan-invasif-alien-species-ias,2023,Doropeti,Tumbuhan asing invasif,INP tertinggi,121.005,INP,Chromolaena odorata (Kirinyu)
+2023-inventarisasi-tumbuhan-invasif-alien-species-ias,2023,Doropeti,Tumbuhan asing invasif,INP terendah,2.309,INP,Mimosa diplotricha (Putri Malu)
+2023-inventarisasi-tumbuhan-invasif-alien-species-ias,2023,Doropeti,Tumbuhan asing invasif,Skor keinvasifan tertinggi,24,skor,Chromolaena odorata (Kirinyu)
+2023-inventarisasi-tumbuhan-invasif-alien-species-ias,2023,Doropeti,Tumbuhan asing invasif,Jumlah individu Chromolaena odorata,318,individu,Jumlah tertinggi di antara jenis yang tercatat
+2023-inventarisasi-tumbuhan-invasif-alien-species-ias,2023,Doropeti,Tumbuhan asing invasif,Jumlah individu Imperata cylindrica,115,individu,Alang-alang
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia,2023,Piong,Tumbuhan asing invasif,Jumlah plot pengamatan,76,plot,Pengamatan dilakukan pada 76 grid/plot.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia,2023,Piong,Tumbuhan asing invasif,Jenis tumbuhan IAS,20,jenis,Kesimpulan laporan menyebut 20 jenis; nama umum Jukut karukun/Rumput empritan merujuk Eragrostis amabilis.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia,2023,Piong,Tumbuhan asing invasif,Jumlah individu alang-alang,419,individu,Tercatat dalam analisis vegetasi.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia,2023,Piong,Tumbuhan asing invasif,INP alang-alang (Imperata cylindrica),86.929,nilai INP,Nilai tertinggi; tercatat pada 30 plot.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia,2023,Piong,Tumbuhan asing invasif,INP kerinyuh (Chromolaena odorata),28.462,nilai INP,Nilai tertinggi kedua; tercatat pada 18 plot.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia,2023,Piong,Tumbuhan asing invasif,INP kacang meongan (Aeschynomene americana),11.571,nilai INP,Nilai tertinggi ketiga; tercatat pada 6 plot.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,Jumlah grid/plot pengamatan,76,plot,Digunakan untuk inventarisasi IAS.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,Jumlah jenis tumbuhan teridentifikasi,38,jenis,Dari 25 famili.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,Jumlah famili tumbuhan teridentifikasi,25,famili,Hasil identifikasi 76 plot.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,Jumlah jenis IAS,20,jenis,Sesuai kesimpulan; narasi hasil menyebut 24 jenis dari 13 famili.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,INP Alang-alang (Imperata cylindrica),86.929,INP,Nilai INP tertinggi.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,INP Kerinyuh (Chromolaena odorata),28.462,INP,Nilai INP tertinggi kedua.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,INP Kacang meongan (Aeschynomene americana),11.571,INP,Nilai INP tertinggi ketiga.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,Jumlah individu Alang-alang,419,individu,Ditemukan pada 30 plot.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,Jumlah individu Kerinyuh,77,individu,Ditemukan pada 18 plot.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-2,2023,Piong,Tumbuhan asing invasif,Jumlah individu Kacang meongan,41,individu,Ditemukan pada 6 plot.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-6,2023,Doro Ncanga,Tumbuhan asing invasif,Jumlah plot/grid pengamatan,32,plot,Plot berada pada grid pengamatan yang berbeda.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-6,2023,Doro Ncanga,Tumbuhan asing invasif,Jenis tumbuhan invasif tercantum pada tabel inventarisasi,11,jenis,Tabel inventarisasi mencantumkan 11 jenis.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-6,2023,Doro Ncanga,Tumbuhan asing invasif,Jenis tercatat pada tingkat semai,10,jenis,Berdasarkan pembahasan analisis vegetasi tingkat semai.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-6,2023,Doro Ncanga,Tumbuhan asing invasif,Jenis tercatat pada tingkat pancang,6,jenis,Berdasarkan pembahasan analisis vegetasi tingkat pancang.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-6,2023,Doro Ncanga,Tumbuhan asing invasif,INP Lantana camara tingkat semai,38.46,%,Nilai pada tabel analisis vegetasi tingkat semai.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-6,2023,Doro Ncanga,Tumbuhan asing invasif,INP Imperata cylindrica tingkat semai,31.03,%,Nilai pada tabel analisis vegetasi tingkat semai.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-6,2023,Doro Ncanga,Tumbuhan asing invasif,INP Lantana camara tingkat pancang,73.04,%,Nilai pada tabel analisis vegetasi tingkat pancang.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-5,2023,Pancasila,Tumbuhan asing invasif,Jumlah jenis tumbuhan invasif teridentifikasi,5,jenis,"Teks menyebut 5 jenis; daftar menyebutkan Ageratum conyzoides, Bidens pilosa, Cyperus sp., Hyptis sp., Ischaemum sp., dan Stachtarpheta jamaicensis; tabel analisis memuat 5 jenis."
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-5,2023,Pancasila,Tumbuhan asing invasif,Jumlah grid pengamatan,10,grid,Grid berukuran 500x500 meter di Resort Pancasila.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-5,2023,Pancasila,Tumbuhan asing invasif,Jumlah individu Hyptis sp.,49,individu,"Ditemukan di 5 plot; INP 24,79; jenis paling dominan."
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-5,2023,Pancasila,Tumbuhan asing invasif,Jumlah individu Ageratum conyzoides,15,individu,"Ditemukan di 2 plot; INP 8,55; skor keinvasifan 15."
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-5,2023,Pancasila,Tumbuhan asing invasif,Jumlah individu Cyperus sp.,20,individu,"Ditemukan di 1 plot; INP 7,99; skor keinvasifan 10."
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-5,2023,Pancasila,Tumbuhan asing invasif,Jumlah individu Ischaemum sp.,21,individu,"Ditemukan di 1 plot; INP 8,29; skor keinvasifan 10."
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-5,2023,Pancasila,Tumbuhan asing invasif,Jumlah individu Bidens pilosa,1,individu,"Ditemukan di 1 plot; INP 2,34; skor keinvasifan 10."
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-5,2023,Pancasila,Tumbuhan asing invasif,Jumlah individu IAS pada petak 2x2,106,individu,Total pada tabel IAS 2x2; 10 plot.
+2023-laporan-pelaksanaan-kegiatan-monitoring-satwa-ku,2023,Oi Katupa,Elang flores,Jumlah individu Elang Flores teramati,1,ekor,"Dari 7 perjumpaan, diduga individu yang sama."
+2023-laporan-pelaksanaan-kegiatan-monitoring-satwa-ku,2023,Oi Katupa,Elang flores,Frekuensi perjumpaan Elang Flores,7,kali,Monitoring tahap pertama 2023.
+2023-laporan-pelaksanaan-kegiatan-monitoring-satwa-ku,2023,Oi Katupa,Elang flores,Perjumpaan saat soaring,5,kali,Sisanya bertengger di sekitar lokasi pengamatan.
+2023-laporan-pelaksanaan-kegiatan-monitoring-satwa-ku,2023,Oi Katupa,Elang flores,Kepadatan populasi Elang Flores,0.04,ekor/ha,Setara 4 ekor/100 ha atau 1 ekor/25 ha.
+2023-laporan-pelaksanaan-kegiatan-monitoring-satwa-ku,2023,Oi Katupa,Elang flores,Indeks Dispersi,1,indeks,Kriteria sebaran acak (ID=1).
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2023,Doro Ncanga,Rusa timor,Jumlah perjumpaan langsung,0,perjumpaan,Tidak ada rusa yang dijumpai langsung selama pengamatan.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2023,Doro Ncanga,Rusa timor,Jejak kaki dan perkiraan individu pada tabel rekapitulasi,6,pasangan jejak/individu,"Ditemukan 6 pasangan jejak: transek I sebanyak 4, transek II sebanyak 2, dan transek III sebanyak 0."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2023,Doro Ncanga,Rusa timor,Dugaan populasi minimum,6,individu,"Dugaan pada area sampling Wadu Brusu dan Pos 2 Doro Ncanga seluas 370,29 ha."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2023,Doro Ncanga,Rusa timor,Dugaan populasi maksimum,42,individu,"Bagian kesimpulan menyebut 42 individu, sedangkan tabel hasil menyebut 46 individu."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2023,Doro Ncanga,Rusa timor,Dugaan kepadatan populasi,0.0162,individu/ha,Laporan menyetarakan nilai ini dengan 1 individu per 62 ha.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2023,Doro Ncanga,Rusa timor,Lokasi perjumpaan jejak,4,lokasi,Kesimpulan LPK menyebut terdapat empat lokasi perjumpaan jejak.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-4,2023,Kawinda Toi,Tumbuhan asing invasif,Jumlah petak contoh,34,petak,32 petak berada di Hutan Pamah dan 2 petak di Padang Rumput.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-4,2023,Kawinda Toi,Tumbuhan asing invasif,Rentang elevasi petak contoh,91–515,mdpl,Lokasi petak contoh berada pada elevasi 91 sampai 515 mdpl.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-4,2023,Kawinda Toi,Tumbuhan asing invasif,Jumlah jenis tumbuhan terindikasi JAI,5,jenis,"Ditemukan Kerinyuh, Tempuh wiyang, Patikan kebo, Alang-alang, dan Tembelekan."
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-4,2023,Kawinda Toi,Tumbuhan asing invasif,INP Kerinyuh pada Hutan Pamah,31.4,%,Nilai pada tingkat pertumbuhan semai.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-4,2023,Kawinda Toi,Tumbuhan asing invasif,INP Kerinyuh pada Padang Rumput,13.59,%,Nilai pada tingkat pertumbuhan semai.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-4,2023,Kawinda Toi,Tumbuhan asing invasif,INP Alang-alang pada Padang Rumput,16.22,%,Nilai pada tingkat pertumbuhan semai.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-3,2023,Oi Katupa,Tumbuhan asing invasif,Jenis tumbuhan invasif tercatat,12,jenis,Jumlah menurut kesimpulan laporan.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-3,2023,Oi Katupa,Tumbuhan asing invasif,INP Alang-Alang Merah (Cymbopogon caesius),27.943,%,INP tertinggi pada tingkat semai dan jenis invasif.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-3,2023,Oi Katupa,Tumbuhan asing invasif,INP Alang-Alang (Imperata cylindrica),22.27,%,INP tertinggi kedua pada tingkat semai.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-3,2023,Oi Katupa,Tumbuhan asing invasif,INP Kerinyu (Chromolaena odorata),15.658,%,INP tertinggi ketiga pada tingkat semai.
+2023-inventarisasi-tumbuhan-invasive-alien-species-ia-3,2023,Oi Katupa,Tumbuhan asing invasif,Kerapatan Alang-Alang Merah (Cymbopogon caesius),8023.256,individu/ha,Nilai kerapatan pada tingkat semai dalam tabel analisis.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Jumlah perjumpaan langsung Rusa timor,4,ekor,"Pada area pengamatan pertengahan Doro Satoi dan Doro Mbolo, malam hari."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Kepadatan populasi metode King,0.033156,ekor/Ha,"Setara 1 individu per 30,16 Ha; intensitas sampling 37,1%."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Dugaan populasi Wadu Brusu,11,individu,Pendekatan visual.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Taksiran populasi minimum berdasarkan jejak kaki,5,individu,"Nk=4, Nk1=1, model Tikupadang dan Gunawan (1997)."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Taksiran populasi maksimum berdasarkan jejak kaki,44,individu,Pada area Doro Satoi dan Wadu Broso.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Indeks Dispersion,0.293,indeks,"ID<1, pola sebaran homogen/menyebar merata."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Luas areal study Doro Satoi dan pertengahan Doro Mbolo,325,Ha,Area pengamatan dan analisis.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Luas areal study Wadu Brusu,225,Ha,Area pengamatan.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Intensitas sampling,37.1,%,Pada area pengamatan 325 Ha.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Sex rasio dewasa jantan:betina,1:3,rasio,Kelas umur dewasa.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-2,2023,Doro Ncanga,Rusa timor,Komposisi kelas umur anak:muda:dewasa,0:0:4,rasio,Populasi didominasi kelas umur dewasa.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-3,2023,Pancasila,Rusa timor,Individu teramati langsung,17,individu,"Terdiri dari 4 jantan dewasa, 11 betina dewasa, dan 2 anakan; 13 individu di jalur baru dan 4 di jalur lama."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-3,2023,Pancasila,Rusa timor,Kepadatan populasi keseluruhan,0.011,individu/ha,"Setara dengan 1 individu per 89,29 ha menurut hasil laporan."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-3,2023,Pancasila,Rusa timor,Kepadatan di Jalur Pendakian Lama,0.014,individu/ha,Setara dengan 1 individu per 74 ha.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-3,2023,Pancasila,Rusa timor,Kepadatan di Jalur Pendakian Baru,0.012,individu/ha,"Setara dengan 1 individu per 84,77 ha."
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-3,2023,Pancasila,Rusa timor,Taksiran populasi berdasarkan jejak,8,individu minimum,Taksiran maksimum dilaporkan sebanyak 40 individu pada Jalur Pendakian Lama dan Jalur Sorinomo.
+2023-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker-3,2023,Pancasila,Rusa timor,Panjang total jalur pengamatan,7.59,km,Terdiri dari tiga jalur transek.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-4,2023,Kawinda Toi,Elang flores,Individu Elang flores teramati,3,individu,Terdiri atas 1 anakan dan 2 individu yang diduga indukan.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-4,2023,Kawinda Toi,Elang flores,Sarang aktif,1,sarang,Sarang aktif berada di pohon Kalanggo; anakan teramati beraktivitas di sekitar sarang.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-4,2023,Kawinda Toi,Elang flores,Estimasi wilayah jelajah,9,km²,Estimasi berdasarkan wilayah jelajah yang teramati; laporan juga mencantumkan 350 hektar pada tabel estimasi.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-4,2023,Kawinda Toi,Elang flores,Estimasi kepadatan,1,individu/3 km²,Laporan mencantumkan 3 individu pada 9 km².
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-4,2023,Kawinda Toi,Elang flores,Burung tercatat pada area berhutan,29,jenis,Jumlah baris jenis pada Tabel 8.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-4,2023,Kawinda Toi,Elang flores,Burung tercatat pada area sabana,24,jenis,Jumlah baris jenis pada Tabel 9.
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2023,Oi Katupa,Elang flores,Jumlah individu teramati,3,individu,2 individu di plot MT06 dan 1 individu di plot MT05 (kemungkinan individu sama)
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2023,Oi Katupa,Elang flores,Kepadatan populasi,0.636,individu/km2,≈ 1 individu/km2
+2023-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2023,Oi Katupa,Elang flores,Indeks dispersi,3,,Sebaran mengelompok
+2023-ground-check-verifikasi-tutupan-lahan-dan-tipe-e,2023,Doropeti,Tutupan lahan & ekosistem,Titik ground check yang berhasil disurvei,32,titik,Dari target 42 titik; titik lainnya tidak didatangi karena akses sulit dan keterbatasan waktu.
+2023-ground-check-verifikasi-tutupan-lahan-dan-tipe-e,2023,Doropeti,Tutupan lahan & ekosistem,Luas wilayah sasaran pengambilan contoh,1200,hektare,Sasaran dibagi menjadi 42 petak contoh pada 12 grid berukuran 1 × 1 km.
+2023-ground-check-verifikasi-tutupan-lahan-dan-tipe-e,2023,Doropeti,Tutupan lahan & ekosistem,Titik non-open area,27,titik,25 titik berupa hutan musim/lahan kering dan 2 titik berupa hutan hujan.
+2023-ground-check-verifikasi-tutupan-lahan-dan-tipe-e,2023,Doropeti,Tutupan lahan & ekosistem,Titik open area,5,titik,Seluruhnya terverifikasi sebagai ladang.
+2023-ground-check-verifikasi-tutupan-lahan-dan-tipe-e,2023,Doropeti,Tutupan lahan & ekosistem,Jenis tumbuhan teridentifikasi dalam rekapitulasi,26,jenis,Seluruhnya tercatat tidak dilindungi menurut P.106/2018; Dalbergia latifolia berstatus Vulnerable dan Protium javanicum Near Threatened menurut IUCN.
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,Jumlah titik ground check,17,titik,Berdasarkan hasil pengecekan lapangan
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,Open area alami savana/sabana,2,titik,Dari 17 titik ground check
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,Non open area hutan dataran rendah,15,titik,Dari 17 titik ground check
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,Open area buatan akibat aktivitas illegal manusia,0,titik,Tidak ditemukan pembukaan lahan maupun kegiatan illegal lainnya
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,Target verifikasi open area minimal,500,hektar per lokasi,Capaian target minimal 3.000 hektar pada 6 lokasi dalam kawasan TN Tambora
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,INP semai Katowi,32.36,%,Palaquium amboiense
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,INP pancang Monggo,36.34,%,Syzigium sp.
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,INP tiang Katowi,33.39,%,Palaquium amboiense
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,INP pohon Katowi,66.22,%,Palaquium amboiense
+2023-ground-check-verifikasi-tutupan-lahan-open-area--2,2023,Kawinda Toi,Tutupan lahan & ekosistem,Dominansi Katowi tingkat pohon,1817,m2/ha,"Dominansi relatif 31,05%"
+2023-ground-check-verifikasi-tutupan-lahan-open-area-,2023,Piong,Tutupan lahan & ekosistem,Titik ground check diperiksa,13,titik,Titik ditentukan dari interpretasi citra Landsat dan SPOT rekaman 2022 serta data tutupan lahan 2018.
+2023-ground-check-verifikasi-tutupan-lahan-open-area-,2023,Piong,Tutupan lahan & ekosistem,Titik savana/sabana,3,titik,Tabel hasil dan kesimpulan menyebut 3 titik; satu bagian pembahasan menyebut 6 titik open area alami.
+2023-ground-check-verifikasi-tutupan-lahan-open-area-,2023,Piong,Tutupan lahan & ekosistem,Titik hutan dataran rendah/non-open area,10,titik,Tabel hasil dan kesimpulan menyebut 10 titik; satu bagian pembahasan menyebut 7 titik non-open area.
+2023-ground-check-verifikasi-tutupan-lahan-open-area-,2023,Piong,Tutupan lahan & ekosistem,Open area buatan ditemukan,0,titik,Laporan menyatakan tidak ditemukan open area buatan akibat aktivitas manusia.
+2023-ground-check-verifikasi-tutupan-lahan-open-area-,2023,Piong,Tutupan lahan & ekosistem,INP tertinggi tingkat semai,40.47,INP,"Alang-alang (Imperata cylindrica), menurut kesimpulan laporan."
+2023-ground-check-verifikasi-tutupan-lahan-open-area-,2023,Piong,Tutupan lahan & ekosistem,INP tertinggi tingkat pancang,58.18,INP,Sori (Acmena acuminatissima).
+2023-ground-check-verifikasi-tutupan-lahan-open-area-,2023,Piong,Tutupan lahan & ekosistem,INP tertinggi tingkat tiang,35.42,INP,Sori (Acmena acuminatissima) dan Sarume Maju (Phyllanthus acidus).
+2023-ground-check-verifikasi-tutupan-lahan-open-area-,2023,Piong,Tutupan lahan & ekosistem,INP tertinggi tingkat pohon,35.42,INP,"Kerano (Ficus variegate), menurut uraian pembahasan dan kesimpulan."
+2023-ground-check-verifikasi-tutupan-lahan-open-area--3,2023,Doro Ncanga,Tutupan lahan & ekosistem,Jumlah titik ground check,31,titik,Titik ditentukan berdasarkan interpretasi citra Landsat dan SPOT rekaman 2022 serta data tutupan lahan TN Tambora 2021.
+2023-ground-check-verifikasi-tutupan-lahan-open-area--3,2023,Doro Ncanga,Tutupan lahan & ekosistem,Non-open area,15,titik,Hasil ground check berupa hutan dataran rendah.
+2023-ground-check-verifikasi-tutupan-lahan-open-area--3,2023,Doro Ncanga,Tutupan lahan & ekosistem,Open area buatan,10,titik,"Berupa areal pertanian, terutama di Dusun So Tompo."
+2023-ground-check-verifikasi-tutupan-lahan-open-area--3,2023,Doro Ncanga,Tutupan lahan & ekosistem,Open area alami,6,titik,Berupa savana atau semak belukar.
+2023-ground-check-verifikasi-tutupan-lahan-open-area--3,2023,Doro Ncanga,Tutupan lahan & ekosistem,INP tertinggi tingkat semai,39.51,INP,Rumput Biasa.
+2023-ground-check-verifikasi-tutupan-lahan-open-area--3,2023,Doro Ncanga,Tutupan lahan & ekosistem,INP tertinggi tingkat pancang,22.31,INP,Loka (Euphorbia hirta).
+2023-ground-check-verifikasi-tutupan-lahan-open-area--3,2023,Doro Ncanga,Tutupan lahan & ekosistem,INP tertinggi tingkat tiang,47.14,INP,Luhu (Schoutenia ovate).
+2023-ground-check-verifikasi-tutupan-lahan-open-area--3,2023,Doro Ncanga,Tutupan lahan & ekosistem,INP tertinggi tingkat pohon,53.14,INP,"Pulai (Alstonia schollaris), sebagaimana disebut dalam laporan."
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Jumlah titik lokasi ground check hasil interpretasi,13,titik,Berdasarkan interpretasi citra Landsat dan SPOT 2022 serta data tutupan lahan 2018
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Jumlah titik ground check yang dicek,3,titik,"Titik R6-05, R6-06, R6-07 di Jalur Sorinomo"
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Jumlah petak contoh analisis vegetasi,3,petak,"Tingkat semai, pancang, tiang, pohon"
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Target verifikasi open area minimal,500,Hektar,Per lokasi pelaksanaan kegiatan
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Capaian target minimal keseluruhan,3000,Hektar,Pada 6 lokasi pelaksanaan kegiatan dalam kawasan TN Tambora
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,INP semai tertinggi (Paku Janga),55.83,,Tingkat semai
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,INP pancang tertinggi (Kabaho Kafa/Melastoma sp.),49.0,,Tingkat pancang
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,INP tiang tertinggi (Danta Dolo/Homalanthus giganteus),116.67,,Tingkat tiang
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,INP pohon tertinggi (Cemara/Casuarina junghuhniana),99.53,,Tingkat pohon
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Dominansi Cemara (Casuarina junghuhniana),50,m2/ha,"Dominansi relatif 49,53%"
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Kerapatan relatif semai Paku Janga,37.08,%,
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Kerapatan relatif pancang Tride Bura (Lantana camara),28,%,
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Kerapatan relatif tiang Danta Dolo (Homalanthus giganteus),66.67,%,
+2023-groundcheck-verifikasi-tutupan-lahan-open-area-d,2023,Pancasila,Tutupan lahan & ekosistem,Kerapatan relatif pohon masing-masing jenis,25.0,%,"Cemara, Danta Dolo, Kabaho Kafa, Na'a"
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2024,Oi Katupa,Elang flores,Jumlah individu teramati,2,individu,Jumlah individu yang dijumpai pada monitoring tahun 2024.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2024,Oi Katupa,Elang flores,Jumlah perjumpaan,42,kali,Jumlah perjumpaan yang tercantum dalam rekapitulasi kegiatan dan kesimpulan laporan.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2024,Oi Katupa,Elang flores,Kepadatan populasi,0.00571,ekor/ha,"Setara dengan 5,71 ekor per 1.000 ha atau 1 ekor per 200 ha."
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2024,Oi Katupa,Elang flores,Indeks dispersi,2,indeks,Termasuk kategori sebaran kelompok karena ID > 1.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k,2024,Oi Katupa,Elang flores,Titik pengamatan,3,titik,Pengamatan dilakukan dari tiga titik pada site.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-3,2024,Doro Ncanga,Tutupan lahan & ekosistem,Titik ground check berhasil diperiksa,45,titik,Dari 73 titik yang direncanakan.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-3,2024,Doro Ncanga,Tutupan lahan & ekosistem,Titik diklasifikasikan sebagai non-open area,44,titik,"Mencakup tutupan semak, savana/padang rumput, dan tipe tutupan lainnya."
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-3,2024,Doro Ncanga,Tutupan lahan & ekosistem,Titik diklasifikasikan sebagai open area,1,titik,Berada di So Tompo; tercatat sebagai tanaman campuran dan ekosistem ladang.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-3,2024,Doro Ncanga,Tutupan lahan & ekosistem,Luas tutupan lahan yang berhasil diverifikasi,43,hektar,Angka yang dicantumkan pada kesimpulan laporan.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-3,2024,Doro Ncanga,Tutupan lahan & ekosistem,Jenis tumbuhan tingkat semai di hutan pamah,35,jenis,Sebanyak 25 jenis diidentifikasi hingga tingkat spesies; 10 lainnya berdasarkan nama lokal atau ciri khas.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-3,2024,Doro Ncanga,Tutupan lahan & ekosistem,Jenis tumbuhan tingkat semai di savana/padang rumput,32,jenis,Sebanyak 15 jenis diidentifikasi hingga tingkat spesies; 17 lainnya berdasarkan nama lokal atau ciri khas.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2024,Kawinda Toi,Elang flores,Kepadatan populasi Elang Flores,1,ekor/31.250 ha,Hasil analisis yang dilaporkan.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2024,Kawinda Toi,Elang flores,Indeks dispersi,2,ID,Termasuk kriteria sebaran kelompok (ID>1).
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2024,Kawinda Toi,Elang flores,Perjumpaan langsung Elang Flores,20,kali,Angka pada kesimpulan dan rekapitulasi laporan.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-2,2024,Kawinda Toi,Elang flores,Individu Elang Flores dijumpai,2,individu,Rekapitulasi kegiatan monitoring tahun 2024.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2024,Doropeti,Elang flores,Dugaan populasi Elang Flores,3,individu,Laporan menyebut sepasang induk dan satu anakan; narasi hasil juga menyebut dua individu dewasa teramati bersamaan.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2024,Doropeti,Elang flores,Kepadatan populasi,0.012,individu/ha,Laporan juga menyajikan nilai 3 individu/250 ha.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2024,Doropeti,Elang flores,Anakan di sarang,1,individu,Anakan diperkirakan berumur sekitar satu bulan.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2024,Doropeti,Elang flores,Aktivitas meninggalkan pohon sarang dan bertengger di pohon lain,53,%,Persentase dari total aktivitas harian yang teramati.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2024,Doropeti,Elang flores,Aktivitas berada di pohon sarang,34,%,Persentase dari total aktivitas harian yang teramati.
+2024-monitoring-satwa-kunci-elang-flores-di-wilayah-k-3,2024,Doropeti,Elang flores,Aktivitas terbang mencari makan,13,%,Persentase dari total aktivitas harian yang teramati.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-4,2024,Doropeti,Tutupan lahan & ekosistem,Titik ground check yang berhasil didatangi,25,titik,Dari target 40 titik; sebagian tidak tercapai karena akses sulit dan keterbatasan waktu.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-4,2024,Doropeti,Tutupan lahan & ekosistem,Kategori open area yang ditemukan,0,kategori,Seluruh 25 titik diklasifikasikan sebagai non open area.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-4,2024,Doropeti,Tutupan lahan & ekosistem,Tipe ekosistem yang dijumpai,5,tipe,"Hutan Musim/Kering, Hutan Dataran Rendah, Sonokeling, Hutan Tropis Dataran Rendah, dan Hutan Pegunungan Bawah."
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-4,2024,Doropeti,Tutupan lahan & ekosistem,Rentang ketinggian pengamatan,"124,8–1.232,50",mdpl,Rentang ketinggian lokasi pengamatan yang dilaporkan.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-2,2024,Kawinda Toi,Tutupan lahan & ekosistem,Grid yang di-ground check,12,grid,Hasil klasifikasi tutupan lahan dan tipe ekosistem disajikan untuk 12 grid.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-2,2024,Kawinda Toi,Tutupan lahan & ekosistem,Grid tanpa open area,12,grid,Laporan menyatakan tidak dijumpai lokasi open area pada grid/lokasi yang diperiksa.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-2,2024,Kawinda Toi,Tutupan lahan & ekosistem,Tipe ekosistem teridentifikasi,3,tipe,"Hutan pamah dataran rendah, hutan pegunungan bawah, dan savana/padang rumput."
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-2,2024,Kawinda Toi,Tutupan lahan & ekosistem,Jenis tumbuhan pada tingkat pohon,25,jenis,Jumlah jenis menurut uraian analisis vegetasi.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-2,2024,Kawinda Toi,Tutupan lahan & ekosistem,Jenis tumbuhan pada tingkat pancang,25,jenis,Jumlah jenis menurut uraian analisis vegetasi.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-2,2024,Kawinda Toi,Tutupan lahan & ekosistem,Jenis tumbuhan pada tingkat tiang,14,jenis,Jumlah jenis menurut uraian analisis vegetasi.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-2,2024,Kawinda Toi,Tutupan lahan & ekosistem,INP tertinggi tingkat pohon,70.84,%,Sori Bura (ditulis Zyzigium racemosum pada tabel).
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-2,2024,Kawinda Toi,Tutupan lahan & ekosistem,Luas savana di wilayah kerja Resor Kawinda Toi,42,%,Persentase luas menurut uraian laporan.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek,2024,Oi Katupa,Tutupan lahan & ekosistem,Titik pengamatan ground check,12,titik,Hasil inventarisasi non-terestrial dan pengecekan lapangan.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek,2024,Oi Katupa,Tutupan lahan & ekosistem,Titik bertipe ekosistem savana/sabana,5,titik,Kesimpulan laporan menyebut 5 titik; tabel hasil mencatat lima titik savana.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek,2024,Oi Katupa,Tutupan lahan & ekosistem,Titik bertipe ekosistem hutan dataran rendah,7,titik,Dilaporkan sebagai non-open area.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek,2024,Oi Katupa,Tutupan lahan & ekosistem,Open area buatan yang ditemukan,0,titik,Tidak ditemukan open area buatan akibat aktivitas ilegal manusia.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek,2024,Oi Katupa,Tutupan lahan & ekosistem,Alang-alang pada tingkat semai,313,rumpun,"Dilaporkan ditemukan pada empat plot; kerapatan relatif 39,67%."
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek,2024,Oi Katupa,Tutupan lahan & ekosistem,INP tertinggi tingkat semai,40.236,INP,Alang-alang (Imperata cylindrica).
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek,2024,Oi Katupa,Tutupan lahan & ekosistem,Jumlah personel pelaksana,5,orang,Sesuai daftar pelaksana kegiatan.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-5,2024,Pancasila,Tutupan lahan & ekosistem,Grid terverifikasi,12,grid 1×1 km²,Simpulan laporan menyebut 12 grid berhasil diverifikasi.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-5,2024,Pancasila,Tutupan lahan & ekosistem,Luas keterwakilan wilayah terverifikasi,1200,hektare,Luas berdasarkan capaian ground check yang dilaporkan.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-5,2024,Pancasila,Tutupan lahan & ekosistem,Lokasi berstatus Non Open Area,12,grid,Seluruh lokasi ground check dilaporkan berstatus Non Open Area.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-5,2024,Pancasila,Tutupan lahan & ekosistem,Tipe ekosistem teridentifikasi,3,tipe,"Hutan Pegunungan Atas, Savana, dan Sub-alpin."
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-5,2024,Pancasila,Tutupan lahan & ekosistem,Tumbuhan teridentifikasi,23,jenis,Terdiri dari 14 famili.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-5,2024,Pancasila,Tutupan lahan & ekosistem,Jenis burung teramati,8,jenis,Tercatat dari 8 famili.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-5,2024,Pancasila,Tutupan lahan & ekosistem,INP tertinggi tingkat pohon,244.013,%,Cemara gunung (Casuarina junghuhniana) pada ekosistem tegakan Cemara gunung.
+2024-ground-check-tutupan-lahan-open-area-dan-tipe-ek-5,2024,Pancasila,Tutupan lahan & ekosistem,INP tertinggi tingkat semai di Sub-alpin,61.2,%,Alang-alang (Imperata cylindrica).
+2024-identifikasi-jenis-jumlah-dan-sebaran-pohon-sara,2024,Oi Katupa; Kawinda Toi,Lebah madu hutan,Lokasi sarang Uma Ani yang tercatat,11,lokasi,Laporan menyebut sekitar sebelas lokasi sarang.
+2024-identifikasi-jenis-jumlah-dan-sebaran-pohon-sara,2024,Oi Katupa; Kawinda Toi,Lebah madu hutan,Lokasi sebaran,3,lokasi,Laporan menyebut sebaran berada di tiga lokasi berbeda.
+2024-identifikasi-jenis-jumlah-dan-sebaran-pohon-sara,2024,Oi Katupa; Kawinda Toi,Lebah madu hutan,Panjang jalur pengamatan,20.95,km,Tercantum pada tally sheet pengamatan vegetasi.
+2024-identifikasi-jenis-jumlah-dan-sebaran-pohon-sara,2024,Oi Katupa; Kawinda Toi,Lebah madu hutan,Jumlah tally tingkat pohon,139,individu,Jumlah pada tally sheet pengamatan tingkat pohon.
+2024-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2024,Doro Ncanga,Rusa timor,Rusa teramati langsung,3,individu,Teramati saat malam hari di Savanna Doro Mbolo.
+2024-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2024,Doro Ncanga,Rusa timor,Estimasi populasi berdasarkan jejak,10,individu minimum,"Estimasi maksimum 100 individu pada area sampel 632,2 ha."
+2024-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2024,Doro Ncanga,Rusa timor,Kepadatan dugaan berdasarkan jejak,0.0163,individu/ha,"Laporan juga menyatakan setara dengan 1 individu per 63,22 ha."
+2024-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2024,Doro Ncanga,Rusa timor,Kepadatan berdasarkan perjumpaan langsung,0.285,individu/ha,Nilai sebagaimana dicantumkan dalam laporan.
+2024-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2024,Doro Ncanga,Rusa timor,Jumlah jejak kaki tercatat,9,jejak,Rekapitulasi pada area Mata Air/Pos Bayangan dan Doro Toi/Doro Mbolo.
+2024-monitoring-satwa-kunci-rusa-timor-di-wilayah-ker,2024,Doro Ncanga,Rusa timor,Onggokan feses,35,onggokan,6 di Pos Bayangan dan 29 di Doro Toi.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat-2,2024,Doro Ncanga; Doropeti,Burung,Jenis burung teramati,12,jenis,Ditemukan di empat titik pengamatan.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat-2,2024,Doro Ncanga; Doropeti,Burung,Jenis burung dilindungi,1,jenis,Elang Flores (Nisaetus floris).
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat-2,2024,Doro Ncanga; Doropeti,Burung,Frekuensi keterpadatan Nuri Pipi Merah,6,catatan,"Kelimpahan relatif 20%, tertinggi dalam tabel."
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat-2,2024,Doro Ncanga; Doropeti,Burung,Jenis tumbuhan ditemukan,57,jenis,Hasil analisis vegetasi yang dilaporkan.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat-2,2024,Doro Ncanga; Doropeti,Burung,Pohon yang dinilai sebagai penarik burung,12,jenis,Empat berkriteria sangat baik dan delapan berkriteria baik.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat-2,2024,Doro Ncanga; Doropeti,Burung,Skor lokasi Timur Sangtuari,69,skor,Nilai pada tabel skoring; bagian kesimpulan laporan menyebut 67.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat-2,2024,Doro Ncanga; Doropeti,Burung,Skor lokasi Dorowila/Karyasari,54,skor,Nilai pada tabel skoring dan disebut sebagai lokasi dengan skor tertinggi kedua.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat,2024,Oi Katupa; Kawinda Toi; Piong,Burung,Jenis burung ditemukan,18,jenis,Dilaporkan dari empat titik pengamatan.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat,2024,Oi Katupa; Kawinda Toi; Piong,Burung,Jenis burung dilindungi,3,jenis,"Elang Flores, junai emas, dan gosong kaki merah."
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat,2024,Oi Katupa; Kawinda Toi; Piong,Burung,Jenis pohon ditemukan,29,jenis,20 jenis dinilai berfungsi sangat baik dan 9 jenis berfungsi baik sebagai penarik burung.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat,2024,Oi Katupa; Kawinda Toi; Piong,Burung,Komposisi guild pemakan serangga,33,%,Kelompok guild terbesar menurut laporan.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat,2024,Oi Katupa; Kawinda Toi; Piong,Burung,Komposisi guild pemakan buah,25,%,Menurut tabel komposisi guild.
+2024-identifikasi-dan-kajian-lokasi-pelepasliaran-sat,2024,Oi Katupa; Kawinda Toi; Piong,Burung,Komposisi guild pemakan biji,21,%,Menurut tabel komposisi guild.
+2025-fasilitasi-perizinan-air-non-komersial-di-desa-k,2025,Kawinda Toi,Mata air,Jumlah personel pelaksana,6,orang,Tenaga fungsional lingkup Balai TN Tambora.
+2025-fasilitasi-perizinan-air-non-komersial-di-desa-k,2025,Kawinda Toi,Mata air,Debit sumber Sungai Oi Marai,3210.85,liter/detik,Diukur dengan metode apung.
+2025-fasilitasi-perizinan-air-non-komersial-di-desa-k,2025,Kawinda Toi,Mata air,Debit air dimanfaatkan dari Oi Marai,7.63,liter/detik,Pengukuran pada bak akhir.
+2025-fasilitasi-perizinan-air-non-komersial-di-desa-k,2025,Kawinda Toi,Mata air,Debit sumber Sori Laju,13.98,liter/detik,Diukur dengan metode apung.
+2025-fasilitasi-perizinan-air-non-komersial-di-desa-k,2025,Kawinda Toi,Mata air,Debit air dimanfaatkan dari Sori Laju,2.12,liter/detik,Pengukuran pada bak akhir.
+2025-fasilitasi-perizinan-air-non-komersial-di-desa-k,2025,Kawinda Toi,Mata air,Debit sumber Sori Nae,179,liter/detik,Tabel hasil kegiatan mencatat pemanfaatan 4%; laporan menyebut sumber ini sudah tidak dimanfaatkan masyarakat saat kegiatan.
+2025-fasilitasi-perizinan-air-non-komersial-di-desa-k,2025,Kawinda Toi,Mata air,Ketersediaan air tahunan yang dialirkan ke permukiman,541472731,liter/tahun,Total daya dukung dari tiga sungai.
+2025-fasilitasi-perizinan-air-non-komersial-di-desa-k,2025,Kawinda Toi,Mata air,Rata-rata kebutuhan air tahunan masyarakat,32912485,liter/tahun,Rata-rata prediksi kebutuhan tahun 2025–2029.
+2025-inventarisasi-dan-verifikasi-kehati-tinggi-dalam,2025,Doro Ncanga,Tutupan lahan & ekosistem,Titik site inventarisasi kehati tinggi,15,titik,Disebut berada pada zona rimba dan zona pemanfaatan.
+2025-inventarisasi-dan-verifikasi-kehati-tinggi-dalam,2025,Doro Ncanga,Tutupan lahan & ekosistem,Jenis tumbuhan tercatat,58,jenis,Terdiri dari berbagai tingkat tumbuhan dan 31 famili.
+2025-inventarisasi-dan-verifikasi-kehati-tinggi-dalam,2025,Doro Ncanga,Tutupan lahan & ekosistem,Famili tumbuhan,31,famili,Berdasarkan hasil inventarisasi.
+2025-inventarisasi-dan-verifikasi-kehati-tinggi-dalam,2025,Doro Ncanga,Tutupan lahan & ekosistem,Jenis burung,23,jenis,Jumlah yang disebut dalam narasi laporan; tabel satwa memuat daftar jenis.
+2025-inventarisasi-dan-verifikasi-kehati-tinggi-dalam,2025,Doro Ncanga,Tutupan lahan & ekosistem,Jenis mamalia,3,jenis,"Babi hutan, rusa timor, dan monyet ekor panjang."
+2025-inventarisasi-dan-verifikasi-kehati-tinggi-dalam,2025,Doro Ncanga,Tutupan lahan & ekosistem,Indeks keanekaragaman tumbuhan,H’ > 3,indeks,"Dilaporkan tinggi pada strata pohon, tiang, pancang, dan semai."
+2025-monitoring-satwa-kunci-elang-flores,2025,Oi Katupa,Elang flores,Perjumpaan Elang Flores,0,individu teramati,Tidak ditemukan perjumpaan atau aktivitas Elang Flores selama monitoring.
+2025-monitoring-satwa-kunci-elang-flores,2025,Oi Katupa,Elang flores,Plot pengamatan,6,plot,Setiap plot beradius 500 meter dan diamati selama 15 menit.
+2025-monitoring-satwa-kunci-elang-flores,2025,Oi Katupa,Elang flores,Panjang jalur pengamatan,9.27,km,Jalur menyusuri Sungai Oi Katupa menuju Mada Oi To’i.
+2025-monitoring-satwa-kunci-elang-flores,2025,Oi Katupa,Elang flores,Luas total area pengamatan,471,ha,"Laporan menyebut luas setiap plot 78,5 ha."
+2025-monitoring-satwa-kunci-elang-flores,2025,Oi Katupa,Elang flores,Perjumpaan Elang Bondol,4,catatan perjumpaan,Tercatat empat kali pada 30 Juli; setiap catatan menyebut satu individu.
+2025-penghitungan-stok-karbon-di-taman-nasional-tambo,2025,Doro Ncanga; Kawinda Toi,Stok karbon,Luas kawasan yang disiapkan untuk implementasi Nilai Ekonomi Karbon,6500,hektar,"Target indikator Perjanjian Kinerja 2025 pascarevisi, bukan luas hasil pengukuran kegiatan."
+2025-penghitungan-stok-karbon-di-taman-nasional-tambo,2025,Doro Ncanga; Kawinda Toi,Stok karbon,Volume tegakan,151.15186221936887,m3,Nilai total yang tercantum pada ringkasan analisis.
+2025-penghitungan-stok-karbon-di-taman-nasional-tambo,2025,Doro Ncanga; Kawinda Toi,Stok karbon,Biomassa tegakan,972.014568459696,ton/ha,Nilai total yang tercantum pada ringkasan analisis.
+2025-penghitungan-stok-karbon-di-taman-nasional-tambo,2025,Doro Ncanga; Kawinda Toi,Stok karbon,CAP,456.8468471760571,ton/ha,Nilai total yang tercantum pada ringkasan analisis.
+2025-penghitungan-stok-karbon-di-taman-nasional-tambo,2025,Doro Ncanga; Kawinda Toi,Stok karbon,Biomassa BP,324.004856153232,ton/ha,Nilai total yang tercantum pada ringkasan analisis.
+2025-penghitungan-stok-karbon-di-taman-nasional-tambo,2025,Doro Ncanga; Kawinda Toi,Stok karbon,CBP,152.28228239201908,ton/ha,Nilai total yang tercantum pada ringkasan analisis.
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-2,2025,Kawinda Toi,Stok karbon,Jumlah personel pelaksana,5,orang,Berdasarkan Tabel 1 dan rincian biaya 5 org x 5 hr
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-2,2025,Kawinda Toi,Stok karbon,Jumlah transek,2,transek,Transek 1 di Sori Nae dan transek 2 di Sori Laju
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-2,2025,Kawinda Toi,Stok karbon,Jumlah plot permanen,12,plot,Plot KT11-KT16 dan KT21-KT26; enam plot per transek
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-2,2025,Kawinda Toi,Stok karbon,Radius plot,10,meter,Plot lingkaran untuk pengukuran pohon dan tiang
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-2,2025,Kawinda Toi,Stok karbon,Jarak antar plot,50,meter,Jarak antar plot dalam satu transek
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-2,2025,Kawinda Toi,Stok karbon,Kedalaman sampel tanah,0-30,cm,Dibagi interval 5 cm
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-2,2025,Kawinda Toi,Stok karbon,Suhu pengeringan sampel,60,°C,Sampel dikeringkan sampai kering tanur
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-2,2025,Kawinda Toi,Stok karbon,DBH terbesar tercatat,70.06,cm,Jenis Monggo Bura di Sori Laju
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-3,2025,Doro Ncanga,Stok karbon,Jumlah transek,2,transek,Masing-masing transek terdiri atas enam plot sampel.
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-3,2025,Doro Ncanga,Stok karbon,Jumlah plot sampel,12,plot,Plot DC11–DC16 dan DC21–DC26.
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-3,2025,Doro Ncanga,Stok karbon,Cadangan karbon total,413.4269,ton/ha,Estimasi untuk ekosistem hutan pamah/daratan rendah.
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-3,2025,Doro Ncanga,Stok karbon,Cadangan karbon di atas permukaan tanah (CAP),121.0522,ton/ha,Nilai rerata per transek.
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-3,2025,Doro Ncanga,Stok karbon,Cadangan karbon di bawah permukaan tanah (CBP),40.3507,ton/ha,Nilai rerata per transek.
+2025-pengumpulan-data-penghitungan-stok-karbon-di-wil-3,2025,Doro Ncanga,Stok karbon,Cadangan karbon tanah,230.4538,ton/ha,Nilai rerata dari dua transek.
+2026-monitoring-satwa-kunci-elang-flores-site-monitor-2,2026,Doropeti,Elang flores,Individu Elang Flores teramati,3,individu,"Terdiri atas 1 jantan, 1 betina, dan 1 anakan."
+2026-monitoring-satwa-kunci-elang-flores-site-monitor-2,2026,Doropeti,Elang flores,Kejadian perilaku tercatat,338,kejadian,Dicatat selama pengamatan 23–25 Juni 2026.
+2026-monitoring-satwa-kunci-elang-flores-site-monitor-2,2026,Doropeti,Elang flores,Vokalisasi,123,kejadian,"Kategori perilaku terbanyak, 36,39% dari seluruh kejadian."
+2026-monitoring-satwa-kunci-elang-flores-site-monitor-2,2026,Doropeti,Elang flores,Perilaku latihan terbang anakan,10,kejadian,Dilaporkan sebagai fledging; anakan masih berada di sekitar sarang.
+2026-monitoring-satwa-kunci-elang-flores-site-monitor-2,2026,Doropeti,Elang flores,Pemberian pakan kepada anakan,4,kejadian,Food pass oleh induk jantan dan/atau betina.
+2026-monitoring-satwa-kunci-elang-flores-site-monitor-2,2026,Doropeti,Elang flores,Jarak sarang aktif dari batas perambahan,100,meter,Perkiraan jarak yang dicantumkan dalam laporan.
+2026-monitoring-satwa-kunci-elang-flores-site-monitor,2026,Kawinda Toi,Elang flores,Jumlah perjumpaan Elang flores,12,kali,Tercatat selama pengamatan; laporan menyebut perjumpaan terjadi pada 17 Juni 2026.
+2026-monitoring-satwa-kunci-elang-flores-site-monitor,2026,Kawinda Toi,Elang flores,Jumlah individu Elang flores,2,individu,Rekapitulasi kegiatan 2026 mencatat 2 individu; dua ekor juga teramati terbang bersamaan.
+2026-monitoring-satwa-kunci-elang-flores-site-monitor,2026,Kawinda Toi,Elang flores,Kepadatan populasi,0.008,ekor/250 ha,Laporan juga menyatakan 8 ekor/250.000 ha atau 1 ekor/31.250 ha.
+2026-monitoring-satwa-kunci-elang-flores-site-monitor,2026,Kawinda Toi,Elang flores,Indeks dispersi,2,indeks,Dikategorikan sebagai pola sebaran mengelompok.
+2026-monitoring-satwa-kunci-elang-flores-site-monitor,2026,Kawinda Toi,Elang flores,Jumlah plot pengamatan,10,plot,Luas setiap plot 25 ha; luas area studi yang digunakan dalam penghitungan 250 ha.
+2026-pengumpulan-data-dan-informasi-terkait-review-de,2026,,Wisata & desain tapak,Jumlah lokasi ODTWA yang didata,36,lokasi,Tabel ODTWA memuat 36 lokasi.
+2026-pengumpulan-data-dan-informasi-terkait-review-de,2026,,Wisata & desain tapak,Jumlah sarana dan prasarana yang diinventarisasi,39,unit,Tabel sarana dan prasarana memuat 39 entri.
+2026-pengumpulan-data-dan-informasi-terkait-review-de,2026,,Wisata & desain tapak,Lokasi ODTWA dengan aktivitas camping,17,lokasi,Jumlah sebagaimana dilaporkan dalam pembahasan.
+2026-pengumpulan-data-dan-informasi-terkait-review-de,2026,,Wisata & desain tapak,Lokasi ODTWA dengan aktivitas tracking,11,lokasi,Jumlah sebagaimana dilaporkan dalam pembahasan.
+2026-pengumpulan-data-dan-informasi-terkait-review-de,2026,,Wisata & desain tapak,Jumlah personel pelaksana,5,orang,Tercantum dalam daftar tim pelaksana.
